@@ -4,12 +4,12 @@ officialpulseclub,Tier 1,0fficial Pulse Club,Hobbies & Special Interest,Campus-w
 hmcc_atx,Tier 1,Access Christian Fellowship,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 activeminds.ut,Tier 1,Active Minds at The University of Texas at Austin,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 actscollegefellowship,Tier 1,Acts College Fellowship,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
-txactuarial,Tier 1,Actuarial Science Club,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
+ut_actuarial,Tier 1,Actuarial Science Club,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
 adapttexas,Tier 1,ADAPT Texas,Engineering & Energy,Cockrell School of Engineering (by discipline),Open to all
 acf.atx,Tier 1,Adventist Christian Fellowship at UT Austin,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 ascend_texas,Tier 1,Aerial Solutions for Combatting Emergencies and Natural Disasters,Engineering & Energy,Cockrell School of Engineering (by discipline),Likely open (not stated)
 texas_aso,Tier 1,African Students Organization,Cultural & Identity,Campus-wide / No specific school,Open to all
-aiesec_in_austin,Tier 1,AIESEC in Austin,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
+lc.austintx,Tier 1,AIESEC in Austin,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
 almaoncampusatx,Tier 1,Alliance on Latinx Mental-Health Awareness,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 asap_utaustin,Tier 1,Allied Scholars for Animal Protection at The University of Texas at Austin,"Advocacy, Politics & Policy",Campus-wide / No specific school,Major / program focused (often open)
 texasaed,Tier 1,Alpha Epsilon Delta - Pre-Health Honor Society,Honor Society,College of Natural Sciences,Selective (application / GPA / invitation)
@@ -73,7 +73,7 @@ kesemutaustin,Tier 1,Camp Kesem at the University of Texas at Austin,Service & V
 utcec,Tier 1,Campus Environmental Center,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 utexascee,Tier 1,Campus Events + Entertainment,Campus Programming & Events,Campus-wide / No specific school,Open to all
 catalystcsg,Tier 1,Catalyst Consulting & Strategy Group,Consulting,McCombs School of Business,Likely open (not stated)
-utcelebration.ya,Tier 1,Celebration Young Adults at the University of Texas at Austin,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
+celebration.cya,Tier 1,Celebration Young Adults at the University of Texas at Austin,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 cas.texas,Tier 1,Central Asian Society,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
 texasmun,Tier 1,Central Texas Model United Nations,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 chikappaphi,Tier 1,Chi Kappa Phi Service Society,Service & Volunteering,Campus-wide / No specific school,Major / program focused (often open)
@@ -89,8 +89,8 @@ utedcouncil,Tier 1,College of Education Council,University Office / Program,Coll
 texascr,Tier 1,College Republicans at Texas,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 colorstackutaustin,Tier 1,ColorStack at UT Austin,"Tech, Computing & AI",College of Natural Sciences (by discipline),Likely open (not stated)
 ut_collective,Tier 1,Community Engagement Collective,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
-cyctexas,Tier 1,Consult Your Community- Texas Chapter,Consulting,McCombs School of Business,Likely open (not stated)
-utcookemhorns,Tier 1,Cook 'Em Horns,Hobbies & Special Interest,Campus-wide / No specific school,Open to all
+texas_cyc,Tier 1,Consult Your Community- Texas Chapter,Consulting,McCombs School of Business,Likely open (not stated)
+cookem_horns,Tier 1,Cook 'Em Horns,Hobbies & Special Interest,Campus-wide / No specific school,Open to all
 texascriminallaw,Tier 1,Criminal Law Association,Law & Pre-Law,Campus-wide / No specific school,Likely open (not stated)
 crisis_aidnetwork,Tier 1,Crisis Aid Network,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 crossroads.atx,Tier 1,Crossroads,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
@@ -140,9 +140,9 @@ texas.gmb,Tier 1,Global Medical Brigades,Pre-Health & Healthcare,College of Natu
 gmmaustin,Tier 1,Global Medical Missions Alliance,Pre-Health & Healthcare,College of Natural Sciences,Likely open (not stated)
 gmtlonghorn,Tier 1,Global Medical Training,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 gscatut,Tier 1,GSC Student Leadership Committee,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
-utexas.habitat,Tier 1,Habitat for Humanity Campus Chapter,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
+texashabitat,Tier 1,Habitat for Humanity Campus Chapter,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 hookemhacks,Tier 1,Hack AI,"Tech, Computing & AI",College of Natural Sciences,Selective (application / tryout)
-haven_students,Tier 1,Haven Student Fellowship,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
+havenatx,Tier 1,Haven Student Fellowship,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 ut.hsc,Tier 1,Health and Society Collective,"Health, Wellness & Awareness",Campus-wide / No specific school,Open to all
 hcmptexas,Tier 1,Health Careers Mentorship Program,Pre-Health & Healthcare,College of Natural Sciences,Major / program focused (often open)
 texashss,Tier 1,Health Science Honors Council,Student Government / Councils,College of Natural Sciences,Major / program focused (often open)
@@ -150,7 +150,7 @@ healthyhorns,Tier 1,Healthyhorns,University Office / Program,Campus-wide / No sp
 heartclub_ut,Tier 1,Heart Club @ UT,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 heartfulness,Tier 1,Heartfulness Meditation Group,"Health, Wellness & Awareness",Campus-wide / No specific school,Open to all
 h4haustin,Tier 1,Hearts for the Homeless Austin,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
-helping.hornz,Tier 1,Helping Hornz,Service & Volunteering,Campus-wide / No specific school,Major / program focused (often open)
+helpinghornz,Tier 1,Helping Hornz,Service & Volunteering,Campus-wide / No specific school,Major / program focused (often open)
 hsweattcenter,Tier 1,Heman Sweatt Center for Collegiate Males,University Office / Program,Campus-wide / No specific school,N/A (office or program)
 hillhousestudycenter,Tier 1,Hill House Students,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 longhornhsa,Tier 1,Hindu Students Association,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
@@ -176,7 +176,7 @@ permiasaustin,Tier 1,Indonesian Student Association (PERMIAS),Cultural & Identit
 texasiusc,Tier 1,Informatics Undergraduate Student Council,Student Government / Councils,School of Information,Likely open (not stated)
 tx.isss,Tier 1,Information and Systems Security Society (ISSS),"Tech, Computing & AI",College of Education,Likely open (not stated)
 ieee.ut,Tier 1,Institute of Electrical & Electronics Engineers,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
-ilassa40,Tier 1,Institute of Latin American Studies Stu. Assn.,Cultural & Identity,Campus-wide / No specific school,Major / program focused (often open)
+ilassaut,Tier 1,Institute of Latin American Studies Stu. Assn.,Cultural & Identity,Campus-wide / No specific school,Major / program focused (often open)
 texasifc,Tier 1,Interfraternity Council,Student Government / Councils,Campus-wide / No specific school,Likely open (not stated)
 utexasias,Tier 1,International Affairs Society,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 texasibsa,Tier 1,International Business Student Association,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
@@ -187,7 +187,7 @@ txpersians,Tier 1,Iranian Students Academic and Cultural Organization,Cultural &
 tximsa,Tier 1,Ismaili Muslim Students Association,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 texasja,Tier 1,Japanese Association,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
 texaskky,Tier 1,Kappa Kappa Psi,Honor Society,College of Fine Arts,Selective (application / GPA / invitation)
-kapparhoaustin,Tier 1,Kappa Rho Pre-Medical Honors Sorority,Pre-Health & Healthcare,College of Natural Sciences,Likely open (not stated)
+txkapparho,Tier 1,Kappa Rho Pre-Medical Honors Sorority,Pre-Health & Healthcare,College of Natural Sciences,Likely open (not stated)
 texasktp,Tier 1,Kappa Theta Pi at the University of Texas at Austin,"Tech, Computing & AI",College of Natural Sciences (by discipline),Selective (application / tryout)
 kswelinstitute,Tier 1,Kendra Scott Women's Entrepreneurial Leadership Institute Student Board,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
 texaskinclub,Tier 1,Kinesiology Club,Pre-Health & Healthcare,College of Education,Major / program focused (often open)
@@ -209,12 +209,12 @@ atxcampuslions,Tier 1,Lions Club at the University of Texas at Austin,Service & 
 texaslittlehealthheroes,Tier 1,Little Health Heroes,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 longhornassetmgmt,Tier 1,Longhorn Asset Management,Finance & Investing,McCombs School of Business,Selective (application / tryout)
 longhornatsa,Tier 1,Longhorn Athletic Training Student Association,Pre-Health & Healthcare,College of Education,Likely open (not stated)
-longhornbaja,Tier 1,Longhorn Baja Racing,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
+longhornbajaracing,Tier 1,Longhorn Baja Racing,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 longhornbakers,Tier 1,Longhorn Bakers,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
 texaslcc,Tier 1,Longhorn Car Club,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
 longhorncatholic,Tier 1,Longhorn Catholic Council,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 longhornxa,Tier 1,Longhorn Chi Alpha Christian Fellowship,Religious & Spiritual,Campus-wide / No specific school,Open to all
-longhorncomicbooks,Tier 1,Longhorn Comic Books,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
+longhorncomics,Tier 1,Longhorn Comic Books,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
 longhorndevelopers,Tier 1,Longhorn Developers,"Tech, Computing & AI",College of Natural Sciences (by discipline),Likely open (not stated)
 longhorndigitalmarketing,Tier 1,Longhorn Digital Marketing,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
 longhornems,Tier 1,Longhorn EMS,Pre-Health & Healthcare,College of Natural Sciences (by discipline),Likely open (not stated)
@@ -228,7 +228,7 @@ longhornijm,Tier 1,Longhorn International Justice Mission,Religious & Spiritual,
 longhorninvestmentteam,Tier 1,Longhorn Investment Team,Finance & Investing,McCombs School of Business,Open to all
 longhorn_lol,Tier 1,Longhorn League of Legends,Hobbies & Special Interest,Campus-wide / No specific school,Open to all
 utlonghornlegal,Tier 1,Longhorn Legal Coalition,Law & Pre-Law,College of Liberal Arts,Likely open (not stated)
-texasaustinlmsa,Tier 1,Longhorn Malayali Student Association,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
+texaslmsa,Tier 1,Longhorn Malayali Student Association,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
 longhornmindfulmiles,Tier 1,Longhorn Mindful Miles,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 ut_lmbc,Tier 1,Longhorn Music Business Club,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
 lhneurotech,Tier 1,Longhorn Neurotech,"Tech, Computing & AI",Cockrell School of Engineering,Likely open (not stated)
@@ -236,10 +236,10 @@ utorientation,Tier 1,Longhorn Orientation,University Office / Program,Campus-wid
 longhorn_poker,Tier 1,Longhorn Poker,Hobbies & Special Interest,Campus-wide / No specific school,Selective (application / tryout)
 texaslppa,Tier 1,Longhorn Pre-Pharmacy Association,Pre-Health & Healthcare,College of Pharmacy,Likely open (not stated)
 longhornpuzzleclub,Tier 1,Longhorn Puzzle Club,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
-ut.longhornracing,Tier 1,Longhorn Racing,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
+longhornracing,Tier 1,Longhorn Racing,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 longhorn_riichi,Tier 1,Longhorn Riichi,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
 longhorn_sim_racing,Tier 1,Longhorn Sim Racing,Hobbies & Special Interest,Campus-wide / No specific school,Selective (application / tryout)
-longhornforisrael,Tier 1,Longhorn Students For Israel,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
+longhornstudentsforisrael,Tier 1,Longhorn Students For Israel,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 longhornurbanists,Tier 1,Longhorn Urbanists,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 longhorn_voices,Tier 1,Longhorn Voices Book Club,Hobbies & Special Interest,Campus-wide / No specific school,Open to all
 longhornsforchrist,Tier 1,Longhorns For Christ,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
@@ -293,7 +293,7 @@ texas.pops,Tier 1,Pre-Optometry Professional Society,Pre-Health & Healthcare,Col
 texasprepa,Tier 1,Pre-Physician Assistant Society,Pre-Health & Healthcare,College of Natural Sciences,Likely open (not stated)
 texaspva,Tier 1,Pre-Veterinary Association,Pre-Health & Healthcare,College of Natural Sciences,Likely open (not stated)
 sol_utexas,Tier 1,Project MALES Student Organization,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
-txprojectsunshine,Tier 1,Project Sunshine at the University of Texas at Austin,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
+psaustinchapter,Tier 1,Project Sunshine at the University of Texas at Austin,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 projectyellowtexas,Tier 1,Project Yellow at the University of Texas at Austin,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 texasqpp,Tier 1,Q++ (Queer Students in Computer Science),"Tech, Computing & AI",College of Natural Sciences,Likely open (not stated)
 texasqbsa,Tier 1,Queer Business Student Association,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
@@ -309,7 +309,7 @@ texas_rhochi,Tier 1,Rho Chi Pharmaceutical Honor Society,Honor Society,College o
 rooted.immigrant.collective,Tier 1,Rooted Collective,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 utsangercenter,Tier 1,Sanger Learning Center,University Office / Program,Campus-wide / No specific school,N/A (office or program)
 sum.atx,Tier 1,Schoenstatt University Men at UT,Religious & Spiritual,Campus-wide / No specific school,Selective (Greek recruitment)
-sof.utexas,Tier 1,Scholars of Finance,Finance & Investing,McCombs School of Business,Major / program focused (often open)
+sof.utaustin,Tier 1,Scholars of Finance,Finance & Investing,McCombs School of Business,Major / program focused (often open)
 score.athletics,Tier 1,SCORE Athletics,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 utsenate,Tier 1,Senate of College Councils,Student Government / Councils,Campus-wide / No specific school,Likely open (not stated)
 sevacharities,Tier 1,Seva Charities,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
@@ -326,7 +326,7 @@ swetexas,Tier 1,Society of Women Engineers,Engineering & Energy,Cockrell School 
 socksforthesole,Tier 1,Socks for the Sole,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 utaustinsfl,Tier 1,Sorority and Fraternity Life,University Office / Program,Campus-wide / No specific school,N/A (office or program)
 utspeakeasy,Tier 1,Speak Easy,Hobbies & Special Interest,Campus-wide / No specific school,Major / program focused (often open)
-specialolympics.texas,Tier 1,Special Olympics Club at The University of Texas,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
+specialolympics.ut,Tier 1,Special Olympics Club at The University of Texas,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 sports_entertainmentls,Tier 1,Sports and Entertainment Law Society,Law & Pre-Law,School of Law,Likely open (not stated)
 seaot_ut,Tier 1,Structural Engineering Association of Texas - Student Chapter,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 utaustinsaa,Tier 1,Student Academy of Audiology chapter at The University of Texas at Austin,Pre-Health & Healthcare,Moody College of Communication,Likely open (not stated)
@@ -351,12 +351,12 @@ texas.soca,Tier 1,Students of Caribbean Ancestry,Cultural & Identity,Campus-wide
 ssitexas,Tier 1,Students Supporting Israel at University of Texas at Austin,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 scmso_ut,Tier 1,Supply Chain Management Student Organization,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
 survivor.texas,Tier 1,Survivor Texas,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
-sbi_ut,Tier 1,Sustainable Building Initiative,Engineering & Energy,Cockrell School of Engineering,Open to all
+ut.sbi,Tier 1,Sustainable Building Initiative,Engineering & Energy,Cockrell School of Engineering,Open to all
 switchenergyclub_ut,Tier 1,Switch Energy Club Longhorn Chapter,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 texastasa,Tier 1,Taiwanese American Students Association,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
-tisa_utaustin,Tier 1,Taiwanese International Student Association,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
+texastisa,Tier 1,Taiwanese International Student Association,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
 tsa_ut.austin,Tier 1,Taiwanese Student Association,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
-texas.alpha,Tier 1,Tau Beta Pi - Engineering,Honor Society,Cockrell School of Engineering,Selective (application / GPA / invitation)
+tbp.texasalpha,Tier 1,Tau Beta Pi - Engineering,Honor Society,Cockrell School of Engineering,Selective (application / GPA / invitation)
 texastausigma,Tier 1,Tau Sigma at The University of Texas at Austin,Honor Society,Campus-wide / No specific school,Selective (application / GPA / invitation)
 ut.true,Tier 1,Teaching Refugees to Understand English at UT Austin,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 texas.tcg,Tier 1,Tech Consulting Group at The University of Texas at Austin,Consulting,McCombs School of Business,Likely open (not stated)
@@ -366,7 +366,7 @@ texas4000,Tier 1,Texas 4000 for Cancer,Service & Volunteering,Campus-wide / No s
 texasadgroup,Tier 1,Texas Advertising Group,Business & Entrepreneurship,Moody College of Communication,Likely open (not stated)
 texas.aotw,Tier 1,Texas Album of the Week,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
 texasafa,Tier 1,Texas Arts for Aid,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
-texas_tapc,Tier 1,Texas Asian Pan-Hellenic Council,Student Government / Councils,Campus-wide / No specific school,Major / program focused (often open)
+texas.tapc,Tier 1,Texas Asian Pan-Hellenic Council,Student Government / Councils,Campus-wide / No specific school,Major / program focused (often open)
 texasbelles,Tier 1,Texas Belles Event Planning Organization,Business & Entrepreneurship,Moody College of Communication,Major / program focused (often open)
 txblockchain,Tier 1,Texas Blockchain,Finance & Investing,McCombs School of Business (by discipline),Likely open (not stated)
 texas.bei,Tier 1,Texas Brain Exercise Initiative,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
@@ -387,18 +387,17 @@ texaseconomicsassociation,Tier 1,Texas Economics Association,Business & Entrepre
 ut_.tes,Tier 1,Texas Education Society,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 ut_embrace,Tier 1,Texas embrACE,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
 txenergycapital,Tier 1,Texas Energy Capital,Finance & Investing,McCombs School of Business,Likely open (not stated)
-texas_eco,Tier 1,Texas Energy Consulting,Consulting,McCombs School of Business,Likely open (not stated)
+teco.ut,Tier 1,Texas Energy Consulting,Consulting,McCombs School of Business,Likely open (not stated)
 utexasenergy,Tier 1,Texas Energy Trading,Finance & Investing,McCombs School of Business,Likely open (not stated)
-texasewh,Tier 1,Texas Engineering World Health,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
+texashelix,Tier 1,Texas Engineering World Health,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 txs_tea,Tier 1,Texas Entertainment Association,Business & Entrepreneurship,McCombs School of Business (by discipline),Likely open (not stated)
 texasequitygroup,Tier 1,Texas Equity Group,Finance & Investing,McCombs School of Business,Selective (application / tryout)
 texasfederalistsociety,Tier 1,Texas Federalist Society,Law & Pre-Law,School of Law,Likely open (not stated)
-texasfgi,Tier 1,Texas FGI,Finance & Investing,McCombs School of Business,Likely open (not stated)
 texasfinanceteam,Tier 1,Texas Finance Team,Finance & Investing,McCombs School of Business,Likely open (not stated)
 texas_financial_futures,Tier 1,Texas Financial Futures,Finance & Investing,McCombs School of Business,Likely open (not stated)
 texasfriendlyfridays,Tier 1,Texas Friendly Fridays,Service & Volunteering,School of Nursing,Likely open (not stated)
 texasgermanclub,Tier 1,Texas German Club,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
-utexaslglobal,Tier 1,Texas Global,University Office / Program,Campus-wide / No specific school,N/A (office or program)
+utexasglobal,Tier 1,Texas Global,University Office / Program,Campus-wide / No specific school,N/A (office or program)
 texasgf_,Tier 1,Texas Gospel Fellowship,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 texasguadaloop,Tier 1,Texas Guadaloop,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 texasheal,Tier 1,Texas Health Education Advocacy and Law,Law & Pre-Law,Campus-wide / No specific school,Likely open (not stated)
@@ -434,21 +433,22 @@ texaspublichealth,Tier 1,Texas Public Health,"Health, Wellness & Awareness",Camp
 texas_rev,Tier 1,Texas Retail & E-Commerce Ventures,Business & Entrepreneurship,McCombs School of Business,Major / program focused (often open)
 texrisingut,Tier 1,Texas Rising at the University of Texas at Austin,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 txrotaract,Tier 1,Texas Rotaract,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
+txroundtable,Tier 1,Texas Roundtable,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 tspe.austin,Tier 1,Texas Society of Professional Engineers at the University of Texas at Austin,Engineering & Energy,Cockrell School of Engineering,Open to all
 texasspacesociety,Tier 1,Texas Space Society,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 texasstockteam,Tier 1,Texas Stock Team,Finance & Investing,McCombs School of Business,Likely open (not stated)
 txsl.m,Tier 1,Texas Supports Live Music,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
-utexas.swifties,Tier 1,Texas Swifties,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
+utexasswifties,Tier 1,Texas Swifties,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
 texas_tabletop,Tier 1,Texas Table Top,Hobbies & Special Interest,Campus-wide / No specific school,Likely open (not stated)
 txtped,Tier 1,Texas Theme Park Engineering and Design,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 texastradinggroup,Tier 1,Texas Trading Group,Finance & Investing,McCombs School of Business,Likely open (not stated)
 texasucg,Tier 1,Texas Undergraduate Consulting Group,Consulting,McCombs School of Business,Likely open (not stated)
 texas_ula,Tier 1,Texas Undergraduate Law and Policy Association,Law & Pre-Law,College of Liberal Arts,Selective (application / tryout)
-tuso_utexas,Tier 1,Texas Undergraduate Sales Organization,Business & Entrepreneurship,McCombs School of Business,Major / program focused (often open)
+texas_tuso,Tier 1,Texas Undergraduate Sales Organization,Business & Entrepreneurship,McCombs School of Business,Major / program focused (often open)
 texasunicef,Tier 1,Texas UNICEF,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 texasvoe,Tier 1,Texas Voices of Equity,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 texaswesley,Tier 1,Texas Wesley UMCM,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
-_txwe_,Tier 1,Texas Women in Economics,Business & Entrepreneurship,College of Liberal Arts,Major / program focused (often open)
+texaswomenineconomics,Tier 1,Texas Women in Economics,Business & Entrepreneurship,College of Liberal Arts,Major / program focused (often open)
 texaswoofsforwilliam,Tier 1,Texas Woofs for William,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 taa.utexas,Tier 1,Thai Association of Austin,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
 ahs_utaustin,Tier 1,The Alexander Hamilton Society at UT Austin,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
@@ -458,7 +458,7 @@ utexasrecovery,Tier 1,The Center for Students in Recovery,University Office / Pr
 sumcampusworship,Tier 1,The Fruits,Religious & Spiritual,Campus-wide / No specific school,Likely open (not stated)
 ispetexas,Tier 1,The International Society for Pharmaceutical Engineering,Pre-Health & Healthcare,Cockrell School of Engineering,Likely open (not stated)
 texasloveclub,Tier 1,The L.O.V.E. Club,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
-texas_lphc,Tier 1,The Latino Pan-Hellenic Council,Student Government / Councils,Campus-wide / No specific school,Likely open (not stated)
+texaslphc,Tier 1,The Latino Pan-Hellenic Council,Student Government / Councils,Campus-wide / No specific school,Likely open (not stated)
 longhorndesignlab,Tier 1,The Longhorn Design Lab,"Tech, Computing & AI",Campus-wide / No specific school,Likely open (not stated)
 longhornrocketry,Tier 1,The Longhorn Rocketry Association,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 texasnaba,Tier 1,The National Association of Black Accountants at The University of Texas at Austin,Business & Entrepreneurship,McCombs School of Business,Likely open (not stated)
@@ -472,7 +472,7 @@ utaustintix,Tier 1,Title IX Office,University Office / Program,Campus-wide / No 
 utaustintokc,Tier 1,TOKC at UT,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 tpusaut,Tier 1,Turning Point USA at The University of Texas at Austin,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
 txvotes_cea,Tier 1,TX Votes,"Advocacy, Politics & Policy",Campus-wide / No specific school,Likely open (not stated)
-typetexascdn,Tier 1,Type Texas: The CDN Chapter at UT Austin,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
+typetexas.ut,Tier 1,Type Texas: The CDN Chapter at UT Austin,"Health, Wellness & Awareness",Campus-wide / No specific school,Likely open (not stated)
 tcca.austin,Tier 1,Tzu Chi Collegiate Association Austin Chapter,Service & Volunteering,Campus-wide / No specific school,Open to all
 texasubc,Tier 1,Undergraduate Business Council,Student Government / Councils,McCombs School of Business,Likely open (not stated)
 texasucf,Tier 1,Undergraduate Computational Finance Team,Finance & Investing,McCombs School of Business,Likely open (not stated)
@@ -483,12 +483,11 @@ universitydemocrats,Tier 1,University Democrats,"Advocacy, Politics & Policy",Ca
 texasufa,Tier 1,University Finance Association,Finance & Investing,McCombs School of Business,Likely open (not stated)
 universityhousinganddining,Tier 1,University Housing and Dining,University Office / Program,Campus-wide / No specific school,N/A (office or program)
 texas_umbra,Tier 1,University Management & Business Research Association,Consulting,McCombs School of Business,Likely open (not stated)
-texaspanhellenic,Tier 1,University Panhellenic Council,Student Government / Councils,Campus-wide / No specific school,Major / program focused (often open)
 ut_urha,Tier 1,University Residence Hall Association,Student Government / Councils,Campus-wide / No specific school,N/A (office or program)
 texasusit,Tier 1,University Securities Investment Team,Finance & Investing,McCombs School of Business,Selective (application / tryout)
 utunions,Tier 1,University Unions,Campus Programming & Events,Campus-wide / No specific school,N/A (office or program)
 spotlights_utt,Tier 1,UTeach Theatre Spotlights,Hobbies & Special Interest,College of Fine Arts; College of Education,Major / program focused (often open)
-uxpa.ut,Tier 1,UXPA Student Chapter,"Tech, Computing & AI",College of Natural Sciences (by discipline),Likely open (not stated)
+uxpa_student_chapter,Tier 1,UXPA Student Chapter,"Tech, Computing & AI",College of Natural Sciences (by discipline),Likely open (not stated)
 vamostennis_tx,Tier 1,Vamos Tennis,Service & Volunteering,Campus-wide / No specific school,Likely open (not stated)
 venezuelansatutaustin,Tier 1,Venezuelans at UT Austin,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
 verdatronics,Tier 1,Verdatronics,"Tech, Computing & AI",College of Natural Sciences (by discipline),Likely open (not stated)
@@ -504,11 +503,11 @@ wcae.utexas,Tier 1,"Women in Civil, Architectural, and Environmental Engineering
 txwids,Tier 1,Women in Data and Statistics,"Tech, Computing & AI",College of Natural Sciences (by discipline),Likely open (not stated)
 texaswme,Tier 1,Women in Mechanical Engineering,Engineering & Energy,Cockrell School of Engineering,Major / program focused (often open)
 wim_ut,Tier 1,Women in Medicine,Pre-Health & Healthcare,College of Natural Sciences (by discipline),Likely open (not stated)
-wpge_ut,Tier 1,Women in Petroleum and Geosystems Engineering,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
+ut_wpge,Tier 1,Women in Petroleum and Geosystems Engineering,Engineering & Energy,Cockrell School of Engineering,Likely open (not stated)
 texasw1se,Tier 1,Women in Sports & Entertainment,Business & Entrepreneurship,McCombs School of Business (by discipline),Likely open (not stated)
 wlc_ut,Tier 1,Women Leaders in Communication,Business & Entrepreneurship,McCombs School of Business (by discipline),Likely open (not stated)
 texaswoe,Tier 1,Women of Excellence,Cultural & Identity,Campus-wide / No specific school,Likely open (not stated)
-wccatut,Tier 1,Women's Community Center,University Office / Program,Campus-wide / No specific school,N/A (office or program)
+womenctx,Tier 1,Women's Community Center,University Office / Program,Campus-wide / No specific school,N/A (office or program)
 texasyja,Tier 1,Youth Justice Alliance,Law & Pre-Law,College of Liberal Arts (by discipline),Likely open (not stated)
 absolutepitch_acappella,Tier 2,Absolute Pitch,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 absolutetexxas,Tier 2,Absolute Texxas,Spirit & Honorary Groups,Campus-wide / No specific school,Selective (application / GPA / invitation)
@@ -554,25 +553,22 @@ bfpfilm,Tier 2,Beyond Frames Productions,"Visual Arts, Media & Writing",Campus-w
 bgsa_utexas,Tier 2,Black Graduate Student Association,Cultural & Identity,Campus-wide / No specific school,Restricted to program / degree
 tx_bsma,Tier 2,Black Student Media Association,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 texaslaw_boa,Tier 2,Board of Advocates - Law School,Law & Pre-Law,School of Law,Restricted to program / degree
-utbrpeople,Tier 2,"Brackenridge, Roberts, & Prather Residence Hall Council",Residence Hall Council,Campus-wide / No specific school,Residents of a specific hall
 heelhookem,Tier 2,Brazilian Jiu Jitsu at the University of Texas,Sports & Recreation,Campus-wide / No specific school,Open to all
 brightstarsoftexas,Tier 2,Bright Stars of Texas,Spirit & Honorary Groups,Campus-wide / No specific school,Selective (application / GPA / invitation)
 broccoli_proj,Tier 2,Broccoli Project,Performing Arts & Music,Campus-wide / No specific school,Open to all
-utaustin_chaarg,Tier 2,"Changing Health, Attitudes and Actions to Recreate Girls",Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
+texas_inchaarg,Tier 2,"Changing Health, Attitudes and Actions to Recreate Girls",Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 chemeng_glc,Tier 2,Chemical Engineering Graduate Leadership Council,Student Government / Councils,Cockrell School of Engineering,Restricted to program / degree
 txchiomega,Tier 2,Chi Omega Sorority,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 chiphitexas,Tier 2,Chi Phi Fraternity,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 ut.chllsa,Tier 2,Chicano/Hispanic/Latino Law Students' Association,Law & Pre-Law,School of Law,Restricted to program / degree
 cls.texaslaw,Tier 2,Christian Legal Society,Law & Pre-Law,School of Law,Restricted to program / degree
 cpfi_utaustin,Tier 2,Christian Pharmacists Fellowship International - Student Chapter,Pre-Health & Healthcare,College of Pharmacy,Restricted to program / degree
-raasrodeo,Tier 2,ClockTower Cultural Productions,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 utexasclubgolf,Tier 2,Club Golf,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 texasclubtennis,Tier 2,Club Tennis,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 collabartistsut,Tier 2,Collaborative Artists,"Visual Arts, Media & Writing",Campus-wide / No specific school,Major / program focused (often open)
 collective.atx,Tier 2,Collective Studios,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 crafterscircleclub,Tier 2,Crafter's Circle,"Visual Arts, Media & Writing",Campus-wide / No specific school,Open to all
 creativewritersatut,Tier 2,Creative Writers at UT,"Visual Arts, Media & Writing",Campus-wide / No specific school,Open to all
-creekside_whiteboard,Tier 2,Creekside Residence Hall Council,Residence Hall Council,Campus-wide / No specific school,Residents of a specific hall
 texasc4c,Tier 2,Crochet 4 a Cause,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 danceaction.ut,Tier 2,Dance Action,Performing Arts & Music,Campus-wide / No specific school,Open to all
 deansscholars,Tier 2,Dean's Scholars Student Association,Academic & Scholarly,College of Natural Sciences,Major / program focused (often open)
@@ -583,11 +579,11 @@ txdeltasig,Tier 2,Delta Sigma Phi Fraternity,Greek Life (Social),Campus-wide / N
 texasdeltas,Tier 2,Delta Sigma Theta Sorority Inc. - Epsilon Beta Chapter,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 deltathetamuut,Tier 2,Delta Theta Mu,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texasdu,Tier 2,Delta Upsilon,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
-dfa_texas,Tier 2,Design for America at the University of Texas at Austin,"Visual Arts, Media & Writing",Campus-wide / No specific school,Major / program focused (often open)
+worldstudios_texas,Tier 2,Design for America at the University of Texas at Austin,"Visual Arts, Media & Writing",Campus-wide / No specific school,Major / program focused (often open)
 texasdih,Tier 2,Design in Health,"Visual Arts, Media & Writing",College of Fine Arts,Restricted to program / degree
 texasdka,Tier 2,DKA Professional Cinematic Society,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 driftmagatx,Tier 2,Drift Magazine ATX,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
-durenrhc,Tier 2,Duren Residence Hall Council,Residence Hall Council,Campus-wide / No specific school,Residents of a specific hall
+ut_duren_and_creekside,Tier 2,Duren & Creekside Residence Hall Councils,Residence Hall Council,Campus-wide / No specific school,Residents of a specific hall
 echo.texas,Tier 2,Engineering Chamber Orchestra,Performing Arts & Music,Cockrell School of Engineering,Likely open (not stated)
 equalmbas,Tier 2,eQual MBAs,Business & Entrepreneurship,McCombs School of Business,Restricted to program / degree
 lbj_fpa,Tier 2,Feminist Policy Alliance Austin,"Advocacy, Politics & Policy",LBJ School of Public Affairs,Restricted to program / degree
@@ -599,7 +595,7 @@ frontncenterut,Tier 2,Front 'N Center,Performing Arts & Music,Campus-wide / No s
 fuseacappella,Tier 2,Fuse A Cappella,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 texasgammabeta,Tier 2,"Gamma Beta Fraternity, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 grltexas,Tier 2,Gamma Rho Lambda,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
-gmip_ut,Tier 2,Gender Matters in Physics,Academic & Scholarly,College of Natural Sciences,Likely open (not stated)
+ut_gmip,Tier 2,Gender Matters in Physics,Academic & Scholarly,College of Natural Sciences,Likely open (not stated)
 gritsconference,Tier 2,Getting Radical In The South,Law & Pre-Law,School of Law,Restricted to program / degree
 gigglepantsimprov,Tier 2,Gigglepants Improv Comedy Troupe,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 girlsclubtexas,Tier 2,Girls Club of Texas at Austin,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
@@ -607,7 +603,7 @@ texasgmt,Tier 2,Global Macro Team,Academic & Scholarly,Campus-wide / No specific
 texasgradiv,Tier 2,Grad InterVarsity Christian Fellowship,Religious & Spiritual,Campus-wide / No specific school,Restricted to program / degree
 lbj_gpac,Tier 2,Graduate Public Affairs Council,Student Government / Councils,LBJ School of Public Affairs,Restricted to program / degree
 utgsa,Tier 2,Graduate Student Assembly,Student Government / Councils,Campus-wide / No specific school,Restricted to program / degree
-gum_ut_austin,Tier 2,Graduates for Underrepresented Minorities,Cultural & Identity,Campus-wide / No specific school,Restricted to program / degree
+gum.utexas,Tier 2,Graduates for Underrepresented Minorities,Cultural & Identity,Campus-wide / No specific school,Restricted to program / degree
 healingwithharmonies,Tier 2,Healing with Harmonies,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 hercampustexas,Tier 2,Her Campus at Texas,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 texas.hapnhpa,Tier 2,Hispanic Association of Pharmacists,Pre-Health & Healthcare,College of Pharmacy,Restricted to program / degree
@@ -617,9 +613,9 @@ hookem_bhangra,Tier 2,Hooked Bhangra,Performing Arts & Music,Campus-wide / No sp
 hooked.on.running,Tier 2,Hooked on Running,Sports & Recreation,Campus-wide / No specific school,Open to all
 hornslens,Tier 2,Horns Lens - Photography Org,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 humacappella,Tier 2,Hum A Cappella,Performing Arts & Music,Campus-wide / No specific school,Selective (application / tryout)
-iwhtexaslaw,Tier 2,If/When/How at the University of Texas at Austin,Law & Pre-Law,School of Law,Restricted to program / degree
+ifwhenhow.austin,Tier 2,If/When/How at the University of Texas at Austin,Law & Pre-Law,School of Law,Restricted to program / degree
 utimpulse,Tier 2,Impulse Performance Team,Performing Arts & Music,Campus-wide / No specific school,Open to all
-utexasindigo,Tier 2,Indigo Collective@UT,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
+indigocollectiveatx,Tier 2,Indigo Collective@UT,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 igsmatx,Tier 2,International Graduate Student Ministry - at Austin,Religious & Spiritual,Campus-wide / No specific school,Restricted to program / degree
 jesterunited,Tier 2,Jester East Residence Hall Council,Residence Hall Council,Campus-wide / No specific school,Residents of a specific hall
 kbeat_ut,Tier 2,K-Beat,Performing Arts & Music,Campus-wide / No specific school,Open to all
@@ -630,7 +626,7 @@ texaskdchi,Tier 2,"Kappa Delta Chi Sorority, Incorporated",Greek Life (Social),C
 ke.utcop,Tier 2,Kappa Epsilon - Pharmacy,Pre-Health & Healthcare,College of Pharmacy,Restricted to program / degree
 texaskkg,Tier 2,Kappa Kappa Gamma,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texaskphig.founding,Tier 2,"Kappa Phi Gamma Sorority, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
-utexaskpl,Tier 2,"Kappa Phi Lambda Sorority, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
+texaskappas,Tier 2,"Kappa Phi Lambda Sorority, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texaskappasig,Tier 2,Kappa Sigma Fraternity,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 utaustinkendo,Tier 2,Kendo Association at The University of Texas at Austin,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 kinsrhc,Tier 2,Kinsolving Residence Hall Council,Residence Hall Council,Campus-wide / No specific school,Residents of a specific hall
@@ -641,7 +637,7 @@ lta_gammachi,Tier 2,Lambda Theta Alpha Latin Sorority Incorporated,Greek Life (S
 texassigdelt,Tier 2,Lapis Ladies,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 last_writers_at_ut,Tier 2,Last Writers at the University of Texas at Austin,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 latinxut,Tier 2,Latinx Theatre Initiative at UT Austin,Performing Arts & Music,Campus-wide / No specific school,Open to all
-tl_dna,Tier 2,Law Student Disability and Neurodivergent Alliance,Law & Pre-Law,School of Law,Restricted to program / degree
+lsdna_tx_campus,Tier 2,Law Student Disability and Neurodivergent Alliance,Law & Pre-Law,School of Law,Restricted to program / degree
 lsforblacklives,Tier 2,Law Students for Black Lives,Law & Pre-Law,School of Law,Restricted to program / degree
 lhblacks,Tier 2,LHBlacks,Performing Arts & Music,College of Fine Arts,Likely open (not stated)
 texasclubbaseball,Tier 2,Longhorn Baseball Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
@@ -669,7 +665,7 @@ nsdispos,Tier 2,Nritya Sangam Indian Dance Troupe,Performing Arts & Music,Campus
 texasodphi,Tier 2,"Omega Delta Phi Fraternity, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texasomegas,Tier 2,Omega Phi Gamma Fraternity,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 utomegas,Tier 2,Omega Psi Phi Fraternity Incorporated,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
-outlawut,Tier 2,OUTLaw - LGBTQ Law Student Association,Law & Pre-Law,School of Law,Restricted to program / degree
+outlaw.tx,Tier 2,OUTLaw - LGBTQ Law Student Association,Law & Pre-Law,School of Law,Restricted to program / degree
 utpharmcouncil,Tier 2,Pharmacy Council,Student Government / Councils,College of Pharmacy,Restricted to program / degree
 mpsigmas,Tier 2,Phi Beta Sigma Fraternity Incorporated - Mu Rho Chapter,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 pdclambda,Tier 2,Phi Delta Chi,Pre-Health & Healthcare,College of Pharmacy,Restricted to program / degree
@@ -679,7 +675,7 @@ plspsichapter,Tier 2,Phi Lambda Sigma - Pharmacy,Pre-Health & Healthcare,College
 texaspibetaphi,Tier 2,Pi Beta Phi,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 utpike,Tier 2,Pi Kappa Alpha Fraternity,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texaspikapps,Tier 2,Pi Kappa Phi,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
-texaschis,Tier 2,"Pi Lambda Chi Latina Sorority, Inc. - Eta Chapter",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
+plc_etachapter,Tier 2,"Pi Lambda Chi Latina Sorority, Inc. - Eta Chapter",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 plan_2_film,Tier 2,Plan II Film Club,"Visual Arts, Media & Writing",College of Liberal Arts,Open to all
 pila_texaslaw,Tier 2,Public Interest Law Association,Law & Pre-Law,School of Law,Restricted to program / degree
 redefineddanceco,Tier 2,Redefined Dance Company,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
@@ -689,14 +685,14 @@ roustaboutsdanceco,Tier 2,Roustabouts Dance Company,Performing Arts & Music,Camp
 saaya_ut,Tier 2,Saaya Dance Company,Performing Arts & Music,Campus-wide / No specific school,Selective (application / tryout)
 utsaspa,Tier 2,San Antonio Student Pharmacists Association,Pre-Health & Healthcare,College of Pharmacy,Restricted to program / degree
 sanjac_rhc,Tier 2,San Jacinto Residence Hall Council,Residence Hall Council,Campus-wide / No specific school,Residents of a specific hall
-sohe_ambassadors,Tier 2,School of Human Ecology Ambassadors,Academic & Scholarly,College of Natural Sciences,Likely open (not stated)
+utaustinhhs,Tier 2,School of Human Ecology Ambassadors,Academic & Scholarly,College of Natural Sciences,Likely open (not stated)
 science.under.the.stars,Tier 2,Science Under the Stars,Academic & Scholarly,College of Natural Sciences,Restricted to program / degree
 texas.sammy,Tier 2,Sigma Alpha Mu Fraternity,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texas_sdl,Tier 2,"Sigma Delta Lambda Sorority, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texas_sgrhos,Tier 2,Sigma Gamma Rho Sorority Inc. Mu Upsilon,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texassenoritas,Tier 2,"Sigma Lambda Alpha Sorority, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texasbetas,Tier 2,Sigma Lambda Beta-Eta Alpha Chapter,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
-texas_gammas,Tier 2,Sigma Lambda Gamma National Sorority,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
+utexas_gammas,Tier 2,Sigma Lambda Gamma National Sorority,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texasphilamb,Tier 2,Sigma Phi Lambda,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texassigmas,Tier 2,"Sigma Phi Omega Sorority, Inc.",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 snafu_prov,Tier 2,SNAFU Improv,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
@@ -704,7 +700,6 @@ texas_sps,Tier 2,Society of Physics Students,Academic & Scholarly,College of Nat
 sparkmagazinetx,Tier 2,SPARK Magazine,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 spicmacay_utaustin,Tier 2,SPIC MACAY Chapter at UT Austin,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 steeldanceco,Tier 2,STEEL Dance Company,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
-ut_samo,Tier 2,Street Art Muralist Organization,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 sasputaustin,Tier 2,Student Affiliates for School Psychology,Academic & Scholarly,College of Education,Restricted to program / degree
 sba_ut,Tier 2,Student Bar Association,Student Government / Councils,School of Law,Restricted to program / degree
 utsnpha,Tier 2,Student National Pharmaceutical Association,Pre-Health & Healthcare,College of Pharmacy,Restricted to program / degree
@@ -712,7 +707,7 @@ unidoslbj,Tier 2,Students Unidos at the LBJ School,Cultural & Identity,LBJ Schoo
 synapsetexas,Tier 2,Synapse,Academic & Scholarly,Campus-wide / No specific school,Open to all
 tabletennisclub_ttc,Tier 2,Table Tennis Club,Sports & Recreation,Campus-wide / No specific school,Open to all
 texastabletalk,Tier 2,TableTalk,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
-tbsbetagamma,Tier 2,Tau Beta Sigma - Beta Gamma Chapter,Performing Arts & Music,College of Fine Arts,Likely open (not stated)
+texastbs,Tier 2,Tau Beta Sigma - Beta Gamma Chapter,Performing Arts & Music,College of Fine Arts,Likely open (not stated)
 tketexas,Tier 2,Tau Kappa Epsilon Fraternity,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 teachersoftomorrowut,Tier 2,Teachers of Tomorrow,Academic & Scholarly,College of Education,Likely open (not stated)
 longhornterrys,Tier 2,Terry Scholar Student Association,Academic & Scholarly,Campus-wide / No specific school,Major / program focused (often open)
@@ -736,7 +731,7 @@ tddtaustin,Tier 2,Texas Dragon/Lion Dance Team,Performing Arts & Music,Campus-wi
 texaseeb,Tier 2,"Texas Ecology, Evolution, and Behavior Club",Academic & Scholarly,College of Natural Sciences,Open to all
 texasequestrianteam,Tier 2,Texas Equestrian Team,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 texasffs,Tier 2,Texas Fashion for Students,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
-32.fsc,Tier 2,Texas Figure Skating,Sports & Recreation,Campus-wide / No specific school,Selective (application / tryout)
+texas.fsc,Tier 2,Texas Figure Skating,Sports & Recreation,Campus-wide / No specific school,Selective (application / tryout)
 texasfolklorico,Tier 2,Texas Folklorico Dance Company,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 texasfuego,Tier 2,Texas Fuego,Spirit & Honorary Groups,Campus-wide / No specific school,Selective (application / GPA / invitation)
 texasgymnastics,Tier 2,Texas Gymnastics,Sports & Recreation,Campus-wide / No specific school,Selective (application / tryout)
@@ -801,24 +796,24 @@ triangleutaustin,Tier 2,Triangle Fraternity,Greek Life (Social),Campus-wide / No
 txmedstart,Tier 2,TX MedstART,"Visual Arts, Media & Writing",Campus-wide / No specific school,Likely open (not stated)
 tx_nlgja,Tier 2,TX NLGJA,"Visual Arts, Media & Writing",Campus-wide / No specific school,Open to all
 texasbhangra,Tier 2,TXBhangra,Performing Arts & Music,Campus-wide / No specific school,Selective (application / tryout)
-texas_aso_dance,Tier 2,UBUNTU,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
-texasuls,Tier 2,Undergraduate Linguistic Society,Academic & Scholarly,College of Liberal Arts,Likely open (not stated)
+texasasodance,Tier 2,UBUNTU,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
+texas_uls,Tier 2,Undergraduate Linguistic Society,Academic & Scholarly,College of Liberal Arts,Likely open (not stated)
 universityfashiongroup,Tier 2,University Fashion Group,"Visual Arts, Media & Writing",Campus-wide / No specific school,Selective (application / tryout)
 texascarillon,Tier 2,University of Texas Guild of Carillonneurs,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 utexasweightlifting,Tier 2,University of Texas Weightlifting Team,Sports & Recreation,Campus-wide / No specific school,Open to all
 utuniversityorch,Tier 2,University Orchestra Student Association,Performing Arts & Music,Campus-wide / No specific school,Major / program focused (often open)
 texasutg,Tier 2,University Theatre Guild,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
-university.yogaclub,Tier 2,University Yoga Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
+universityyogaclub,Tier 2,University Yoga Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 utaustinarchery,Tier 2,UT Archery,Sports & Recreation,Campus-wide / No specific school,Open to all
-utaustin_badmintonclub,Tier 2,UT Badminton Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
+utbadmintonclub,Tier 2,UT Badminton Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 utexasdance,Tier 2,UT Dance Team,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
 texasfencing,Tier 2,UT Fencing Club,Sports & Recreation,Campus-wide / No specific school,Major / program focused (often open)
 texasmsoccer,Tier 2,UT Men's Soccer Team,Sports & Recreation,Campus-wide / No specific school,Major / program focused (often open)
 texasmensultimate,Tier 2,UT Men's Ultimate Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
-longhornracquetball,Tier 2,UT Racquetball Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
+txracquetball,Tier 2,UT Racquetball Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 utsailingteam,Tier 2,UT Sailing Team,Sports & Recreation,Campus-wide / No specific school,Selective (application / tryout)
-ut_water_ski,Tier 2,UT Water Ski Team,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
-ut_womensclubsoccer,Tier 2,UT Women's Club Soccer,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
+utwaterski,Tier 2,UT Water Ski Team,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
+texaswcs,Tier 2,UT Women's Club Soccer,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 txmelee,Tier 2,UT Women's Ultimate Frisbee,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 texaswvc,Tier 2,UT Women's Volleyball Club,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
 texaswaterpolo,Tier 2,UT Women's Water Polo,Sports & Recreation,Campus-wide / No specific school,Likely open (not stated)
@@ -830,4 +825,4 @@ womenslawcaucus,Tier 2,Women's Law Caucus,Law & Pre-Law,School of Law,Restricted
 utexaszetas,Tier 2,"Zeta Phi Beta Sorority, Incorporated - Omicron Theta Chapter",Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 zetapsitexas,Tier 2,Zeta Psi Fraternity,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
 texaszta,Tier 2,Zeta Tau Alpha,Greek Life (Social),Campus-wide / No specific school,Selective (Greek recruitment)
-txzobha,Tier 2,Zobha,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
+texaszobha,Tier 2,Zobha,Performing Arts & Music,Campus-wide / No specific school,Likely open (not stated)
