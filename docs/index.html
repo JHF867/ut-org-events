@@ -58,27 +58,19 @@
   <h1>Campus Events + Free Food</h1>
   <div class="sub" id="updated">Loading...</div>
   <div class="subs">
-    <a class="btn primary" id="sub-food" href="free-food.ics">Subscribe: free food calendar</a>
-    <a class="btn" id="sub-all" href="events.ics">Subscribe: all events</a>
+    <a class="btn primary" id="sub-all" href="events.ics">Subscribe: all events</a>
+    <a class="btn" id="sub-food" href="free-food.ics">Subscribe: free food calendar</a>
   </div>
 </header>
 
 <nav role="tablist">
-  <button role="tab" aria-selected="true" data-tab="food">Free food</button>
-  <button role="tab" aria-selected="false" data-tab="events">All events</button>
+  <button role="tab" aria-selected="true" data-tab="events">All events</button>
+  <button role="tab" aria-selected="false" data-tab="food">Free food</button>
   <button role="tab" aria-selected="false" data-tab="orgs">Org directory</button>
 </nav>
 
 <main>
-  <section id="tab-food">
-    <div class="filters">
-      <label><input type="checkbox" id="food-likely"> Include "likely" food</label>
-      <label><input type="checkbox" id="food-members"> Include members-only</label>
-    </div>
-    <div id="food-list"></div>
-  </section>
-
-  <section id="tab-events" hidden>
+  <section id="tab-events">
     <div class="filters">
       <input type="search" id="ev-q" placeholder="Search events or orgs">
       <select id="ev-purpose"><option value="">All categories</option></select>
@@ -86,6 +78,14 @@
       <label><input type="checkbox" id="ev-food"> Free food only</label>
     </div>
     <div id="ev-list"></div>
+  </section>
+
+  <section id="tab-food" hidden>
+    <div class="filters">
+      <label><input type="checkbox" id="food-likely"> Include "likely" food</label>
+      <label><input type="checkbox" id="food-members"> Include members-only</label>
+    </div>
+    <div id="food-list"></div>
   </section>
 
   <section id="tab-orgs" hidden>
@@ -116,7 +116,7 @@ for (const id of ["sub-food", "sub-all"]) {
 
 document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
   document.querySelectorAll("nav button").forEach(x => x.setAttribute("aria-selected", x === b));
-  for (const t of ["food", "events", "orgs"]) document.getElementById("tab-" + t).hidden = t !== b.dataset.tab;
+  for (const t of ["events", "food", "orgs"]) document.getElementById("tab-" + t).hidden = t !== b.dataset.tab;
 }));
 
 function todayCT() {
