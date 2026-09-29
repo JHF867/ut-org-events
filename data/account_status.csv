@@ -20,7 +20,7 @@ aeitexas,Architectural Engineering Institute,Tier 1,active,2026-09-28,2026-09-29
 afterglowatx,Afterglow ATX,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ahs_utaustin,The Alexander Hamilton Society at UT Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 aiaa_ut,American Institute of Aeronautics and Astronautics,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-aiesec_in_austin,AIESEC in Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+aiesec_in_austin,AIESEC in Austin,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 ala_saa_ut,American Library Association & Society of American Archivists UT Student Chapter,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 almaoncampusatx,Alliance on Latinx Mental-Health Awareness,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 almutexas,Alpha Lambda Mu at UT Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -82,10 +82,10 @@ creekside_whiteboard,Creekside Residence Hall Council,Tier 2,unknown,,2026-09-29
 crisis_aidnetwork,Crisis Aid Network,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 crossroads.atx,Crossroads,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 csoc_tx,Christian Students on Campus,Tier 1,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-cyctexas,Consult Your Community- Texas Chapter,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+cyctexas,Consult Your Community- Texas Chapter,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 danceaction.ut,Dance Action,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 daprtx,Diversity in Advertising & PR,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-dascutaustin,Disability Advocacy Student Coalition,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
+dascutaustin,Disability Advocacy Student Coalition,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 dcc_ut,Disability Cultural Center,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 deafculturealliance,Deaf Culture Alliance at the University of Texas at Austin,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 deansscholars,Dean's Scholars Student Association,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -101,11 +101,11 @@ driftmagatx,Drift Magazine ATX,Tier 2,unknown,,2026-09-29,Not enough history yet
 durenrhc,Duren Residence Hall Council,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 eaatut,Effective Altruism at University of Texas at Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 echo.texas,Engineering Chamber Orchestra,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-eclairrobotics,Engineering and Computational Learning of Artificial Intelligence in Robotics,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
+eclairrobotics,Engineering and Computational Learning of Artificial Intelligence in Robotics,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 efa.utexas,Education for All,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 egadsaustin,Electronic Game Developers Society,Tier 1,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 eialphas,"Alpha Phi Alpha Fraternity, Inc.",Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-ejcollectiveut,Environmental Justice Collective,Tier 1,unknown,,,Not enough history yet. Checked every scheduled run until we know more.
+ejcollectiveut,Environmental Justice Collective,Tier 1,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 emancipetoncampus,Emancipet on Campus,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 enable_ut,e-NABLE at UT Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 enc_tx,Every Nation Campus,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -131,14 +131,14 @@ grltexas,Gamma Rho Lambda,Tier 2,active,2026-09-28,2026-09-29,Posted in the last
 gscatut,GSC Student Leadership Committee,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 gum_ut_austin,Graduates for Underrepresented Minorities,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 h4haustin,Hearts for the Homeless Austin,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-haven_students,Haven Student Fellowship,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+haven_students,Haven Student Fellowship,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 hcmptexas,Health Careers Mentorship Program,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 healingwithharmonies,Healing with Harmonies,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 healthyhorns,Healthyhorns,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 heartclub_ut,Heart Club @ UT,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 heartfulness,Heartfulness Meditation Group,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 heelhookem,Brazilian Jiu Jitsu at the University of Texas,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-helping.hornz,Helping Hornz,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+helping.hornz,Helping Hornz,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 hercampustexas,Her Campus at Texas,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 hillhousestudycenter,Hill House Students,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 hinduyuva.utaustin,Hindu YUVA,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -158,7 +158,7 @@ ieee.ut,Institute of Electrical & Electronics Engineers,Tier 1,active,2026-09-28
 ieee.ut.pes,IEEE Power and Energy Society,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 ignitetexas,Ignite Texas,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 igsmatx,International Graduate Student Ministry - at Austin,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-ilassa40,Institute of Latin American Studies Stu. Assn.,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+ilassa40,Institute of Latin American Studies Stu. Assn.,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 inbetweenthelines.ut,In Between the Lines,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 ismp_austin,International Student Mentorship Program at UT,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 ispetexas,The International Society for Pharmaceutical Engineering,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -166,7 +166,7 @@ iusm_austin,International Undergraduate Student Ministry-Austin,Tier 1,unknown,,
 ivlafelonghorns,La Fe (Latino Fellowship),Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 iwhtexaslaw,If/When/How at the University of Texas at Austin,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 jesterunited,Jester East Residence Hall Council,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-kapparhoaustin,Kappa Rho Pre-Medical Honors Sorority,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+kapparhoaustin,Kappa Rho Pre-Medical Honors Sorority,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 kbeat_ut,K-Beat,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ke.utcop,Kappa Epsilon - Pharmacy,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 kesemutaustin,Camp Kesem at the University of Texas at Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -198,12 +198,12 @@ longhorn_sim_racing,Longhorn Sim Racing,Tier 1,unknown,,2026-09-29,Not enough hi
 longhorn_voices,Longhorn Voices Book Club,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhornassetmgmt,Longhorn Asset Management,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhornatsa,Longhorn Athletic Training Student Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-longhornbaja,Longhorn Baja Racing,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+longhornbaja,Longhorn Baja Racing,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 longhornbakers,Longhorn Bakers,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhornbestbuddies,Best Buddies,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhornbsm,Baptist Student Ministry,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 longhorncatholic,Longhorn Catholic Council,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-longhorncomicbooks,Longhorn Comic Books,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+longhorncomicbooks,Longhorn Comic Books,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 longhorndanceco,Longhorn Dance Club,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhorndesignlab,The Longhorn Design Lab,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhorndevelopers,Longhorn Developers,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -211,7 +211,7 @@ longhorndigitalmarketing,Longhorn Digital Marketing,Tier 1,unknown,,2026-09-29,N
 longhornems,Longhorn EMS,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 longhornescapesociety,Longhorn Escape Society,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhornfinance,Financial Literacy Club @ UT Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-longhornforisrael,Longhorn Students For Israel,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+longhornforisrael,Longhorn Students For Israel,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 longhornfurries,Longhorn Furries,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhorngaming,Longhorn Gaming,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 longhornhellraisers,Longhorn Hellraisers,Tier 2,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -258,9 +258,9 @@ ncnwutaustin,"National Council of Negro Women, UT Austin Section",Tier 1,active,
 newwavelonghorns,New Wave Longhorns,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 nice_utaustin,Nuclear Is Clean Energy,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 nsdispos,Nritya Sangam Indian Dance Troupe,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-nuecesmosque,Nueces Mosque - Student Chapter,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
+nuecesmosque,Nueces Mosque - Student Chapter,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 occm.texas,Orthodox Christian Campus Ministries at UT Austin,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-officialpulseclub,0fficial Pulse Club,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
+officialpulseclub,0fficial Pulse Club,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 onewaysaiv,OneWay South Asian InterVarsity,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 outlawut,OUTLaw - LGBTQ Law Student Association,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 pdclambda,Phi Delta Chi,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -298,7 +298,7 @@ sanjac_rhc,San Jacinto Residence Hall Council,Tier 2,unknown,,2026-09-29,Not eno
 sasetexas,Society of Asian Scientists and Engineers,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 sasputaustin,Student Affiliates for School Psychology,Tier 2,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 sba_ut,Student Bar Association,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-sbi_ut,Sustainable Building Initiative,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+sbi_ut,Sustainable Building Initiative,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 science.under.the.stars,Science Under the Stars,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 scmso_ut,Supply Chain Management Student Organization,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 score.athletics,SCORE Athletics,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -317,11 +317,11 @@ skyatutaustin,SKY Meditation and Wellness,Tier 1,unknown,,2026-09-29,Not enough 
 smlsut,Students in Medical Laboratory Science,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 snafu_prov,SNAFU Improv,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 socksforthesole,Socks for the Sole,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-sof.utexas,Scholars of Finance,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+sof.utexas,Scholars of Finance,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 sohe_ambassadors,School of Human Ecology Ambassadors,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 sol_utexas,Project MALES Student Organization,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 sparkmagazinetx,SPARK Magazine,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-specialolympics.texas,Special Olympics Club at The University of Texas,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+specialolympics.texas,Special Olympics Club at The University of Texas,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 spicmacay_utaustin,SPIC MACAY Chapter at UT Austin,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 sports_entertainmentls,Sports and Entertainment Law Society,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 spotlights_utt,UTeach Theatre Spotlights,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -348,7 +348,7 @@ tddtaustin,Texas Dragon/Lion Dance Team,Tier 2,active,2026-09-28,2026-09-29,Post
 teachersoftomorrowut,Teachers of Tomorrow,Tier 2,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 tedxutaustin,TEDxUTAustin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas.aiche,American Institute of Chemical Engineers,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-texas.alpha,Tau Beta Pi - Engineering,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texas.alpha,Tau Beta Pi - Engineering,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texas.aotw,Texas Album of the Week,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas.apalsa,Asian Pacific American Law Student Association,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas.aws,Disabilities Inclusion Agency,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -380,13 +380,13 @@ texas_bhpo,Black Health Professions Organization- MAPS Chapter,Tier 1,active,202
 texas_cbc,Christian Business Student Council,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_cru,Texas Cru,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texas_dawah,Texas Dawah Team,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-texas_eco,Texas Energy Consulting,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texas_eco,Texas Energy Consulting,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texas_fcc,Foundation Communities on Campus,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_financial_futures,Texas Financial Futures,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_gammas,Sigma Lambda Gamma National Sorority,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 texas_gis,Gamma Iota Sigma @ UT Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_lcmd,Let's Crush Medical Debt at UT Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-texas_lphc,The Latino Pan-Hellenic Council,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texas_lphc,The Latino Pan-Hellenic Council,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texas_mse,Texas Materials Scientists and Engineers,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_nurhopsi,Texas Nu Rho Psi,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texas_pearls,Texas Pearls,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -401,7 +401,7 @@ texas_sps,Society of Physics Students,Tier 2,active,2026-09-28,2026-09-29,Posted
 texas_ssa,Sikh Students Association,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texas_tabletennis,Texas Table Tennis,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_tabletop,Texas Table Top,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-texas_tapc,Texas Asian Pan-Hellenic Council,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texas_tapc,Texas Asian Pan-Hellenic Council,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texas_ula,Texas Undergraduate Law and Policy Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_umbra,University Management & Business Research Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texas_wake,Texas Wake,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -425,7 +425,7 @@ texasapo,Alpha Phi Omega,Tier 1,unknown,,2026-09-29,Not enough history yet. Chec
 texasasm,American Society for Microbiology at The University of Texas at Austin,Tier 2,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texasasr,Alpha Sigma Rho Sorority,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasato,Alpha Tau Omega Fraternity,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-texasaustinlmsa,Longhorn Malayali Student Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texasaustinlmsa,Longhorn Malayali Student Association,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texasawm,Association for Women in Mathematics - Texas Chapter,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasaxo,Alpha Chi Omega,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texasballroom,Texas Ballroom,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -467,12 +467,12 @@ texaseconomicsassociation,Texas Economics Association,Tier 1,active,2026-09-27,2
 texaseeb,"Texas Ecology, Evolution, and Behavior Club",Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texasequestrianteam,Texas Equestrian Team,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasequitygroup,Texas Equity Group,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-texasewh,Texas Engineering World Health,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texasewh,Texas Engineering World Health,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texasfda,Future Doctors of America,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasfederalistsociety,Texas Federalist Society,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texasfencing,UT Fencing Club,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasffs,Texas Fashion for Students,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-texasfgi,Texas FGI,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texasfgi,Texas FGI,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texasfimrc,Foundation for International Medical Relief of Children,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasfinanceteam,Texas Finance Team,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasfolklorico,Texas Folklorico Dance Company,Tier 2,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -524,7 +524,7 @@ texaslhpo,Latinx Health Professions Organization,Tier 1,active,2026-09-28,2026-0
 texaslittlehealthheroes,Little Health Heroes,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texaslonestars,Texas Lonestars,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texasloveclub,The L.O.V.E. Club,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-texaslppa,Longhorn Pre-Pharmacy Association,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
+texaslppa,Longhorn Pre-Pharmacy Association,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texasluminescence,Texas Luminescence,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texaslxa,Lambda Chi Alpha Fraternity,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasmaes,Texas Latinos in Engineering and Sciences,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -554,7 +554,7 @@ texasomegas,Omega Phi Gamma Fraternity,Tier 2,unknown,,2026-09-29,Not enough his
 texasound,Texas Society Of Unconventional Drummers,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 texasoxe,Omega Chi Epsilon - Chemical Engineering,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texaspad,Texas Phi Alpha Delta,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-texaspanhellenic,University Panhellenic Council,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+texaspanhellenic,University Panhellenic Council,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 texaspct,Phi Chi Theta,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasperfectpair,Texas Perfect Pair,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 texasphi,Alpha Epsilon Phi,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -641,7 +641,7 @@ theoralcareproject,The Oral Care Project,Tier 1,unknown,,2026-09-29,Not enough h
 thetejasclub,The Tejas Club,Tier 2,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 thetexasironspikes,Texas Iron Spikes,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 thetexasorator,The Texas Orator,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-tisa_utaustin,Taiwanese International Student Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+tisa_utaustin,Taiwanese International Student Association,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 tketexas,Tau Kappa Epsilon Fraternity,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 tl_dna,Law Student Disability and Neurodivergent Alliance,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 tmls_utlaw,Thurgood Marshall Legal Society,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -651,7 +651,7 @@ tribetaatut,Beta Beta Beta Biological Honor Society,Tier 1,unknown,,2026-09-29,N
 tsa_ut.austin,Taiwanese Student Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 tspa.atx,Texas Student Psychological Association,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 tspe.austin,Texas Society of Professional Engineers at the University of Texas at Austin,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-tuso_utexas,Texas Undergraduate Sales Organization,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+tuso_utexas,Texas Undergraduate Sales Organization,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 tx.ent,Epsilon Nu Tau- Phi Collegiate Chapter,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 tx.isss,Information and Systems Security Society (ISSS),Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 tx_bha,Texas Business Healthcare Association,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -659,7 +659,7 @@ tx_bsma,Black Student Media Association,Tier 2,unknown,,2026-09-29,Not enough hi
 tx_diamonds,Texas Baseball Diamonds,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 tx_nlgja,TX NLGJA,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 tx_nphc,National Pan-Hellenic Council,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-txactuarial,Actuarial Science Club,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+txactuarial,Actuarial Science Club,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 txaldpes,Alpha Lambda Delta Phi Eta Sigma - Freshmen,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 txalphaphisigma,Alpha Phi Sigma - Pre Health Honors Society,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 txangels,Texas Angels,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -694,7 +694,7 @@ txpersians,Iranian Students Academic and Cultural Organization,Tier 1,unknown,,2
 txprelaw,Texas Pre-Law Honor Society,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 txproduct,Texas Product Engineering Organization,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 txproductcatalyst,Texas Product Catalyst,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-txprojectsunshine,Project Sunshine at the University of Texas at Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+txprojectsunshine,Project Sunshine at the University of Texas at Austin,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 txransomnotes,The Ransom Notes,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 txrotaract,Texas Rotaract,Tier 1,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 txs_tea,Texas Entertainment Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -711,7 +711,7 @@ txwids,Women in Data and Statistics,Tier 1,active,2026-09-28,2026-09-29,Posted i
 txwomensrugby,Texas Women's Rugby,Tier 2,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 txwritingsociety,Texas Writing Society,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 txzobha,Zobha,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
-typetexascdn,Type Texas: The CDN Chapter at UT Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+typetexascdn,Type Texas: The CDN Chapter at UT Austin,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 umraustin,United Mission for Relief & Development Texas Chapter,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 unidoslbj,Students Unidos at the LBJ School,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 university.yogaclub,University Yoga Club,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
@@ -723,16 +723,16 @@ ut.alcsi,American Lung Cancer Screening Initiative,Tier 1,unknown,,2026-09-29,No
 ut.asme,American Society of Mechanical Engineers,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ut.chllsa,Chicano/Hispanic/Latino Law Students' Association,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 ut.hsc,Health and Society Collective,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-ut.longhornracing,Longhorn Racing,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+ut.longhornracing,Longhorn Racing,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 ut.true,Teaching Refugees to Understand English at UT Austin,Tier 1,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ut_.tes,Texas Education Society,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ut_arc,Amateur Radio Club at the University of Texas at Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 ut_collective,Community Engagement Collective,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-ut_embrace,Texas embrACE,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
+ut_embrace,Texas embrACE,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ut_eoe,Equal Opportunity in Engineering Program,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 ut_fye,First-Year & Transfer-Year Experience,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ut_hispanic_predents,Hispanic Pre-Dental Society,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-ut_ica,Indian Cultural Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
+ut_ica,Indian Cultural Association,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ut_ieee_ras,IEEE Robotics and Automation Society,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 ut_lawtinanetwork,Lawtina Network,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 ut_lmbc,Longhorn Music Business Club,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -753,15 +753,15 @@ utaustintix,Title IX Office,Tier 1,unknown,,2026-09-29,Not enough history yet. C
 utaustintokc,TOKC at UT,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 utbrpeople,"Brackenridge, Roberts, & Prather Residence Hall Council",Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 utcec,Campus Environmental Center,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-utcelebration.ya,Celebration Young Adults at the University of Texas at Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
-utcookemhorns,Cook 'Em Horns,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+utcelebration.ya,Celebration Young Adults at the University of Texas at Austin,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
+utcookemhorns,Cook 'Em Horns,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 utdeanofstudents,Student Governance Organizations,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 utdos,Student Organizations,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 uteachla,UTeach-Liberal Arts,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 utedcouncil,College of Education Council,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 uteverychildproject,Every Child Project,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-utexas.habitat,Habitat for Humanity Campus Chapter,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
-utexas.swifties,Texas Swifties,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+utexas.habitat,Habitat for Humanity Campus Chapter,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
+utexas.swifties,Texas Swifties,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 utexas_nutrition,Texas Nutrition at the University of Texas at Austin,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 utexasastronomy,Astronomy Students Association,Tier 2,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 utexascee,Campus Events + Entertainment,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -773,7 +773,7 @@ utexasenergy,Texas Energy Trading,Tier 1,unknown,,2026-09-29,Not enough history 
 utexasias,International Affairs Society,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 utexasindigo,Indigo Collective@UT,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 utexaskpl,"Kappa Phi Lambda Sorority, Inc.",Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
-utexaslglobal,Texas Global,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+utexaslglobal,Texas Global,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 utexasrecovery,The Center for Students in Recovery,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 utexasrugby,Texas Rugby,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 utexassoc,Texas Sociological Association,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
@@ -812,7 +812,7 @@ utunions,University Unions,Tier 1,active,2026-09-28,2026-09-29,Posted in the las
 utuniversityorch,University Orchestra Student Association,Tier 2,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 utxfat,Black Student Alliance's Freshman Action Team,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 utxmsa,Texas Minority Sports Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-uxpa.ut,UXPA Student Chapter,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+uxpa.ut,UXPA Student Chapter,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 vamostennis_tx,Vamos Tennis,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 vcl.utexas,Vietnamese Culture & Language,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 venezuelansatutaustin,Venezuelans at UT Austin,Tier 1,active,2026-09-26,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -821,7 +821,7 @@ vfs_ut,Vertical Flight Society at UT,Tier 1,unknown,,2026-09-29,Not enough histo
 vppaatut,Veterinary Pharmacy Practice Association,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 waxzine.atx,Wax Magazine,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 wcae.utexas,"Women in Civil, Architectural, and Environmental Engineering",Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
-wccatut,Women's Community Center,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+wccatut,Women's Community Center,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 welcome_acccf,Austin Chinese Campus Christian Fellowship,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 wiald_ut,Women in Aerospace for Leadership and Development,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 wim_ut,Women in Medicine,Tier 1,active,2026-09-27,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
@@ -829,5 +829,5 @@ wip_utaustin,Women in Psychology,Tier 2,active,2026-09-27,2026-09-29,Posted in t
 wlc_ut,Women Leaders in Communication,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 wmso.tx,Wealth Management Student Organization,Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 womenslawcaucus,Women's Law Caucus,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-wpge_ut,Women in Petroleum and Geosystems Engineering,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+wpge_ut,Women in Petroleum and Geosystems Engineering,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 zetapsitexas,Zeta Psi Fraternity,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
