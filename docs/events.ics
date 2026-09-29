@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ut-org-events//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UT Org Events
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:Dd2cvQVRXWj@ut-org-events
+DTSTAMP:20260929T051336Z
+DTSTART:20260929T230000Z
+DTEND:20260930T010000Z
+SUMMARY:Launch with Confidence - Career Discussion (American Association 
+ of Drilling Engineers)
+LOCATION:CPE 2.204
+DESCRIPTION:Combined meeting: AADE x SPE x IADC x AAPG\; speaker JP Warre
+ n (Founder & Coach)\nOriginal post: https://www.instagram.com/p/Dd2cvQVRX
+ Wj/
+URL:https://www.instagram.com/p/Dd2cvQVRXWj/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd1mx9Fxi-K@ut-org-events
+DTSTAMP:20260929T051336Z
+DTSTART:20260930T230000Z
+DTEND:20261001T000000Z
+SUMMARY:General Meeting #3 with Datum Engineers (Architectural Engineerin
+ g Institute) - free food
+LOCATION:CPE 2.208
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd1mx9Fxi-K/
+URL:https://www.instagram.com/p/Dd1mx9Fxi-K/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd1unuCvkFV@ut-org-events
+DTSTAMP:20260929T051336Z
+DTSTART:20261001T173000Z
+DTEND:20261001T183000Z
+SUMMARY:General Meeting #2 with Dr. Reagan Schlierf (American Association
+  of Psychiatric Pharmacists\, Austin Texas Collegiate Chapter)
+LOCATION:PHR 3.106 (Austin)
+DESCRIPTION:Also in San Antonio at MCD 2.108\; speaker is Johns Hopkins P
+ GY2 Psychiatric Resident discussing residency\, precepting\, and psychiat
+ ric care\nOriginal post: https://www.instagram.com/p/Dd1unuCvkFV/
+URL:https://www.instagram.com/p/Dd1unuCvkFV/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd16oXkJLCv@ut-org-events
+DTSTAMP:20260929T051336Z
+DTSTART:20261001T220000Z
+DTEND:20261001T230000Z
+SUMMARY:General Meeting #2 (ADAPT Texas)
+LOCATION:CPE 2.204
+DESCRIPTION:Guest speakers: Sergio Zarate (Texas Lawmaker\, ARC of Texas)
+  and Chris Rylander (Associate Professor of Mechanical Engineering)\nOrig
+ inal post: https://www.instagram.com/p/Dd16oXkJLCv/
+URL:https://www.instagram.com/p/Dd16oXkJLCv/
+END:VEVENT
+END:VCALENDAR

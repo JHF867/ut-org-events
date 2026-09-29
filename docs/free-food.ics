@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ut-org-events//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UT Free Food
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:Dd1mx9Fxi-K@ut-org-events
+DTSTAMP:20260929T051336Z
+DTSTART:20260930T230000Z
+DTEND:20261001T000000Z
+SUMMARY:General Meeting #3 with Datum Engineers (Architectural Engineerin
+ g Institute) - free food
+LOCATION:CPE 2.208
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd1mx9Fxi-K/
+URL:https://www.instagram.com/p/Dd1mx9Fxi-K/
+END:VEVENT
+END:VCALENDAR

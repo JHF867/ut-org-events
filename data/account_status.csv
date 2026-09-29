@@ -1,7 +1,7 @@
 handle,org,tier,status,last_post_seen,last_checked,why
 32.fsc,Texas Figure Skating,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
 _forevertexas,Forever Texas,Tier 2,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
-_txwe_,Texas Women in Economics,Tier 1,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more. WARNING: not found on the last check; one more miss and it stops being checked.
+_txwe_,Texas Women in Economics,Tier 1,dead,,2026-09-29,"Not found twice, or private. Not checked. Fix the handle in data/orgs.csv to bring it back."
 aade.utex,American Association of Drilling Engineers,Tier 1,active,2026-09-29,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
 aaja_ut,Asian American Journalists Association at UT,Tier 2,unknown,,2026-09-29,Not enough history yet. Checked every scheduled run until we know more.
 aapp.atx,"American Association of Psychiatric Pharmacists, Austin Texas Collegiate Chapter",Tier 1,active,2026-09-28,2026-09-29,Posted in the last 21 days. Checked every scheduled run.
