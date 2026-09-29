@@ -1,0 +1,4 @@
+apify-client>=3.2,<4
+anthropic>=0.40
+requests>=2.31
+Pillow>=10.0

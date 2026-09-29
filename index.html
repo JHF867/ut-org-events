@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Campus Events + Free Food</title>
+<meta name="description" content="Student org events and free food at UT Austin, pulled from org Instagram posts.">
+<style>
+  :root {
+    --bg: #faf8f5; --card: #ffffff; --ink: #1f1d1a; --muted: #6b665e; --line: #e7e2da;
+    --accent: #bf5700; --accent-soft: #fbeee4; --good: #1f7a4d; --good-soft: #e6f4ec; --warn-soft: #fff5d6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #151412; --card: #1f1d1a; --ink: #f1ede6; --muted: #a39d93; --line: #34312c;
+            --accent: #f08a3c; --accent-soft: #3a2616; --good: #5fcf94; --good-soft: #17301f; --warn-soft: #3a3217; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { padding: 20px 16px 8px; max-width: 880px; margin: 0 auto; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 13px; }
+  .subs { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .btn { display: inline-block; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--line);
+         background: var(--card); color: var(--ink); text-decoration: none; font-size: 13px; cursor: pointer; }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  nav { max-width: 880px; margin: 8px auto 0; padding: 0 16px; display: flex; gap: 4px; border-bottom: 1px solid var(--line); }
+  nav button { background: none; border: none; padding: 10px 12px; font: inherit; color: var(--muted); cursor: pointer;
+               border-bottom: 2px solid transparent; margin-bottom: -1px; }
+  nav button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); font-weight: 600; }
+  main { max-width: 880px; margin: 0 auto; padding: 12px 16px 48px; }
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 14px; }
+  .filters input, .filters select { font: inherit; font-size: 14px; padding: 7px 10px; border-radius: 8px;
+         border: 1px solid var(--line); background: var(--card); color: var(--ink); min-width: 0; }
+  .filters input[type=search] { flex: 1 1 200px; }
+  .filters label { display: flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
+  h2.day { font-size: 14px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 18px 0 8px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-bottom: 8px; }
+  .card .top { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+  .time { font-weight: 600; white-space: nowrap; font-size: 14px; }
+  .title { font-weight: 600; font-size: 16px; }
+  .org { color: var(--muted); font-size: 13px; }
+  .meta { margin-top: 6px; display: flex; gap: 6px; flex-wrap: wrap; font-size: 13px; }
+  .pill { padding: 2px 8px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); color: var(--muted); }
+  .pill.food { background: var(--good-soft); border-color: transparent; color: var(--good); font-weight: 600; }
+  .pill.likely { background: var(--warn-soft); border-color: transparent; color: var(--ink); }
+  .pill.members { background: var(--accent-soft); border-color: transparent; color: var(--accent); }
+  .card a.post { font-size: 13px; color: var(--accent); text-decoration: none; }
+  .empty { color: var(--muted); padding: 24px 0; text-align: center; }
+  .org-row { display: flex; justify-content: space-between; gap: 12px; }
+  .org-row .desc { color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .count { color: var(--muted); font-size: 13px; margin-bottom: 6px; }
+  footer { max-width: 880px; margin: 0 auto; padding: 0 16px 32px; color: var(--muted); font-size: 12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Campus Events + Free Food</h1>
+  <div class="sub" id="updated">Loading...</div>
+  <div class="subs">
+    <a class="btn primary" id="sub-food" href="free-food.ics">Subscribe: free food calendar</a>
+    <a class="btn" id="sub-all" href="events.ics">Subscribe: all events</a>
+  </div>
+</header>
+
+<nav role="tablist">
+  <button role="tab" aria-selected="true" data-tab="food">Free food</button>
+  <button role="tab" aria-selected="false" data-tab="events">All events</button>
+  <button role="tab" aria-selected="false" data-tab="orgs">Org directory</button>
+</nav>
+
+<main>
+  <section id="tab-food">
+    <div class="filters">
+      <label><input type="checkbox" id="food-likely"> Include "likely" food</label>
+      <label><input type="checkbox" id="food-members"> Include members-only</label>
+    </div>
+    <div id="food-list"></div>
+  </section>
+
+  <section id="tab-events" hidden>
+    <div class="filters">
+      <input type="search" id="ev-q" placeholder="Search events or orgs">
+      <select id="ev-purpose"><option value="">All categories</option></select>
+      <select id="ev-school"><option value="">All schools</option></select>
+      <label><input type="checkbox" id="ev-food"> Free food only</label>
+    </div>
+    <div id="ev-list"></div>
+  </section>
+
+  <section id="tab-orgs" hidden>
+    <div class="filters">
+      <input type="search" id="org-q" placeholder="Search orgs">
+      <select id="org-purpose"><option value="">All categories</option></select>
+      <select id="org-school"><option value="">All schools</option></select>
+      <select id="org-member"><option value="">Any membership</option></select>
+    </div>
+    <div class="count" id="org-count"></div>
+    <div id="org-list"></div>
+  </section>
+</main>
+
+<footer>Events are read automatically from public Instagram posts and can be wrong. Always check the original post. Not affiliated with the university.</footer>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let EVENTS = [], ORGS = [];
+
+// webcal:// links make phones offer "Subscribe" instead of downloading a file
+for (const id of ["sub-food", "sub-all"]) {
+  const a = document.getElementById(id);
+  const url = new URL(a.getAttribute("href"), location.href);
+  if (url.protocol.startsWith("http")) a.href = "webcal://" + url.host + url.pathname;
+}
+
+document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll("nav button").forEach(x => x.setAttribute("aria-selected", x === b));
+  for (const t of ["food", "events", "orgs"]) document.getElementById("tab-" + t).hidden = t !== b.dataset.tab;
+}));
+
+function todayCT() {
+  const p = new Intl.DateTimeFormat("en-CA", {timeZone: "America/Chicago", year: "numeric", month: "2-digit", day: "2-digit"}).format(new Date());
+  return p; // YYYY-MM-DD
+}
+function addDays(iso, n) { const d = new Date(iso + "T12:00:00"); d.setDate(d.getDate() + n); return d.toISOString().slice(0, 10); }
+function dayLabel(iso) {
+  const t = todayCT();
+  if (iso === t) return "Today";
+  if (iso === addDays(t, 1)) return "Tomorrow";
+  return new Date(iso + "T12:00:00").toLocaleDateString("en-US", {weekday: "long", month: "short", day: "numeric"});
+}
+function fmtTime(hm) {
+  if (!hm) return "Time on post";
+  let [h, m] = hm.split(":").map(Number);
+  const ap = h >= 12 ? "pm" : "am"; h = h % 12 || 12;
+  return m ? `${h}:${String(m).padStart(2, "0")}${ap}` : `${h}${ap}`;
+}
+
+function card(e) {
+  const time = fmtTime(e.start_time) + (e.end_time ? "–" + fmtTime(e.end_time) : "");
+  const pills = [];
+  if (e.free_food) pills.push(`<span class="pill ${e.food_confidence === "likely" ? "likely" : "food"}">${e.food_confidence === "likely" ? "Food likely" : "Free food"}${e.food_details ? ": " + esc(e.food_details) : ""}</span>`);
+  if (e.location) pills.push(`<span class="pill">${esc(e.location)}</span>`);
+  if (e.members_only) pills.push(`<span class="pill members">Members only</span>`);
+  if (e.cost) pills.push(`<span class="pill">${esc(e.cost)}</span>`);
+  return `<div class="card">
+    <div class="top"><div><div class="title">${esc(e.title || "Event")}</div>
+      <div class="org">${esc(e.org_name)}${e.cohosts?.length ? " + " + e.cohosts.map(c => "@" + esc(c)).join(", ") : ""}</div></div>
+      <div class="time">${time}</div></div>
+    <div class="meta">${pills.join("")}</div>
+    ${e.notes ? `<div class="org" style="margin-top:6px">${esc(e.notes)}</div>` : ""}
+    <div style="margin-top:6px"><a class="post" href="${esc(e.post_url)}" target="_blank" rel="noopener">Original post ↗</a>
+    ${e.rsvp_link ? ` · <a class="post" href="${esc(e.rsvp_link)}" target="_blank" rel="noopener">RSVP ↗</a>` : ""}</div>
+  </div>`;
+}
+
+function grouped(list, emptyMsg) {
+  if (!list.length) return `<div class="empty">${emptyMsg}</div>`;
+  let html = "", last = null;
+  for (const e of list) {
+    const d = e.date || "undated";
+    if (d !== last) { html += `<h2 class="day">${d === "undated" ? "Date on the post" : dayLabel(d)}</h2>`; last = d; }
+    html += card(e);
+  }
+  return html;
+}
+
+function upcoming(e) { return !e.date || e.date >= todayCT(); }
+
+function renderFood() {
+  const likely = $("#food-likely").checked, members = $("#food-members").checked;
+  const end = addDays(todayCT(), 6);
+  const list = EVENTS.filter(e => e.free_food && upcoming(e) && e.date && e.date <= end
+    && (likely || e.food_confidence === "stated") && (members || !e.members_only));
+  $("#food-list").innerHTML = grouped(list, "No free food found for the next 7 days yet. Check back after the next update.");
+}
+
+function renderEvents() {
+  const q = $("#ev-q").value.toLowerCase(), p = $("#ev-purpose").value, s = $("#ev-school").value, f = $("#ev-food").checked;
+  const list = EVENTS.filter(e => upcoming(e) && (!p || e.purpose === p) && (!s || (e.school || "").startsWith(s))
+    && (!f || e.free_food) && (!q || `${e.title} ${e.org_name} ${e.location}`.toLowerCase().includes(q)));
+  $("#ev-list").innerHTML = grouped(list, "No matching events.");
+}
+
+function renderOrgs() {
+  const q = $("#org-q").value.toLowerCase(), p = $("#org-purpose").value, s = $("#org-school").value, m = $("#org-member").value;
+  const list = ORGS.filter(o => (!p || o.purpose === p) && (!s || o.school.startsWith(s)) && (!m || o.membership === m)
+    && (!q || `${o.name} ${o.desc}`.toLowerCase().includes(q)));
+  $("#org-count").textContent = `${list.length} orgs`;
+  $("#org-list").innerHTML = list.slice(0, 300).map(o => `<div class="card"><div class="org-row">
+      <div><div class="title">${esc(o.name)}</div><div class="org">${esc(o.purpose)} · ${esc(o.school.split(";")[0].replace(" (by discipline)", ""))} · ${esc(o.membership)}</div>
+      <div class="desc">${esc(o.desc)}</div></div>
+      ${o.handle ? `<a class="post" href="https://www.instagram.com/${esc(o.handle)}" target="_blank" rel="noopener">@${esc(o.handle)}</a>` : ""}</div></div>`).join("")
+    + (list.length > 300 ? `<div class="empty">Showing the first 300. Narrow the search to see more.</div>` : "");
+}
+
+function fillSelect(sel, values) {
+  for (const v of [...new Set(values)].filter(Boolean).sort()) sel.insertAdjacentHTML("beforeend", `<option>${esc(v)}</option>`);
+}
+
+Promise.all([fetch("events.json").then(r => r.json()).catch(() => ({events: []})),
+             fetch("orgs.json").then(r => r.json()).catch(() => [])]).then(([ev, orgs]) => {
+  EVENTS = ev.events || []; ORGS = orgs;
+  $("#updated").textContent = ev.updated
+    ? `Updated ${new Date(ev.updated).toLocaleString("en-US", {weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit"})} · ${EVENTS.filter(upcoming).length} upcoming events`
+    : "No events yet. The first update will fill this in.";
+  const schools = o => (o.school || "").split(";")[0].replace(" (by discipline)", "").trim();
+  fillSelect($("#ev-purpose"), ORGS.map(o => o.purpose)); fillSelect($("#ev-school"), ORGS.map(schools));
+  fillSelect($("#org-purpose"), ORGS.map(o => o.purpose)); fillSelect($("#org-school"), ORGS.map(schools));
+  fillSelect($("#org-member"), ORGS.map(o => o.membership));
+  renderFood(); renderEvents(); renderOrgs();
+});
+["#food-likely", "#food-members"].forEach(s => $(s).addEventListener("change", renderFood));
+["#ev-q", "#ev-purpose", "#ev-school", "#ev-food"].forEach(s => $(s).addEventListener("input", renderEvents));
+["#org-q", "#org-purpose", "#org-school", "#org-member"].forEach(s => $(s).addEventListener("input", renderOrgs));
+</script>
+</body>
+</html>
