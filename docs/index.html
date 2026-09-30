@@ -20,22 +20,55 @@
   header { padding: 20px 16px 8px; max-width: 880px; margin: 0 auto; }
   h1 { font-size: 22px; margin: 0 0 4px; }
   .sub { color: var(--muted); font-size: 13px; }
-  .subs { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap; }
-  .btn { display: inline-block; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--line);
-         background: var(--card); color: var(--ink); text-decoration: none; font-size: 13px; cursor: pointer; }
+  .btn { display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--line);
+         background: var(--card); color: var(--ink); text-decoration: none; font: inherit; font-size: 13px; cursor: pointer; }
   .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  /* calendar menu */
+  details.cal { position: relative; display: inline-block; margin-top: 10px; }
+  details.cal summary { list-style: none; }
+  details.cal summary::-webkit-details-marker { display: none; }
+  .cal-menu { position: absolute; z-index: 10; top: calc(100% + 6px); left: 0; width: min(340px, calc(100vw - 32px));
+              background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px;
+              box-shadow: 0 8px 24px rgba(0,0,0,.12); }
+  .cal-menu h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 4px 0 8px; }
+  .cal-menu .row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .cal-menu .note { font-size: 12px; color: var(--muted); margin: 0; }
+
   nav { max-width: 880px; margin: 8px auto 0; padding: 0 16px; display: flex; gap: 4px; border-bottom: 1px solid var(--line); }
   nav button { background: none; border: none; padding: 10px 12px; font: inherit; color: var(--muted); cursor: pointer;
                border-bottom: 2px solid transparent; margin-bottom: -1px; }
   nav button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); font-weight: 600; }
   main { max-width: 880px; margin: 0 auto; padding: 12px 16px 48px; }
+
+  /* day + time picker */
+  .when { margin: 4px 0 10px; }
+  .days { display: flex; gap: 6px; overflow-x: auto; padding: 4px 0 8px; scrollbar-width: thin; }
+  .day { flex: 0 0 auto; display: flex; flex-direction: column; align-items: center; min-width: 58px; padding: 6px 10px;
+         border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--ink); font: inherit; cursor: pointer; }
+  .day .d1 { font-size: 12px; color: var(--muted); }
+  .day .d2 { font-size: 15px; font-weight: 600; }
+  .day .n { font-size: 11px; color: var(--muted); }
+  .day[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .day[aria-pressed="true"] .d1, .day[aria-pressed="true"] .n { color: #fff; opacity: .9; }
+  .day.empty { opacity: .5; }
+  .when-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--card); }
+  .seg button { border: none; background: none; padding: 6px 10px; font: inherit; font-size: 13px; color: var(--muted); cursor: pointer; }
+  .seg button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  .jump { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+  .jump input { font: inherit; font-size: 13px; padding: 5px 8px; border-radius: 8px; border: 1px solid var(--line);
+                background: var(--card); color: var(--ink); }
+
   .filters { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 14px; }
   .filters input, .filters select { font: inherit; font-size: 14px; padding: 7px 10px; border-radius: 8px;
          border: 1px solid var(--line); background: var(--card); color: var(--ink); min-width: 0; }
   .filters input[type=search] { flex: 1 1 200px; }
-  .filters label { display: flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
-  h2.day { font-size: 14px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 18px 0 8px; }
+
+  .banner { background: var(--warn-soft); border-radius: 10px; padding: 8px 12px; font-size: 13px; margin: 6px 0 10px; }
+  h2.day-h { font-size: 14px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 18px 0 8px; }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin-bottom: 8px; }
+  .card.ended { opacity: .55; }
   .card .top { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
   .time { font-weight: 600; white-space: nowrap; font-size: 14px; }
   .title { font-weight: 600; font-size: 16px; }
@@ -45,7 +78,9 @@
   .pill.food { background: var(--good-soft); border-color: transparent; color: var(--good); font-weight: 600; }
   .pill.likely { background: var(--warn-soft); border-color: transparent; color: var(--ink); }
   .pill.members { background: var(--accent-soft); border-color: transparent; color: var(--accent); }
-  .card a.post { font-size: 13px; color: var(--accent); text-decoration: none; }
+  .pill.ended { background: none; }
+  .links { margin-top: 6px; font-size: 13px; }
+  .links a { color: var(--accent); text-decoration: none; }
   .empty { color: var(--muted); padding: 24px 0; text-align: center; }
   .org-row { display: flex; justify-content: space-between; gap: 12px; }
   .org-row .desc { color: var(--muted); font-size: 13px; margin-top: 4px; }
@@ -57,35 +92,49 @@
 <header>
   <h1>Campus Events + Free Food</h1>
   <div class="sub" id="updated">Loading...</div>
-  <div class="subs">
-    <a class="btn primary" id="sub-food" href="free-food.ics">Subscribe: free food calendar</a>
-    <a class="btn" id="sub-all" href="events.ics">Subscribe: all events</a>
-  </div>
+  <details class="cal">
+    <summary class="btn primary">Add to your calendar ▾</summary>
+    <div class="cal-menu">
+      <h3>All events</h3>
+      <div class="row" id="cal-all"></div>
+      <h3>Free food only</h3>
+      <div class="row" id="cal-food"></div>
+      <p class="note">Your calendar app subscribes to the feed and keeps it updated. Google can take up to a day to show new events.</p>
+    </div>
+  </details>
 </header>
 
 <nav role="tablist">
-  <button role="tab" aria-selected="true" data-tab="food">Free food</button>
-  <button role="tab" aria-selected="false" data-tab="events">All events</button>
+  <button role="tab" aria-selected="true" data-tab="events">All events</button>
+  <button role="tab" aria-selected="false" data-tab="food">Free food</button>
   <button role="tab" aria-selected="false" data-tab="orgs">Org directory</button>
 </nav>
 
 <main>
-  <section id="tab-food">
-    <div class="filters">
-      <label><input type="checkbox" id="food-likely"> Include "likely" food</label>
-      <label><input type="checkbox" id="food-members"> Include members-only</label>
+  <div class="when" id="when">
+    <div class="days" id="days" aria-label="Pick a day"></div>
+    <div class="when-row">
+      <div class="seg" id="tod" aria-label="Time of day">
+        <button data-t="any" aria-pressed="true">Any time</button>
+        <button data-t="morning" aria-pressed="false">Morning</button>
+        <button data-t="afternoon" aria-pressed="false">Afternoon</button>
+        <button data-t="evening" aria-pressed="false">Evening</button>
+      </div>
+      <label class="jump">Go to date <input type="date" id="jump"></label>
     </div>
-    <div id="food-list"></div>
-  </section>
+  </div>
 
-  <section id="tab-events" hidden>
+  <section id="tab-events">
     <div class="filters">
       <input type="search" id="ev-q" placeholder="Search events or orgs">
       <select id="ev-purpose"><option value="">All categories</option></select>
       <select id="ev-school"><option value="">All schools</option></select>
-      <label><input type="checkbox" id="ev-food"> Free food only</label>
     </div>
     <div id="ev-list"></div>
+  </section>
+
+  <section id="tab-food" hidden>
+    <div id="food-list"></div>
   </section>
 
   <section id="tab-orgs" hidden>
@@ -105,30 +154,23 @@
 <script>
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-let EVENTS = [], ORGS = [];
+let EVENTS = [], PAST = null, PAST_LOADING = null, ORGS = [];
+const state = { tab: "events", day: "upcoming", tod: "any" };
 
-// webcal:// links make phones offer "Subscribe" instead of downloading a file
-for (const id of ["sub-food", "sub-all"]) {
-  const a = document.getElementById(id);
-  const url = new URL(a.getAttribute("href"), location.href);
-  if (url.protocol.startsWith("http")) a.href = "webcal://" + url.host + url.pathname;
+/* ---------- time helpers (all in Central time) ---------- */
+function nowCT() {
+  const p = Object.fromEntries(new Intl.DateTimeFormat("en-CA", {timeZone: "America/Chicago", year: "numeric", month: "2-digit",
+    day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23"}).formatToParts(new Date()).map(x => [x.type, x.value]));
+  return { date: `${p.year}-${p.month}-${p.day}`, mins: Number(p.hour) * 60 + Number(p.minute) };
 }
-
-document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
-  document.querySelectorAll("nav button").forEach(x => x.setAttribute("aria-selected", x === b));
-  for (const t of ["food", "events", "orgs"]) document.getElementById("tab-" + t).hidden = t !== b.dataset.tab;
-}));
-
-function todayCT() {
-  const p = new Intl.DateTimeFormat("en-CA", {timeZone: "America/Chicago", year: "numeric", month: "2-digit", day: "2-digit"}).format(new Date());
-  return p; // YYYY-MM-DD
-}
-function addDays(iso, n) { const d = new Date(iso + "T12:00:00"); d.setDate(d.getDate() + n); return d.toISOString().slice(0, 10); }
+function addDays(iso, n) { const d = new Date(iso + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
+function toMins(hm) { if (!hm) return null; const [h, m] = hm.split(":").map(Number); return h * 60 + (m || 0); }
 function dayLabel(iso) {
-  const t = todayCT();
+  const t = nowCT().date;
   if (iso === t) return "Today";
   if (iso === addDays(t, 1)) return "Tomorrow";
-  return new Date(iso + "T12:00:00").toLocaleDateString("en-US", {weekday: "long", month: "short", day: "numeric"});
+  if (iso === addDays(t, -1)) return "Yesterday";
+  return new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", {timeZone: "UTC", weekday: "long", month: "short", day: "numeric"});
 }
 function fmtTime(hm) {
   if (!hm) return "Time on post";
@@ -136,53 +178,163 @@ function fmtTime(hm) {
   const ap = h >= 12 ? "pm" : "am"; h = h % 12 || 12;
   return m ? `${h}:${String(m).padStart(2, "0")}${ap}` : `${h}${ap}`;
 }
+// An event has ended if its end time (or start + 2h when no end is given) is before now.
+function hasEnded(e) {
+  const n = nowCT();
+  if (!e.date) return false;
+  if (e.date < n.date) return true;
+  if (e.date > n.date) return false;
+  const start = toMins(e.start_time);
+  if (start === null) return false;
+  const end = toMins(e.end_time);
+  return n.mins > ((end !== null && end > start) ? end : start + 120);
+}
+function inTimeOfDay(e) {
+  if (state.tod === "any") return true;
+  const s = toMins(e.start_time);
+  if (s === null) return false;
+  if (state.tod === "morning") return s < 12 * 60;
+  if (state.tod === "afternoon") return s >= 12 * 60 && s < 17 * 60;
+  return s >= 17 * 60;
+}
 
-function card(e) {
+/* ---------- calendar links ---------- */
+function feedUrl(file) { return new URL(file, location.href).href; }
+function calButtons(file, name) {
+  const https = feedUrl(file), webcal = https.replace(/^https?:/, "webcal:");
+  return `<a class="btn" target="_blank" rel="noopener" href="https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcal)}">Google</a>
+    <a class="btn" href="${esc(webcal)}">Apple / iPhone</a>
+    <a class="btn" target="_blank" rel="noopener" href="https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(https)}&name=${encodeURIComponent(name)}">Outlook</a>
+    <button class="btn" data-copy="${esc(https)}">Copy link</button>`;
+}
+$("#cal-all").innerHTML = calButtons("events.ics", "UT Org Events");
+$("#cal-food").innerHTML = calButtons("free-food.ics", "UT Free Food");
+document.querySelectorAll("[data-copy]").forEach(b => b.addEventListener("click", async () => {
+  try { await navigator.clipboard.writeText(b.dataset.copy); b.textContent = "Copied!"; }
+  catch { prompt("Copy this link and add it to your calendar app:", b.dataset.copy); }
+  setTimeout(() => b.textContent = "Copy link", 2000);
+}));
+document.addEventListener("click", e => { const d = $("details.cal"); if (d.open && !d.contains(e.target)) d.open = false; });
+
+// Google "add this one event" link
+function gcalEvent(e) {
+  if (!e.date) return "";
+  const d = e.date.replace(/-/g, "");
+  let dates;
+  if (e.start_time) {
+    const s = toMins(e.start_time), en = toMins(e.end_time);
+    const end = (en !== null && en > s) ? en : s + 60;
+    const hm = m => String(Math.floor(m / 60) % 24).padStart(2, "0") + String(m % 60).padStart(2, "0") + "00";
+    dates = `${d}T${hm(s)}/${d}T${hm(Math.min(end, 23 * 60 + 59))}`;
+  } else {
+    dates = `${d}/${addDays(e.date, 1).replace(/-/g, "")}`;
+  }
+  const details = [e.free_food && e.food_details ? "Food: " + e.food_details : "", "Original post: " + e.post_url].filter(Boolean).join("\n");
+  const q = new URLSearchParams({action: "TEMPLATE", text: `${e.title || "Event"} (${e.org_name})`, dates, ctz: "America/Chicago",
+                                 location: e.location || "", details});
+  return `https://calendar.google.com/calendar/render?${q}`;
+}
+
+/* ---------- tabs ---------- */
+document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
+  state.tab = b.dataset.tab;
+  document.querySelectorAll("nav button").forEach(x => x.setAttribute("aria-selected", x === b));
+  for (const t of ["events", "food", "orgs"]) document.getElementById("tab-" + t).hidden = t !== state.tab;
+  $("#when").hidden = state.tab === "orgs";
+  render();
+}));
+
+/* ---------- which events to show ---------- */
+function allEvents() { return PAST ? EVENTS.concat(PAST.filter(p => !EVENTS.some(e => e.id === p.id))) : EVENTS; }
+function tabFilter(e) {
+  if (state.tab === "food") return e.free_food;
+  const q = $("#ev-q").value.toLowerCase(), p = $("#ev-purpose").value, s = $("#ev-school").value;
+  return (!p || e.purpose === p) && (!s || (e.school || "").startsWith(s))
+    && (!q || `${e.title} ${e.org_name} ${e.location}`.toLowerCase().includes(q));
+}
+function byTime(a, b) { return (a.date || "9999").localeCompare(b.date || "9999") || (a.start_time || "99").localeCompare(b.start_time || "99"); }
+
+function card(e, ended) {
   const time = fmtTime(e.start_time) + (e.end_time ? "–" + fmtTime(e.end_time) : "");
   const pills = [];
   if (e.free_food) pills.push(`<span class="pill ${e.food_confidence === "likely" ? "likely" : "food"}">${e.food_confidence === "likely" ? "Food likely" : "Free food"}${e.food_details ? ": " + esc(e.food_details) : ""}</span>`);
   if (e.location) pills.push(`<span class="pill">${esc(e.location)}</span>`);
   if (e.members_only) pills.push(`<span class="pill members">Members only</span>`);
   if (e.cost) pills.push(`<span class="pill">${esc(e.cost)}</span>`);
-  return `<div class="card">
+  if (ended) pills.push(`<span class="pill ended">Ended</span>`);
+  const g = !ended && gcalEvent(e);
+  return `<div class="card${ended ? " ended" : ""}">
     <div class="top"><div><div class="title">${esc(e.title || "Event")}</div>
       <div class="org">${esc(e.org_name)}${e.cohosts?.length ? " + " + e.cohosts.map(c => "@" + esc(c)).join(", ") : ""}</div></div>
       <div class="time">${time}</div></div>
     <div class="meta">${pills.join("")}</div>
     ${e.notes ? `<div class="org" style="margin-top:6px">${esc(e.notes)}</div>` : ""}
-    <div style="margin-top:6px"><a class="post" href="${esc(e.post_url)}" target="_blank" rel="noopener">Original post ↗</a>
-    ${e.rsvp_link ? ` · <a class="post" href="${esc(e.rsvp_link)}" target="_blank" rel="noopener">RSVP ↗</a>` : ""}</div>
+    <div class="links"><a href="${esc(e.post_url)}" target="_blank" rel="noopener">Original post ↗</a>
+    ${e.rsvp_link ? ` · <a href="${esc(e.rsvp_link)}" target="_blank" rel="noopener">RSVP ↗</a>` : ""}
+    ${g ? ` · <a href="${esc(g)}" target="_blank" rel="noopener">+ Google Calendar</a>` : ""}</div>
   </div>`;
 }
 
-function grouped(list, emptyMsg) {
-  if (!list.length) return `<div class="empty">${emptyMsg}</div>`;
-  let html = "", last = null;
-  for (const e of list) {
-    const d = e.date || "undated";
-    if (d !== last) { html += `<h2 class="day">${d === "undated" ? "Date on the post" : dayLabel(d)}</h2>`; last = d; }
-    html += card(e);
+function renderDays() {
+  const today = nowCT().date;
+  const upcoming = EVENTS.filter(e => tabFilter(e) && inTimeOfDay(e) && !hasEnded(e));
+  const chips = [`<button class="day" data-day="upcoming" aria-pressed="${state.day === "upcoming"}"><span class="d1">All</span><span class="d2">Upcoming</span><span class="n">${upcoming.length}</span></button>`];
+  for (let i = 0; i < 14; i++) {
+    const iso = addDays(today, i);
+    const n = EVENTS.filter(e => e.date === iso && tabFilter(e) && inTimeOfDay(e)).length;
+    const d = new Date(iso + "T12:00:00Z");
+    const d1 = i === 0 ? "Today" : i === 1 ? "Tmrw" : d.toLocaleDateString("en-US", {timeZone: "UTC", weekday: "short"});
+    const d2 = d.toLocaleDateString("en-US", {timeZone: "UTC", month: "numeric", day: "numeric"});
+    chips.push(`<button class="day${n ? "" : " empty"}" data-day="${iso}" aria-pressed="${state.day === iso}"><span class="d1">${d1}</span><span class="d2">${d2}</span><span class="n">${n || "–"}</span></button>`);
   }
-  return html;
+  $("#days").innerHTML = chips.join("");
+  $("#days").querySelectorAll(".day").forEach(b => b.addEventListener("click", () => setDay(b.dataset.day)));
+  $("#jump").value = state.day === "upcoming" ? "" : state.day;
 }
 
-function upcoming(e) { return !e.date || e.date >= todayCT(); }
-
-function renderFood() {
-  const likely = $("#food-likely").checked, members = $("#food-members").checked;
-  const end = addDays(todayCT(), 6);
-  const list = EVENTS.filter(e => e.free_food && upcoming(e) && e.date && e.date <= end
-    && (likely || e.food_confidence === "stated") && (members || !e.members_only));
-  $("#food-list").innerHTML = grouped(list, "No free food found for the next 7 days yet. Check back after the next update.");
+function setDay(day) {
+  state.day = day || "upcoming";
+  if (state.day !== "upcoming" && state.day < nowCT().date) loadPast();
+  render();
 }
 
-function renderEvents() {
-  const q = $("#ev-q").value.toLowerCase(), p = $("#ev-purpose").value, s = $("#ev-school").value, f = $("#ev-food").checked;
-  const list = EVENTS.filter(e => upcoming(e) && (!p || e.purpose === p) && (!s || (e.school || "").startsWith(s))
-    && (!f || e.free_food) && (!q || `${e.title} ${e.org_name} ${e.location}`.toLowerCase().includes(q)));
-  $("#ev-list").innerHTML = grouped(list, "No matching events.");
+function loadPast() {
+  if (PAST || PAST_LOADING) return;
+  PAST_LOADING = fetch("past.json", {cache: "no-cache"}).then(r => r.ok ? r.json() : {events: []})
+    .catch(() => ({events: []})).then(d => { PAST = d.events || []; render(); });
 }
 
+function renderList() {
+  const today = nowCT().date;
+  const target = state.tab === "food" ? $("#food-list") : $("#ev-list");
+  const noun = state.tab === "food" ? "free food" : "events";
+  if (state.day === "upcoming") {
+    const list = EVENTS.filter(e => tabFilter(e) && inTimeOfDay(e) && !hasEnded(e)).sort(byTime);
+    if (!list.length) { target.innerHTML = `<div class="empty">No upcoming ${noun} found yet. Check back after the next update.</div>`; return; }
+    let html = "", last = null;
+    for (const e of list) {
+      const d = e.date || "undated";
+      if (d !== last) { html += `<h2 class="day-h">${d === "undated" ? "Date on the post" : dayLabel(d)}</h2>`; last = d; }
+      html += card(e, false);
+    }
+    target.innerHTML = html;
+    return;
+  }
+  // a single day
+  const isPast = state.day < today;
+  if (isPast && !PAST) { target.innerHTML = `<div class="empty">Loading history...</div>`; return; }
+  const list = allEvents().filter(e => e.date === state.day && tabFilter(e) && inTimeOfDay(e)).sort(byTime);
+  const open = list.filter(e => !hasEnded(e)), done = list.filter(e => hasEnded(e));
+  let html = `<h2 class="day-h">${dayLabel(state.day)}</h2>`;
+  if (isPast) html += `<div class="banner">You're looking at a past day. <a href="#" id="back-now">Back to upcoming</a></div>`;
+  if (!list.length) html += `<div class="empty">No ${noun} ${isPast ? "recorded" : "found"} for this day${state.tod !== "any" ? " at this time" : ""}.</div>`;
+  html += open.map(e => card(e, false)).join("") + done.map(e => card(e, true)).join("");
+  target.innerHTML = html;
+  const back = document.getElementById("back-now");
+  if (back) back.addEventListener("click", ev => { ev.preventDefault(); setDay("upcoming"); });
+}
+
+/* ---------- org directory ---------- */
 function renderOrgs() {
   const q = $("#org-q").value.toLowerCase(), p = $("#org-purpose").value, s = $("#org-school").value, m = $("#org-member").value;
   const list = ORGS.filter(o => (!p || o.purpose === p) && (!s || o.school.startsWith(s)) && (!m || o.membership === m)
@@ -191,30 +343,44 @@ function renderOrgs() {
   $("#org-list").innerHTML = list.slice(0, 300).map(o => `<div class="card"><div class="org-row">
       <div><div class="title">${esc(o.name)}</div><div class="org">${esc(o.purpose)} · ${esc(o.school.split(";")[0].replace(" (by discipline)", ""))} · ${esc(o.membership)}</div>
       <div class="desc">${esc(o.desc)}</div></div>
-      ${o.handle ? `<a class="post" href="https://www.instagram.com/${esc(o.handle)}" target="_blank" rel="noopener">@${esc(o.handle)}</a>` : ""}</div></div>`).join("")
+      ${o.handle ? `<div class="links"><a href="https://www.instagram.com/${esc(o.handle)}" target="_blank" rel="noopener">@${esc(o.handle)}</a></div>` : ""}</div></div>`).join("")
     + (list.length > 300 ? `<div class="empty">Showing the first 300. Narrow the search to see more.</div>` : "");
 }
+
+function render() {
+  if (state.tab === "orgs") { renderOrgs(); return; }
+  renderDays(); renderList();
+}
+
+/* ---------- controls ---------- */
+$("#tod").querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+  state.tod = b.dataset.t;
+  $("#tod").querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  render();
+}));
+$("#jump").addEventListener("change", e => setDay(e.target.value));
+["#ev-q", "#ev-purpose", "#ev-school"].forEach(s => $(s).addEventListener("input", render));
+["#org-q", "#org-purpose", "#org-school", "#org-member"].forEach(s => $(s).addEventListener("input", renderOrgs));
 
 function fillSelect(sel, values) {
   for (const v of [...new Set(values)].filter(Boolean).sort()) sel.insertAdjacentHTML("beforeend", `<option>${esc(v)}</option>`);
 }
 
-Promise.all([fetch("events.json").then(r => r.json()).catch(() => ({events: []})),
+Promise.all([fetch("events.json", {cache: "no-cache"}).then(r => r.json()).catch(() => ({events: []})),
              fetch("orgs.json").then(r => r.json()).catch(() => [])]).then(([ev, orgs]) => {
   EVENTS = ev.events || []; ORGS = orgs;
+  const up = EVENTS.filter(e => !hasEnded(e)).length;
   $("#updated").textContent = ev.updated
-    ? `Updated ${new Date(ev.updated).toLocaleString("en-US", {weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit"})} · ${EVENTS.filter(upcoming).length} upcoming events`
+    ? `Updated ${new Date(ev.updated).toLocaleString("en-US", {weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit"})} · ${up} upcoming events`
     : "No events yet. The first update will fill this in.";
   const schools = o => (o.school || "").split(";")[0].replace(" (by discipline)", "").trim();
   fillSelect($("#ev-purpose"), ORGS.map(o => o.purpose)); fillSelect($("#ev-school"), ORGS.map(schools));
   fillSelect($("#org-purpose"), ORGS.map(o => o.purpose)); fillSelect($("#org-school"), ORGS.map(schools));
   fillSelect($("#org-member"), ORGS.map(o => o.membership));
-  renderFood(); renderEvents(); renderOrgs();
+  render();
+  renderOrgs();
 });
-["#food-likely", "#food-members"].forEach(s => $(s).addEventListener("change", renderFood));
-["#ev-q", "#ev-purpose", "#ev-school", "#ev-food"].forEach(s => $(s).addEventListener("input", renderEvents));
-["#org-q", "#org-purpose", "#org-school", "#org-member"].forEach(s => $(s).addEventListener("input", renderOrgs));
 </script>
-<script data-goatcounter="https://happeningatx.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<!-- PASTE YOUR GOATCOUNTER LINE ON THE NEXT LINE (the <script data-goatcounter=...> line) -->
 </body>
 </html>
