@@ -41,25 +41,36 @@
   nav button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); font-weight: 600; }
   main { max-width: 880px; margin: 0 auto; padding: 12px 16px 48px; }
 
-  /* day + time picker */
-  .when { margin: 4px 0 10px; }
-  .days { display: flex; gap: 6px; overflow-x: auto; padding: 4px 0 8px; scrollbar-width: thin; }
-  .day { flex: 0 0 auto; display: flex; flex-direction: column; align-items: center; min-width: 58px; padding: 6px 10px;
-         border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--ink); font: inherit; cursor: pointer; }
-  .day .d1 { font-size: 12px; color: var(--muted); }
-  .day .d2 { font-size: 15px; font-weight: 600; }
-  .day .n { font-size: 11px; color: var(--muted); }
-  .day[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
-  .day[aria-pressed="true"] .d1, .day[aria-pressed="true"] .n { color: #fff; opacity: .9; }
-  .day.empty { opacity: .5; }
-  .when-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--card); }
-  .seg button { border: none; background: none; padding: 6px 10px; font: inherit; font-size: 13px; color: var(--muted); cursor: pointer; }
-  .seg button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
-  .jump { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
-  .jump input { font: inherit; font-size: 13px; padding: 5px 8px; border-radius: 8px; border: 1px solid var(--line);
-                background: var(--card); color: var(--ink); }
-
+  /* week picker */
+  .when { margin: 6px 0 12px; }
+  .wk-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+  .wk-month { font-weight: 600; font-size: 15px; }
+  .wk-nav { display: flex; gap: 2px; align-items: center; }
+  .icon { width: 32px; height: 32px; border-radius: 8px; border: none; background: none; color: var(--muted);
+          font-size: 20px; line-height: 1; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
+  .icon:hover { background: var(--accent-soft); color: var(--accent); }
+  .pick-wrap { position: relative; }
+  .pick-wrap input { position: absolute; right: 0; top: 100%; width: 1px; height: 1px; opacity: 0; border: 0; padding: 0; pointer-events: none; }
+  .wk { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; padding-bottom: 10px; border-bottom: 1px solid var(--line); }
+  .wd { display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 4px 0; border: none; background: none;
+        font: inherit; color: var(--ink); cursor: pointer; border-radius: 10px; }
+  .wd .l { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .wd .num { width: 34px; height: 34px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
+             font-size: 15px; font-weight: 500; }
+  .wd .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
+  .wd .dot.none { background: transparent; }
+  .wd.past .num { color: var(--muted); }
+  .wd.today .num { color: var(--accent); font-weight: 700; }
+  .wd:hover .num { background: var(--accent-soft); }
+  .wd[aria-pressed="true"] .num { background: var(--accent); color: #fff; font-weight: 700; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 10px; }
+  .chip { border: 1px solid var(--line); background: var(--card); color: var(--muted); border-radius: 999px;
+          padding: 5px 11px; font: inherit; font-size: 13px; cursor: pointer; white-space: nowrap; }
+  #upcoming-chip { margin-right: 6px; }
+  @media (max-width: 385px) { .chip { font-size: 12px; padding: 5px 9px; } #upcoming-chip { margin-right: 2px; } }
+  .chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+  .sep { width: 1px; height: 18px; background: var(--line); margin: 0 2px; }
+  #tod { display: contents; }
   .filters { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 14px; }
   .filters input, .filters select { font: inherit; font-size: 14px; padding: 7px 10px; border-radius: 8px;
          border: 1px solid var(--line); background: var(--card); color: var(--ink); min-width: 0; }
@@ -95,36 +106,48 @@
   <details class="cal">
     <summary class="btn primary">Add to your calendar ▾</summary>
     <div class="cal-menu">
-      <h3>All events</h3>
-      <div class="row" id="cal-all"></div>
       <h3>Free food only</h3>
       <div class="row" id="cal-food"></div>
+      <h3>All events</h3>
+      <div class="row" id="cal-all"></div>
       <p class="note">Your calendar app subscribes to the feed and keeps it updated. Google can take up to a day to show new events.</p>
     </div>
   </details>
 </header>
 
 <nav role="tablist">
-  <button role="tab" aria-selected="true" data-tab="events">All events</button>
-  <button role="tab" aria-selected="false" data-tab="food">Free food</button>
+  <button role="tab" aria-selected="true" data-tab="food">Free food</button>
+  <button role="tab" aria-selected="false" data-tab="events">All events</button>
   <button role="tab" aria-selected="false" data-tab="orgs">Org directory</button>
 </nav>
 
 <main>
   <div class="when" id="when">
-    <div class="days" id="days" aria-label="Pick a day"></div>
-    <div class="when-row">
-      <div class="seg" id="tod" aria-label="Time of day">
-        <button data-t="any" aria-pressed="true">Any time</button>
-        <button data-t="morning" aria-pressed="false">Morning</button>
-        <button data-t="afternoon" aria-pressed="false">Afternoon</button>
-        <button data-t="evening" aria-pressed="false">Evening</button>
-      </div>
-      <label class="jump">Go to date <input type="date" id="jump"></label>
+    <div class="wk-head">
+      <span class="wk-month" id="wk-month"></span>
+      <span class="wk-nav">
+        <button class="icon" id="wk-prev" aria-label="Previous week">‹</button>
+        <button class="icon" id="wk-next" aria-label="Next week">›</button>
+        <span class="pick-wrap">
+          <button class="icon" id="pick-btn" aria-label="Pick a date">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="2" y="3" width="12" height="11" rx="2"/><path d="M2 6.5h12M5.5 1.5v3M10.5 1.5v3"/></svg>
+          </button>
+          <input type="date" id="jump" tabindex="-1" aria-hidden="true">
+        </span>
+      </span>
+    </div>
+    <div class="wk" id="days"></div>
+    <div class="chips">
+      <button class="chip" id="upcoming-chip" aria-pressed="true">Upcoming</button>
+      <span id="tod">
+        <button class="chip" data-t="morning" aria-pressed="false">Morning</button>
+        <button class="chip" data-t="afternoon" aria-pressed="false">Afternoon</button>
+        <button class="chip" data-t="evening" aria-pressed="false">Evening</button>
+      </span>
     </div>
   </div>
 
-  <section id="tab-events">
+  <section id="tab-events" hidden>
     <div class="filters">
       <input type="search" id="ev-q" placeholder="Search events or orgs">
       <select id="ev-purpose"><option value="">All categories</option></select>
@@ -133,7 +156,7 @@
     <div id="ev-list"></div>
   </section>
 
-  <section id="tab-food" hidden>
+  <section id="tab-food">
     <div id="food-list"></div>
   </section>
 
@@ -155,7 +178,7 @@
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let EVENTS = [], PAST = null, PAST_LOADING = null, ORGS = [];
-const state = { tab: "events", day: "upcoming", tod: "any" };
+const state = { tab: "food", day: "upcoming", tod: "any", week: null };
 
 /* ---------- time helpers (all in Central time) ---------- */
 function nowCT() {
@@ -275,25 +298,35 @@ function card(e, ended) {
   </div>`;
 }
 
+function sundayOf(iso) { return addDays(iso, -new Date(iso + "T12:00:00Z").getUTCDay()); }
+
 function renderDays() {
   const today = nowCT().date;
-  const upcoming = EVENTS.filter(e => tabFilter(e) && inTimeOfDay(e) && !hasEnded(e));
-  const chips = [`<button class="day" data-day="upcoming" aria-pressed="${state.day === "upcoming"}"><span class="d1">All</span><span class="d2">Upcoming</span><span class="n">${upcoming.length}</span></button>`];
-  for (let i = 0; i < 14; i++) {
-    const iso = addDays(today, i);
-    const n = EVENTS.filter(e => e.date === iso && tabFilter(e) && inTimeOfDay(e)).length;
+  if (!state.week) state.week = sundayOf(today);
+  const pool = allEvents();
+  const cells = [];
+  for (let i = 0; i < 7; i++) {
+    const iso = addDays(state.week, i);
+    const has = pool.some(e => e.date === iso && tabFilter(e) && inTimeOfDay(e));
     const d = new Date(iso + "T12:00:00Z");
-    const d1 = i === 0 ? "Today" : i === 1 ? "Tmrw" : d.toLocaleDateString("en-US", {timeZone: "UTC", weekday: "short"});
-    const d2 = d.toLocaleDateString("en-US", {timeZone: "UTC", month: "numeric", day: "numeric"});
-    chips.push(`<button class="day${n ? "" : " empty"}" data-day="${iso}" aria-pressed="${state.day === iso}"><span class="d1">${d1}</span><span class="d2">${d2}</span><span class="n">${n || "–"}</span></button>`);
+    const cls = ["wd", iso < today ? "past" : "", iso === today ? "today" : ""].join(" ");
+    cells.push(`<button class="${cls}" data-day="${iso}" aria-pressed="${state.day === iso}" aria-label="${dayLabel(iso)}">
+      <span class="l">${d.toLocaleDateString("en-US", {timeZone: "UTC", weekday: "short"})}</span>
+      <span class="num">${d.getUTCDate()}</span><span class="dot${has ? "" : " none"}"></span></button>`);
   }
-  $("#days").innerHTML = chips.join("");
-  $("#days").querySelectorAll(".day").forEach(b => b.addEventListener("click", () => setDay(b.dataset.day)));
+  $("#days").innerHTML = cells.join("");
+  $("#days").querySelectorAll(".wd").forEach(b => b.addEventListener("click", () => setDay(b.dataset.day === state.day ? "upcoming" : b.dataset.day)));
+  const first = new Date(state.week + "T12:00:00Z"), last = new Date(addDays(state.week, 6) + "T12:00:00Z");
+  const m = x => x.toLocaleDateString("en-US", {timeZone: "UTC", month: "long"});
+  $("#wk-month").textContent = m(first) === m(last) ? `${m(first)} ${first.getUTCFullYear()}` : `${m(first).slice(0, 3)} – ${m(last).slice(0, 3)} ${last.getUTCFullYear()}`;
+  $("#upcoming-chip").setAttribute("aria-pressed", state.day === "upcoming");
   $("#jump").value = state.day === "upcoming" ? "" : state.day;
 }
 
 function setDay(day) {
   state.day = day || "upcoming";
+  if (state.day !== "upcoming") state.week = sundayOf(state.day);
+  else state.week = sundayOf(nowCT().date);
   if (state.day !== "upcoming" && state.day < nowCT().date) loadPast();
   render();
 }
@@ -353,9 +386,13 @@ function render() {
 }
 
 /* ---------- controls ---------- */
+$("#upcoming-chip").addEventListener("click", () => setDay("upcoming"));
+$("#wk-prev").addEventListener("click", () => { state.week = addDays(state.week, -7); if (state.week < nowCT().date) loadPast(); renderDays(); });
+$("#wk-next").addEventListener("click", () => { state.week = addDays(state.week, 7); renderDays(); });
+$("#pick-btn").addEventListener("click", () => { const j = $("#jump"); try { j.showPicker(); } catch { j.style.pointerEvents = "auto"; j.focus(); j.click(); } });
 $("#tod").querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
-  state.tod = b.dataset.t;
-  $("#tod").querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  state.tod = state.tod === b.dataset.t ? "any" : b.dataset.t;   // tap again to clear
+  $("#tod").querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x.dataset.t === state.tod));
   render();
 }));
 $("#jump").addEventListener("change", e => setDay(e.target.value));
@@ -379,8 +416,9 @@ Promise.all([fetch("events.json", {cache: "no-cache"}).then(r => r.json()).catch
   fillSelect($("#org-member"), ORGS.map(o => o.membership));
   render();
   renderOrgs();
+  setTimeout(loadPast, 1500);
 });
 </script>
-<script data-goatcounter="https://happeningatx.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<!-- PASTE YOUR GOATCOUNTER LINE ON THE NEXT LINE (the <script data-goatcounter=...> line) -->
 </body>
 </html>
