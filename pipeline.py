@@ -13,6 +13,7 @@ Environment variables (set by the GitHub workflow):
 import base64
 import io
 import json
+import math
 import os
 import sys
 import time
@@ -28,7 +29,7 @@ import triage
 APIFY_ACTOR = os.getenv("APIFY_ACTOR", "apify/instagram-scraper")
 CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 MAX_IMAGES_PER_POST = 2          # flyer + one carousel slide
-MAX_POSTS_PER_RUN = 700          # safety cap on Claude spend per run
+MAX_POSTS_PER_RUN = 1200         # safety cap on Claude spend per run
 BATCH_CHUNK = 120                # posts per Claude batch (keeps upload size sane)
 KEEP_PAST_DAYS = 2               # keep events in the live list up to 2 days after they happen
 HISTORY_DAYS = 365               # how far back the site's history goes
@@ -105,18 +106,36 @@ def now_ct():
 
 
 # ---------------------------------------------------------------- 1. decide who to check
+def look_back_days(h, state):
+    """How far back to look for one account: since it was last checked, rounded up to whole days."""
+    lc = triage.parse_ts(state.get(h, {}).get("last_checked"))
+    if not lc:
+        return 7                                   # never checked: last week
+    days = (datetime.now(timezone.utc) - lc).total_seconds() / 86400
+    return max(2, min(14, math.ceil(days + 0.25)))   # a few hours of overlap so nothing slips between runs
+
+
 def plan_runs():
+    """Decide who to check and how far back. Each account looks back to its own last check,
+    so any schedule works (weekly, Mon+Wed, a skipped week) without missing posts."""
     test_n = int(os.getenv("TEST_ACCOUNTS") or 0)
     kind = (os.getenv("RUN_KIND") or "").strip() or ("monday" if now_ct().weekday() == 0 else "tier1")
     handles = triage.select(kind)
     if test_n > 0:
         log(f"TEST MODE: checking only {test_n} accounts, looking back 7 days.")
         return kind, [(handles[:test_n], "7 days", 3)]
-    runs = [(handles, "4 days" if kind == "monday" else "3 days", 8)]
-    if kind == "monday":
-        sleepers = triage.select("sleepers")
-        if sleepers:
-            runs.append((sleepers, f"{triage.SLEEPER_EVERY} days", 1))
+    state = triage.load_state()
+    buckets = {}
+    for h in handles:
+        buckets.setdefault(look_back_days(h, state), []).append(h)
+    runs = [(hs, f"{d} days", 8) for d, hs in sorted(buckets.items())]
+    # quiet accounts get a cheap monthly check (1 post each) so they come back when they start posting again
+    sleepers = triage.select("sleepers")
+    if kind == "tier1":
+        orgs = triage.load_orgs()
+        sleepers = [h for h in sleepers if orgs[h].get("tier") == "Tier 1"]
+    if sleepers:
+        runs.append((sleepers, f"{triage.SLEEPER_EVERY} days", 1))
     return kind, runs
 
 
@@ -143,11 +162,15 @@ def scrape(handles, window, limit):
         return obj.get(camel) if isinstance(obj, dict) else getattr(obj, snake, None)
 
     status = field(run, "status", "status")
+    ds = field(run, "default_dataset_id", "defaultDatasetId")
+    rows = [dict(r) for r in client.dataset(ds).iterate_items()] if ds else []
     if status != "SUCCEEDED":
         msg = field(run, "status_message", "statusMessage") or ""
-        raise SystemExit(f"Apify run did not succeed ({status}). {msg}\n"
-                         "If it mentions a usage or credit limit, upgrade Apify to the Starter plan.")
-    rows = [dict(r) for r in client.dataset(field(run, "default_dataset_id", "defaultDatasetId")).iterate_items()]
+        log(f"WARNING: Apify run ended early ({status}). {msg}")
+        log("  If it mentions a usage or credit limit, your Apify credit ran out for this cycle.")
+        if not rows:
+            raise SystemExit("No posts came back, so there is nothing to update.")
+        log(f"  Keeping the {len(rows)} rows it did return.")
     log(f"Apify: {len(rows)} rows returned.")
     return rows
 
