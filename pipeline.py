@@ -30,7 +30,8 @@ CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 MAX_IMAGES_PER_POST = 2          # flyer + one carousel slide
 MAX_POSTS_PER_RUN = 700          # safety cap on Claude spend per run
 BATCH_CHUNK = 120                # posts per Claude batch (keeps upload size sane)
-KEEP_PAST_DAYS = 2               # show events that ended up to 2 days ago
+KEEP_PAST_DAYS = 2               # keep events in the live list up to 2 days after they happen
+HISTORY_DAYS = 365               # how far back the site's history goes
 SITE_NAME = "Campus Events + Free Food"
 # -------------------------------------------------------------------------
 
@@ -40,6 +41,7 @@ DATA = HERE / "data"
 DOCS = HERE / "docs"
 SEEN_FILE = DATA / "seen_posts.json"
 EVENTS_FILE = DATA / "events.json"
+ARCHIVE_FILE = DATA / "archive.json"
 SUMMARY_FILE = os.getenv("GITHUB_STEP_SUMMARY")
 
 SYSTEM_PROMPT = """You read Instagram posts from University of Texas at Austin student organizations and record what each post announces.
@@ -234,22 +236,24 @@ def extract(posts_params):
                 log(f"  Claude error on {sc}: {e}")
         return results
     items = list(posts_params.items())
+    batch_ids = []
     for i in range(0, len(items), BATCH_CHUNK):
         chunk = items[i:i + BATCH_CHUNK]
         batch = client.messages.batches.create(requests=[{"custom_id": sc, "params": p} for sc, p in chunk])
-        log(f"Claude: batch {batch.id} submitted ({len(chunk)} posts). Waiting (usually under an hour)...")
-        deadline = time.time() + 5 * 3600
-        while True:
-            b = client.messages.batches.retrieve(batch.id)
-            if b.processing_status == "ended":
-                break
-            if time.time() > deadline:
-                log("  batch still running after 5 hours; its posts will be retried next run")
-                break
-            time.sleep(60)
-        if b.processing_status != "ended":
+        batch_ids.append(batch.id)
+        log(f"Claude: batch {batch.id} submitted ({len(chunk)} posts).")
+    log(f"Claude: waiting for {len(batch_ids)} batch(es) (usually under an hour)...")
+    deadline = time.time() + 5 * 3600
+    pending = list(batch_ids)
+    while pending and time.time() < deadline:
+        time.sleep(60)
+        pending = [b for b in pending if client.messages.batches.retrieve(b).processing_status != "ended"]
+    if pending:
+        log(f"  {len(pending)} batch(es) still running after 5 hours; those posts will be retried next run")
+    for b in batch_ids:
+        if b in pending:
             continue
-        for res in client.messages.batches.results(batch.id):
+        for res in client.messages.batches.results(b):
             if res.result.type == "succeeded":
                 results[res.custom_id] = tool_input(res.result.message)
     return results
@@ -325,6 +329,20 @@ def write_ics(path, events, name):
 
 def rebuild_outputs(events):
     today = now_ct().date()
+
+    # History: every dated event ever found, so the site can show past days.
+    archive = load_json(ARCHIVE_FILE, {})
+    for k, ev in events.items():
+        if ev.get("is_event") and event_start(ev):
+            archive[k] = ev
+    oldest = today - timedelta(days=HISTORY_DAYS)
+    archive = {k: v for k, v in archive.items() if event_start(v) and event_start(v).date() >= oldest}
+    save_json(ARCHIVE_FILE, archive)
+    past = sorted((v for v in archive.values() if event_start(v).date() < today),
+                  key=lambda e: (e.get("date") or "", e.get("start_time") or ""), reverse=True)
+    DOCS.mkdir(exist_ok=True)
+    save_json(DOCS / "past.json", {"updated": now_ct().isoformat(timespec="minutes"), "events": past})
+
     keep = {}
     for k, ev in events.items():
         st = event_start(ev)
