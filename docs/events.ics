@@ -5,102 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:UT Org Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:DdwHU8NzuEP@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART:20260927T113000Z
-DTEND:20260927T230000Z
-SUMMARY:71st Birthday Celebrations of Daaji - Heartfulness Bhandara Batch
-  2 (Heartfulness Meditation Group)
-LOCATION:Kanha Shanti Vanam\, Telangana
-DESCRIPTION:Batch 2 of event\; runs Sept 27-29\, 2026\; can join in perso
- n or live on YouTube\nOriginal post: https://www.instagram.com/p/DdwHU8Nz
- uEP/
-URL:https://www.instagram.com/p/DdwHU8NzuEP/
-END:VEVENT
-BEGIN:VEVENT
-UID:Ddw5gTThqa8@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART:20260927T153000Z
-DTEND:20260927T163000Z
-SUMMARY:Sunday Worship (Christian Students on Campus)
-LOCATION:SZB 1.510
-DESCRIPTION:Open to students who missed Freshmen Connect\nOriginal post: 
- https://www.instagram.com/p/Ddw5gTThqa8/
-URL:https://www.instagram.com/p/Ddw5gTThqa8/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdxQcnDRR0m@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART:20260927T190000Z
-DTEND:20260927T200000Z
-SUMMARY:Ice Out of Texas - Justice for Wilber (Austin Students for a Demo
- cratic Society)
-LOCATION:Anderson Square & Research Blvd
-DESCRIPTION:Rally with multiple endorsing organizations\nOriginal post: h
- ttps://www.instagram.com/p/DdxQcnDRR0m/
-URL:https://www.instagram.com/p/DdxQcnDRR0m/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdxFuPbPZ5b@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART:20260927T190000Z
-DTEND:20260927T200000Z
-SUMMARY:Hill of Life Dam Social (Orthodox Christian Fellowship of the Uni
- versity of Texas at Austin)
-LOCATION:Hill of Life Dam\, Austin TX
-DESCRIPTION:After church social to cool off before midterms\nOriginal pos
- t: https://www.instagram.com/p/DdxFuPbPZ5b/
-URL:https://www.instagram.com/p/DdxFuPbPZ5b/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdzGtitIDqq@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART:20260927T230000Z
-DTEND:20260928T000000Z
-SUMMARY:M408K First Exam Review (Sanger Learning Center)
-LOCATION:JES - Beauford H. Jester Center A309
-DESCRIPTION:Sanger weekly event listing\; also includes M408L review (sam
- e time)\, Reading for College (Sept 30\, 5 PM)\, and Accountability Group
-  Sessions (dates vary)\nOriginal post: https://www.instagram.com/p/DdzGti
- tIDqq/
-URL:https://www.instagram.com/p/DdzGtitIDqq/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdzeCMkpbQr@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART:20260928T000000Z
-DTEND:20260928T010000Z
-SUMMARY:Sunday night worship (Longhorns For Christ)
-LOCATION:1909 University Ave
-DESCRIPTION:Original post: https://www.instagram.com/p/DdzeCMkpbQr/
-URL:https://www.instagram.com/p/DdzeCMkpbQr/
-END:VEVENT
-BEGIN:VEVENT
-UID:DdzPkjPxEUQ@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Second General Meeting (Caduceus)
-LOCATION:
-DESCRIPTION:Meet executive team member Ishaan Bhagat\nOriginal post: http
- s://www.instagram.com/p/DdzPkjPxEUQ/
-URL:https://www.instagram.com/p/DdzPkjPxEUQ/
-END:VEVENT
-BEGIN:VEVENT
-UID:Ddw5LLcy7cJ@ut-org-events
-DTSTAMP:20260929T055337Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Barge (Arab Students Association)
-LOCATION:
-DESCRIPTION:Video shows water activity (barge/boat)\; Sunday event based 
- on partial caption visible\nOriginal post: https://www.instagram.com/p/Dd
- w5LLcy7cJ/
-URL:https://www.instagram.com/p/Ddw5LLcy7cJ/
-END:VEVENT
-BEGIN:VEVENT
 UID:Dd13B3Us6rC@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T140000Z
 DTEND:20260928T200000Z
 SUMMARY:Matcha latte and cookie fundraiser (Japanese Association)
@@ -111,7 +17,7 @@ URL:https://www.instagram.com/p/Dd13B3Us6rC/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzgiFFyhzJ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T140000Z
 DTEND:20260928T200000Z
 SUMMARY:Matcha Latte and Cookie Fundraiser (Japanese Association)
@@ -122,7 +28,7 @@ URL:https://www.instagram.com/p/DdzgiFFyhzJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddwyub6BUiM@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T150000Z
 DTEND:20260928T220000Z
 SUMMARY:ASAP Texas Team Outreach + Dinner (Allied Scholars for Animal Pro
@@ -134,7 +40,7 @@ URL:https://www.instagram.com/p/Ddwyub6BUiM/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddw0B-aia6C@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T160000Z
 DTEND:20260928T170000Z
 SUMMARY:Leadership Game 1 (Texas Disney Development Team)
@@ -146,7 +52,7 @@ URL:https://www.instagram.com/p/Ddw0B-aia6C/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd4N372lVpZ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T170000Z
 DTEND:20260928T180000Z
 SUMMARY:Grad School Mini Series - Application Workshop (National Society 
@@ -159,7 +65,7 @@ URL:https://www.instagram.com/p/Dd4N372lVpZ/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1kBs0x1Pg@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T200000Z
 DTEND:20260928T230000Z
 SUMMARY:Lucky Lab Profit Share (Texas Public Health)
@@ -171,7 +77,7 @@ URL:https://www.instagram.com/p/Dd1kBs0x1Pg/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1f5k9RnqE@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T210000Z
 DTEND:20260929T010000Z
 SUMMARY:Chipotle Profit Share (Pink First at the University of Texas at A
@@ -183,7 +89,7 @@ URL:https://www.instagram.com/p/Dd1f5k9RnqE/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2EFznJEZJ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T220000Z
 DTEND:20260928T230000Z
 SUMMARY:History honors and NSP panel (Phi Alpha Theta\, Beta Alpha Chapte
@@ -195,7 +101,7 @@ URL:https://www.instagram.com/p/Dd2EFznJEZJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddzm3azAZLP@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T220000Z
 DTEND:20260928T230000Z
 SUMMARY:SWEATT Powerhour (Heman Sweatt Center for Collegiate Males) - fre
@@ -207,8 +113,32 @@ DESCRIPTION:Food: Free food provided\nOpen to collegiate males\; includes
 URL:https://www.instagram.com/p/Ddzm3azAZLP/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd1lUKNuKk5@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260928T220000Z
+DTEND:20260928T230000Z
+SUMMARY:Project Linus (Project Sunshine at the University of Texas at Aus
+ tin)
+LOCATION:WCP 3.112
+DESCRIPTION:Sign-up required via calendar link in bio\nOriginal post: htt
+ ps://www.instagram.com/p/Dd1lUKNuKk5/
+URL:https://www.instagram.com/p/Dd1lUKNuKk5/
+END:VEVENT
+BEGIN:VEVENT
+UID:DdzqzHZpVnL@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260928T220000Z
+DTEND:20260928T230000Z
+SUMMARY:Project Linus (Project Sunshine at the University of Texas at Aus
+ tin)
+LOCATION:WCP 3.112
+DESCRIPTION:Second event: Suragi Dolls on 9/29 at 7:30 PM @ WCP 1.106\nOr
+ iginal post: https://www.instagram.com/p/DdzqzHZpVnL/
+URL:https://www.instagram.com/p/DdzqzHZpVnL/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1igkpxhhW@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T223000Z
 DTEND:20260928T233000Z
 SUMMARY:Texas 4000 Student Organization General Meeting (Texas 4000 for C
@@ -219,7 +149,7 @@ URL:https://www.instagram.com/p/Dd1igkpxhhW/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1f89FlHav@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T223000Z
 DTEND:20260928T233000Z
 SUMMARY:Dress to Impress - SHPEtinas (Society of Hispanic Professional En
@@ -236,7 +166,7 @@ URL:https://www.instagram.com/p/Dd1f89FlHav/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1deqqxHd3@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T223000Z
 DTEND:20260928T233000Z
 SUMMARY:Arts for Aid Committee Reveal (Texas Arts for Aid)
@@ -247,7 +177,7 @@ URL:https://www.instagram.com/p/Dd1deqqxHd3/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2RTXlDmwP@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T230000Z
 DTEND:20260929T000000Z
 SUMMARY:PMP #1 (Association of Latino Professionals For America)
@@ -257,7 +187,7 @@ URL:https://www.instagram.com/p/Dd2RTXlDmwP/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1U4QiRcAJ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T230000Z
 DTEND:20260929T000000Z
 SUMMARY:Resume Writing Workshop (Queer Business Student Association) - fr
@@ -269,7 +199,7 @@ URL:https://www.instagram.com/p/Dd1U4QiRcAJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzU6uZlpf1@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T230000Z
 DTEND:20260929T003000Z
 SUMMARY:AFSSA x Aca Workshop (Asian Business Students Association)
@@ -281,7 +211,7 @@ URL:https://www.instagram.com/p/DdzU6uZlpf1/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzFTB2EVHZ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T230000Z
 DTEND:20260929T000000Z
 SUMMARY:GM #2 with Guest Speakers (Students in Medical Laboratory Science
@@ -293,7 +223,7 @@ URL:https://www.instagram.com/p/DdzFTB2EVHZ/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddy1-_kRFkk@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T230000Z
 DTEND:20260929T000000Z
 SUMMARY:Understanding Homelessness Workshop (Hearts for the Homeless Aust
@@ -305,7 +235,7 @@ URL:https://www.instagram.com/p/Ddy1-_kRFkk/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdyESc5MT-A@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T230000Z
 DTEND:20260929T010000Z
 SUMMARY:Late Night Bites Food Truck Social (Texas Healthy Habits)
@@ -315,7 +245,7 @@ URL:https://www.instagram.com/p/DdyESc5MT-A/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz8HOmNvET@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T231500Z
 DTEND:20260929T001500Z
 SUMMARY:Huddle with Guest Speaker (Fellowship of Christian Athletes)
@@ -326,7 +256,7 @@ URL:https://www.instagram.com/p/Ddz8HOmNvET/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzSUE3Fga2@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T231500Z
 DTEND:20260929T001500Z
 SUMMARY:Longhorn FCA Huddle with Guest Speaker Vic Schaefer (Fellowship o
@@ -338,7 +268,7 @@ URL:https://www.instagram.com/p/DdzSUE3Fga2/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1fPWdxUTr@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T233000Z
 DTEND:20260929T003000Z
 SUMMARY:General Meeting #2 (Children's Oral Health Advocacy Project)
@@ -349,7 +279,7 @@ URL:https://www.instagram.com/p/Dd1fPWdxUTr/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1Vw9vx-Ex@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T233000Z
 DTEND:20260929T003000Z
 SUMMARY:Advocacy Meeting (Longhorn International Justice Mission) - free 
@@ -361,7 +291,7 @@ URL:https://www.instagram.com/p/Dd1Vw9vx-Ex/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxdQg3xbli@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260928T233000Z
 DTEND:20260929T003000Z
 SUMMARY:WIC Info Session #2 (Women in Business Association)
@@ -373,7 +303,7 @@ URL:https://www.instagram.com/p/DdxdQg3xbli/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2Ng84zZdy@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:TES 7v7 Soccer (Texas Education Society)
@@ -384,7 +314,7 @@ URL:https://www.instagram.com/p/Dd2Ng84zZdy/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1spgUp-8I@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:General Meeting #4 & Interview Workshop (Texas Phi Delta Epsilon)
@@ -394,7 +324,7 @@ URL:https://www.instagram.com/p/Dd1spgUp-8I/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0FBM4Slrj@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:Game Night Fundraiser (Texas Pre-Dental Society)
@@ -405,7 +335,7 @@ URL:https://www.instagram.com/p/Dd0FBM4Slrj/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1VuIgTsj8@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:General Meeting #2 (Emancipet on Campus) - free food
@@ -416,7 +346,7 @@ URL:https://www.instagram.com/p/Dd1VuIgTsj8/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0EjP-DEFZ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:General Meeting 3 (Global Medical Brigades)
@@ -427,7 +357,7 @@ URL:https://www.instagram.com/p/Dd0EjP-DEFZ/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzVYEKJAU5@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:H.G. Bishop Gregory Sermon (Orthodox Christian Campus Ministries 
@@ -439,7 +369,7 @@ URL:https://www.instagram.com/p/DdzVYEKJAU5/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxenZ7sj_g@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:General meeting #2 (Texas UNICEF)
@@ -449,7 +379,7 @@ URL:https://www.instagram.com/p/DdxenZ7sj_g/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxDGe_PLaX@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T000000Z
 DTEND:20260929T010000Z
 SUMMARY:General Meeting #2: Soap Carving (Global Medical Missions Allianc
@@ -461,7 +391,7 @@ URL:https://www.instagram.com/p/DdxDGe_PLaX/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0KnXSgiyf@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T003000Z
 DTEND:20260929T020000Z
 SUMMARY:Bananarchy Social (Texas Society of Professional Engineers at the
@@ -473,7 +403,7 @@ URL:https://www.instagram.com/p/Dd0KnXSgiyf/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxEYVjJf89@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T003000Z
 DTEND:20260929T013000Z
 SUMMARY:CEI Meeting (Texas Hillel)
@@ -485,7 +415,7 @@ URL:https://www.instagram.com/p/DdxEYVjJf89/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1fTaEEaZV@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Flip the Senate Voter Registration Competition (University Democr
@@ -498,7 +428,7 @@ URL:https://www.instagram.com/p/Dd1fTaEEaZV/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxGUU2kap2@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Bonds and Bites (Nueces Mosque - Student Chapter) - free food
@@ -511,7 +441,7 @@ URL:https://www.instagram.com/p/DdxGUU2kap2/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd13dWYKsdH@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T140000Z
 DTEND:20260929T200000Z
 SUMMARY:Flu Vaccination Clinic (Healthyhorns)
@@ -523,8 +453,19 @@ DESCRIPTION:Multiple dates/locations: Pickle Research Campus Sept. 30\, 1
 URL:https://www.instagram.com/p/Dd13dWYKsdH/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd33qDSOEFi@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260929T150000Z
+DTEND:20260929T200000Z
+SUMMARY:Finance Fundraiser (Association of Latino Professionals For Ameri
+ ca)
+LOCATION:Speedway
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd33qDSOEFi/
+URL:https://www.instagram.com/p/Dd33qDSOEFi/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2OyGBlRRe@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T170000Z
 DTEND:20260929T183000Z
 SUMMARY:HDR Lunch & Learn (National Society of Black Engineers) - free fo
@@ -536,7 +477,7 @@ URL:https://www.instagram.com/p/Dd2OyGBlRRe/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxFGWKhgC-@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T170000Z
 DTEND:20260929T210000Z
 SUMMARY:Clothing Fundraiser Sale (Texas Dawah Team)
@@ -547,7 +488,7 @@ URL:https://www.instagram.com/p/DdxFGWKhgC-/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzgJC8CXaR@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T190000Z
 DTEND:20260929T210000Z
 SUMMARY:COFA Info Session (Texas Disney Development Team)
@@ -559,7 +500,7 @@ URL:https://www.instagram.com/p/DdzgJC8CXaR/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzmqoxEnUC@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T200000Z
 DTEND:20260929T213000Z
 SUMMARY:Design Challenge (Polymathic Scholars Student Leadership Panel)
@@ -571,7 +512,7 @@ URL:https://www.instagram.com/p/DdzmqoxEnUC/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxUU17xuKT@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T210000Z
 DTEND:20260929T220000Z
 SUMMARY:Endeavors card making hangout (Mindful Medicine)
@@ -580,8 +521,23 @@ DESCRIPTION:Original post: https://www.instagram.com/p/DdxUU17xuKT/
 URL:https://www.instagram.com/p/DdxUU17xuKT/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4JXYlTSYX@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260929T210000Z
+DTEND:20260929T220000Z
+SUMMARY:Exploring UT Pre-Health Opportunities (HOSA- Future Health Profes
+ sionals)
+LOCATION:PCL 3.110 & Zoom
+DESCRIPTION:Weekly overview lists multiple events: Hangouts Study Social 
+ & Tutoring (Wed Sept 30\, 6-9 PM\, PCL 6.106)\, Volunteering Chat (Thu Oc
+ t 1\, 4-5 PM\, Zoom)\, Home-Made ACL Social (Fri Oct 2\, 5-7 PM)\, Austin
+  Public Library (Sun Oct 4\, 1-3 PM\, meet at Littlefield Fountain to dep
+ art)\nOriginal post: https://www.instagram.com/p/Dd4JXYlTSYX/
+URL:https://www.instagram.com/p/Dd4JXYlTSYX/
+END:VEVENT
+BEGIN:VEVENT
 UID:Ddzz513ppGz@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T220000Z
 DTEND:20260929T230000Z
 SUMMARY:General Meeting 3 (Longhorn Pre-Pharmacy Association)
@@ -591,7 +547,7 @@ URL:https://www.instagram.com/p/Ddzz513ppGz/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxX6ggDAns@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T220000Z
 DTEND:20260929T230000Z
 SUMMARY:Dr. Jo-Anne Holley Speaker Event: All about Honey Wasps (Beekeepi
@@ -601,8 +557,20 @@ DESCRIPTION:Original post: https://www.instagram.com/p/DdxX6ggDAns/
 URL:https://www.instagram.com/p/DdxX6ggDAns/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4JinAxzGp@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260929T220000Z
+DTEND:20260929T230000Z
+SUMMARY:Health Promotion Club Meeting 2: CPR and AED Class (Texas Educati
+ on Society)
+LOCATION:SZB 2.216
+DESCRIPTION:Longhorn EMS leading CPR and AED training\nOriginal post: htt
+ ps://www.instagram.com/p/Dd4JinAxzGp/
+URL:https://www.instagram.com/p/Dd4JinAxzGp/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2cvQVRXWj@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T010000Z
 SUMMARY:Launch with Confidence - Career Discussion (American Association 
@@ -615,7 +583,7 @@ URL:https://www.instagram.com/p/Dd2cvQVRXWj/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2t5MItKHN@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:Embrace Meeting (Texas embrACE)
@@ -626,7 +594,7 @@ URL:https://www.instagram.com/p/Dd2t5MItKHN/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2LlQ0hFnf@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:Kindness Kit Making Night (Students Against Cancer)
@@ -638,7 +606,7 @@ URL:https://www.instagram.com/p/Dd2LlQ0hFnf/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0GkyxNWNo@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:GradHillel Sushi in the Sukkah (Texas Hillel) - free food
@@ -649,7 +617,7 @@ URL:https://www.instagram.com/p/Dd0GkyxNWNo/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd13JNJprzV@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:General Meeting #2 with Skyways (American Institute of Aeronautic
@@ -661,7 +629,7 @@ URL:https://www.instagram.com/p/Dd13JNJprzV/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd13C-Vht4d@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T010000Z
 SUMMARY:Gong Cha profit share for UNICEF (Texas UNICEF)
@@ -674,7 +642,7 @@ URL:https://www.instagram.com/p/Dd13C-Vht4d/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1jHcDxQ6_@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:Bracelet Making Social (Miracle Messages Austin)
@@ -686,7 +654,7 @@ URL:https://www.instagram.com/p/Dd1jHcDxQ6_/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1b4jepKUW@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:Bridges Break (Bridges International - Texas Chapter) - free food
@@ -697,7 +665,7 @@ URL:https://www.instagram.com/p/Dd1b4jepKUW/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz3M3HROjm@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:Mentorship Social (Texas Advertising Group)
@@ -707,7 +675,7 @@ URL:https://www.instagram.com/p/Ddz3M3HROjm/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz17oVJJwT@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:General Meeting 3 - Pen Pals Program (National Student Speech\, L
@@ -718,7 +686,7 @@ URL:https://www.instagram.com/p/Ddz17oVJJwT/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzqehRhDlA@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T010000Z
 SUMMARY:Prayer on the Lawn (Texas Gospel Fellowship)
@@ -729,7 +697,7 @@ URL:https://www.instagram.com/p/DdzqehRhDlA/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddzgz6VPLDj@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:BOLT GM #3 (Biomedical Outreach and Leadership Team) - free food
@@ -740,7 +708,7 @@ URL:https://www.instagram.com/p/Ddzgz6VPLDj/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzOL2qTChe@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:Origami Dexterity Social (Hispanic Pre-Dental Society)
@@ -750,7 +718,7 @@ URL:https://www.instagram.com/p/DdzOL2qTChe/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxNqfavnLg@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:Mental Health Matters: Journaling\, Affirmation Jar & Sister Circ
@@ -763,7 +731,7 @@ URL:https://www.instagram.com/p/DdxNqfavnLg/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddw6xK7ipRE@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
 SUMMARY:General Meeting #3 with Kimley Horn Speaker (American Academy of 
@@ -777,7 +745,7 @@ URL:https://www.instagram.com/p/Ddw6xK7ipRE/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd10ZL7ma3Y@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260929T233000Z
 DTEND:20260930T003000Z
 SUMMARY:ISPE General Meeting #3 (The International Society for Pharmaceut
@@ -789,7 +757,7 @@ URL:https://www.instagram.com/p/Dd10ZL7ma3Y/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2EX1uP-mK@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
 SUMMARY:Talk on Theosis with Father V (Orthodox Christian Fellowship of t
@@ -801,7 +769,7 @@ URL:https://www.instagram.com/p/Dd2EX1uP-mK/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1v5vap5Dn@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
 SUMMARY:HACS Alumni Panel (Hispanic Association of Computer Scientists)
@@ -812,7 +780,7 @@ URL:https://www.instagram.com/p/Dd1v5vap5Dn/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1ve1GJgPf@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
 SUMMARY:General Meeting + Alumni Panel (Hispanic Association of Computer 
@@ -825,7 +793,7 @@ URL:https://www.instagram.com/p/Dd1ve1GJgPf/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1eVrqMRsb@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
 SUMMARY:General Meeting #3 - Iconography in Hinduism (Hindu Students Asso
@@ -836,7 +804,7 @@ URL:https://www.instagram.com/p/Dd1eVrqMRsb/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddyzw6dACnS@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
 SUMMARY:General meeting with Dr. Mary Rose (Texas Pre-Law Honor Society)
@@ -845,8 +813,42 @@ DESCRIPTION:Original post: https://www.instagram.com/p/Ddyzw6dACnS/
 URL:https://www.instagram.com/p/Ddyzw6dACnS/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4EvwYlvNm@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T000000Z
+DTEND:20260930T010000Z
+SUMMARY:Churchwide Monthly Prayer (Acts College Fellowship)
+LOCATION:
+DESCRIPTION:Rides available\; sign up on Facebook\nOriginal post: https:/
+ /www.instagram.com/p/Dd4EvwYlvNm/
+URL:https://www.instagram.com/p/Dd4EvwYlvNm/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd3-hUQID1z@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T000000Z
+DTEND:20260930T010000Z
+SUMMARY:Second General Meeting with Guest Speaker (Texas Theme Park Engin
+ eering and Design)
+LOCATION:BUR 216
+DESCRIPTION:Speaker: Jonathan Voss\, Controls Engineer at Birket Engineer
+ ing\, UT alumni\nOriginal post: https://www.instagram.com/p/Dd3-hUQID1z/
+URL:https://www.instagram.com/p/Dd3-hUQID1z/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd38R4DRfPH@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T000000Z
+DTEND:20260930T010000Z
+SUMMARY:Cruesday (Texas Cru)
+LOCATION:LFC
+DESCRIPTION:Recurring weekly Tuesday meeting\; afters at Telci's afterwar
+ d\nOriginal post: https://www.instagram.com/p/Dd38R4DRfPH/
+URL:https://www.instagram.com/p/Dd38R4DRfPH/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2SZF5JLZ2@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T003000Z
 DTEND:20260930T023000Z
 SUMMARY:Bananarchy Profit Share (Generation United Nations at the Univers
@@ -857,8 +859,20 @@ DESCRIPTION:Profit share fundraiser for Peace Direct NGO\nOriginal post:
 URL:https://www.instagram.com/p/Dd2SZF5JLZ2/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd39JtdBfDt@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T003000Z
+DTEND:20260930T013000Z
+SUMMARY:Surgi Dolls (Project Sunshine at the University of Texas at Austi
+ n)
+LOCATION:WCP 1.106
+DESCRIPTION:Volunteer activity: sew plush dolls for hospital donation\nOr
+ iginal post: https://www.instagram.com/p/Dd39JtdBfDt/
+URL:https://www.instagram.com/p/Dd39JtdBfDt/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1y1NtlEZJ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T010000Z
 DTEND:20260930T023000Z
 SUMMARY:S:UM Worship (The Fruits) - free food
@@ -871,7 +885,7 @@ URL:https://www.instagram.com/p/Dd1y1NtlEZJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzX7BFH9Dh@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T010000Z
 DTEND:20260930T023000Z
 SUMMARY:S.U:M Worship (The Fruits) - free food
@@ -883,7 +897,7 @@ URL:https://www.instagram.com/p/DdzX7BFH9Dh/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2zEy7AIQH@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Meet the Officers (0fficial Pulse Club)
@@ -894,7 +908,7 @@ URL:https://www.instagram.com/p/Dd2zEy7AIQH/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2Cw_vJMnA@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:HACS General Meeting (Hispanic Association of Computer Scientists
@@ -905,7 +919,7 @@ URL:https://www.instagram.com/p/Dd2Cw_vJMnA/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd11PkMB6iQ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Panda Express Profit Share (Meow Mates)
@@ -915,8 +929,42 @@ DESCRIPTION:All-day event\; group meetup at 7 PM after GM\nOriginal post:
 URL:https://www.instagram.com/p/Dd11PkMB6iQ/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4lX-fltIT@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Tasty Tuesday (Nueces Mosque - Student Chapter) - free food
+LOCATION:
+DESCRIPTION:Food: tasty treats\nRecurring every Tuesday after Maghreb pra
+ yers\nOriginal post: https://www.instagram.com/p/Dd4lX-fltIT/
+URL:https://www.instagram.com/p/Dd4lX-fltIT/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4REo5FCoS@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Talk on Theosis (Orthodox Christian Fellowship of the University 
+ of Texas at Austin)
+LOCATION:
+DESCRIPTION:Same day as post\, time and location not specified\nOriginal 
+ post: https://www.instagram.com/p/Dd4REo5FCoS/
+URL:https://www.instagram.com/p/Dd4REo5FCoS/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5STFeNvI_@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T150000Z
+DTEND:20260930T180000Z
+SUMMARY:McCOMBS Coffee Date (Texas Disney Development Team) - free food
+LOCATION:CBA 3.400
+DESCRIPTION:Food: Coffee and cookies\nFinal recruiter event for the semes
+ ter\nOriginal post: https://www.instagram.com/p/Dd5STFeNvI_/
+URL:https://www.instagram.com/p/Dd5STFeNvI_/
+END:VEVENT
+BEGIN:VEVENT
 UID:DdxppkcHymg@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T171500Z
 DTEND:20260930T184500Z
 SUMMARY:Hot Spot Briefing - Sudan (The National Security Collective) - fr
@@ -928,8 +976,19 @@ DESCRIPTION:Food: Lunch provided\nRegistration required\; also info sessi
 URL:https://www.instagram.com/p/DdxppkcHymg/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd60C2tSqII@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T210000Z
+DTEND:20260930T220000Z
+SUMMARY:Demonstration Against Hasan Piker (College Republicans at Texas)
+LOCATION:The George Washington Statue
+DESCRIPTION:In collaboration with Austin Young Republicans\nOriginal post
+ : https://www.instagram.com/p/Dd60C2tSqII/
+URL:https://www.instagram.com/p/Dd60C2tSqII/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1zBXuC3Tw@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T220000Z
 DTEND:20260930T230000Z
 SUMMARY:General Meeting #4 with Joshua Kocher (University Finance Associa
@@ -941,7 +1000,7 @@ URL:https://www.instagram.com/p/Dd1zBXuC3Tw/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1mVToxHzn@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T220000Z
 DTEND:20260930T230000Z
 SUMMARY:SQL Workshop (Women in Data and Statistics) - free food
@@ -952,7 +1011,7 @@ URL:https://www.instagram.com/p/Dd1mVToxHzn/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz6sTesQgE@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T220000Z
 DTEND:20260930T230000Z
 SUMMARY:Prof. Development Session (Supply Chain Management Student Organi
@@ -963,7 +1022,7 @@ URL:https://www.instagram.com/p/Ddz6sTesQgE/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzYAFlTyil@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T220000Z
 DTEND:20260930T230000Z
 SUMMARY:General Meeting 3: Care Package Making (Clean Cycle Initiative)
@@ -973,8 +1032,76 @@ DESCRIPTION:3rd general meeting of semester\nOriginal post: https://www.i
 URL:https://www.instagram.com/p/DdzYAFlTyil/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7Ki4oJcL4@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T220000Z
+DTEND:20261001T000000Z
+SUMMARY:PS&BD Minor Career Fair (Texas Undergraduate Sales Organization)
+LOCATION:RRH 5.210
+DESCRIPTION:Career fair with 10+ companies including Motive\, Dell Techno
+ logies\, Gartner\, Verkada\, DocuMation\, TogetherWork\, Texas Monthly\, 
+ Enterprise Mobility\, Dexian\, Hershey Company\, 49 Financial\, Keurig Dr
+  Pepper\, and more\nOriginal post: https://www.instagram.com/p/Dd7Ki4oJcL
+ 4/
+URL:https://www.instagram.com/p/Dd7Ki4oJcL4/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6xgoqPvYe@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T220000Z
+DTEND:20260930T230000Z
+SUMMARY:Card-Making Event (Texas Woofs for William)
+LOCATION:WCP 3.112 Balcony Room B
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd6xgoqPvYe/
+URL:https://www.instagram.com/p/Dd6xgoqPvYe/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4bFdKSvsU@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T220000Z
+DTEND:20260930T230000Z
+SUMMARY:ANSYS Computational Fluid Dynamics Workshop (Association of Compu
+ tational Engineers)
+LOCATION:ASE 1.124
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd4bFdKSvsU/
+URL:https://www.instagram.com/p/Dd4bFdKSvsU/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4Fxk4SvG9@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T220000Z
+DTEND:20260930T230000Z
+SUMMARY:First General Meeting (Environmental Justice Collective)
+LOCATION:WCP 3.114
+DESCRIPTION:First general meeting of the semester\nOriginal post: https:/
+ /www.instagram.com/p/Dd4Fxk4SvG9/
+URL:https://www.instagram.com/p/Dd4Fxk4SvG9/
+END:VEVENT
+BEGIN:VEVENT
+UID:DdxbDrZJZNc@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T220000Z
+DTEND:20260930T230000Z
+SUMMARY:Pre Med Workshop #2 (Texas Engineering World Health)
+LOCATION:BME 3.204
+DESCRIPTION:Free mentorship and resources\; covers premed coursework\, ex
+ tracurriculars\, and MCAT intro\nOriginal post: https://www.instagram.com
+ /p/DdxbDrZJZNc/
+URL:https://www.instagram.com/p/DdxbDrZJZNc/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5faBfjsdJ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T221500Z
+DTEND:20260930T231500Z
+SUMMARY:General Meeting (Mending Medical Minds)
+LOCATION:SSB G1.310
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd5faBfjsdJ/
+URL:https://www.instagram.com/p/Dd5faBfjsdJ/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1kKE3xU0G@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T223000Z
 DTEND:20260930T233000Z
 SUMMARY:Grad School Personal Statements Workshop (Texas Public Health)
@@ -985,7 +1112,7 @@ URL:https://www.instagram.com/p/Dd1kKE3xU0G/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1mx9Fxi-K@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:General Meeting #3 with Datum Engineers (Architectural Engineerin
@@ -996,7 +1123,7 @@ URL:https://www.instagram.com/p/Dd1mx9Fxi-K/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2myp_MpK0@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:Corporate Preparation Workshop (Black Business Student Associatio
@@ -1008,7 +1135,7 @@ URL:https://www.instagram.com/p/Dd2myp_MpK0/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2jV8Ym-q3@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:OTM Writing Party (University Residence Hall Association) - free 
@@ -1020,7 +1147,7 @@ URL:https://www.instagram.com/p/Dd2jV8Ym-q3/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2IlOXJRR3@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:Big Loud Texas headquarters tour (Longhorn Music Business Club)
@@ -1031,7 +1158,7 @@ URL:https://www.instagram.com/p/Dd2IlOXJRR3/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2ELiZyJW4@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:General Meeting (Fynix) - free food
@@ -1043,7 +1170,7 @@ URL:https://www.instagram.com/p/Dd2ELiZyJW4/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2CCyUPHO3@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T010000Z
 SUMMARY:Web Exploitation Talk (Information and Systems Security Society (
@@ -1056,7 +1183,7 @@ URL:https://www.instagram.com/p/Dd2CCyUPHO3/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1y2R-lpPs@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:Poker Night General Meeting (Biomedical Engineering Society)
@@ -1067,7 +1194,7 @@ URL:https://www.instagram.com/p/Dd1y2R-lpPs/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1vPA5JuJq@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:3rd General Body Meeting (Black Health Professions Organization- 
@@ -1079,7 +1206,7 @@ URL:https://www.instagram.com/p/Dd1vPA5JuJq/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1qdg5FHiV@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T010000Z
 SUMMARY:General Meeting #3 with Will Hilzinger (American Society of Mecha
@@ -1091,7 +1218,7 @@ URL:https://www.instagram.com/p/Dd1qdg5FHiV/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1pemHkb3e@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:Somos Latinos (Sorority and Fraternity Life)
@@ -1101,7 +1228,7 @@ URL:https://www.instagram.com/p/Dd1pemHkb3e/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1ifMXpBiK@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:air DRy Clay Night Social (Texas Theme Park Engineering and Desig
@@ -1113,7 +1240,7 @@ URL:https://www.instagram.com/p/Dd1ifMXpBiK/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzVf7vCamu@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T003000Z
 SUMMARY:Shark Tank Pitch Night (Texas Economics Association) - free food
@@ -1124,7 +1251,7 @@ URL:https://www.instagram.com/p/DdzVf7vCamu/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxXZcZN9vv@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T010000Z
 SUMMARY:Painting Night (Bengali Students Association) - free food
@@ -1135,7 +1262,7 @@ URL:https://www.instagram.com/p/DdxXZcZN9vv/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddwx91cCQsb@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:GM3 Clinical Skills (Global Medical Training) - free food
@@ -1146,8 +1273,30 @@ DESCRIPTION:Food: Celsius energy drinks provided\nPartnership with Celsiu
 URL:https://www.instagram.com/p/Ddwx91cCQsb/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd60mfxh-8U@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T230000Z
+DTEND:20261001T000000Z
+SUMMARY:Disclosure Day Screening (University Unions)
+LOCATION:UNB 2.228
+DESCRIPTION:Members only\nAlso screening at 9 PM same day\; UT ID require
+ d\nOriginal post: https://www.instagram.com/p/Dd60mfxh-8U/
+URL:https://www.instagram.com/p/Dd60mfxh-8U/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6oDxPxgW_@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T230000Z
+DTEND:20261001T000000Z
+SUMMARY:Shadowing Workshop (Texas Pre-Occupational Therapy Community)
+LOCATION:PAR 203
+DESCRIPTION:1 meeting point required\nOriginal post: https://www.instagra
+ m.com/p/Dd6oDxPxgW_/
+URL:https://www.instagram.com/p/Dd6oDxPxgW_/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1PhqpNF1b@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T231500Z
 DTEND:20261001T003000Z
 SUMMARY:Case Study with Exencial Wealth Advisors (Wealth Management Stude
@@ -1160,7 +1309,7 @@ URL:https://www.instagram.com/p/Dd1PhqpNF1b/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2Fopylh0F@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20260930T233000Z
 DTEND:20261001T010000Z
 SUMMARY:GBM #3 with Guest Speaker Dr. Ricardo Solis (Latinx Health Profes
@@ -1174,8 +1323,32 @@ DESCRIPTION:Part of LHPO week\; other events on Oct 2: Texas A&M medical
 URL:https://www.instagram.com/p/Dd2Fopylh0F/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4Y9Myh7fB@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T233000Z
+DTEND:20261001T003000Z
+SUMMARY:General Meeting with Pato Escalante - CBRE (Latin Economics and B
+ usiness Association) - free food
+LOCATION:UTC 1.104
+DESCRIPTION:Food: Raising Cane's chicken\nInternship opportunity presente
+ d to attendees only\nOriginal post: https://www.instagram.com/p/Dd4Y9Myh7
+ fB/
+URL:https://www.instagram.com/p/Dd4Y9Myh7fB/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd37wJ8pnIA@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20260930T233000Z
+DTEND:20261001T010000Z
+SUMMARY:General Body Meeting #3 (Latinx Health Professions Organization)
+LOCATION:UTC 3.112
+DESCRIPTION:Guest speaker Dr. Ricardo Solis\, Board-Certified Colon and R
+ ectal Surgeon\nOriginal post: https://www.instagram.com/p/Dd37wJ8pnIA/
+URL:https://www.instagram.com/p/Dd37wJ8pnIA/
+END:VEVENT
+BEGIN:VEVENT
 UID:DdzlIy-iUwa@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T000000Z
 DTEND:20261001T010000Z
 SUMMARY:Beyond Sexuality: Love Unlike Anything Else (Every Nation Campus)
@@ -1187,7 +1360,7 @@ URL:https://www.instagram.com/p/DdzlIy-iUwa/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdxuuYPv1FX@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T000000Z
 DTEND:20261001T010000Z
 SUMMARY:General Meeting (Texas Nu Rho Psi)
@@ -1196,8 +1369,66 @@ DESCRIPTION:Original post: https://www.instagram.com/p/DdxuuYPv1FX/
 URL:https://www.instagram.com/p/DdxuuYPv1FX/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7Nl13kjOU@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T000000Z
+DTEND:20261001T010000Z
+SUMMARY:Large Group (Reformed University Fellowship)
+LOCATION:
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd7Nl13kjOU/
+URL:https://www.instagram.com/p/Dd7Nl13kjOU/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7Ix2cJTAJ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T000000Z
+DTEND:20261001T010000Z
+SUMMARY:Chainsaw Man screening (Social Anime Club)
+LOCATION:BUR 136
+DESCRIPTION:Weekly anime screening\nOriginal post: https://www.instagram.
+ com/p/Dd7Ix2cJTAJ/
+URL:https://www.instagram.com/p/Dd7Ix2cJTAJ/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7HrjKJXaM@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T000000Z
+DTEND:20261001T010000Z
+SUMMARY:Beyond Sexuality Event (Every Nation Campus)
+LOCATION:<UNKNOWN>
+DESCRIPTION:Video shows location but caption doesn't specify\; appears to
+  be on campus based on photo\nOriginal post: https://www.instagram.com/p/
+ Dd7HrjKJXaM/
+URL:https://www.instagram.com/p/Dd7HrjKJXaM/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4kG_RylJ1@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T000000Z
+DTEND:20261001T010000Z
+SUMMARY:General Meeting #2 (Texas Pre-Dental Society) - free food
+LOCATION:WEL 1.308
+DESCRIPTION:Food: Food served until 6:50 PM\nGuest speaker: Dr. Shailee G
+ upta\, general dentist from Northwest Hills Smiles\nOriginal post: https:
+ //www.instagram.com/p/Dd4kG_RylJ1/
+URL:https://www.instagram.com/p/Dd4kG_RylJ1/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4C6eLx5L3@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T000000Z
+DTEND:20261001T010000Z
+SUMMARY:Career Fair Celebration (Diversity in Advertising & PR) - free fo
+ od
+LOCATION:DMC 4.212
+DESCRIPTION:Food: Food served (details not specified)\nFirst social after
+  Moody Career Fair\nOriginal post: https://www.instagram.com/p/Dd4C6eLx5L
+ 3/
+URL:https://www.instagram.com/p/Dd4C6eLx5L3/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1rK5Yzu8_@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T001500Z
 DTEND:20261001T003000Z
 SUMMARY:FRep Info Session (American Society of Mechanical Engineers)
@@ -1208,7 +1439,7 @@ URL:https://www.instagram.com/p/Dd1rK5Yzu8_/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1hVduIyaS@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T003000Z
 DTEND:20261001T013000Z
 SUMMARY:GM2 with Dr. David Paolino (Texas Pre-CAA Association)
@@ -1219,7 +1450,7 @@ URL:https://www.instagram.com/p/Dd1hVduIyaS/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddzwb76M-Z1@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T003000Z
 DTEND:20261001T020000Z
 SUMMARY:Sister's Big/Little Reveal (Muslim Students' Association) - free 
@@ -1232,7 +1463,7 @@ URL:https://www.instagram.com/p/Ddzwb76M-Z1/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzoHEhvn57@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T003000Z
 DTEND:20261001T013000Z
 SUMMARY:Big/Little Draft Night (Muslim Students' Association)
@@ -1242,8 +1473,67 @@ DESCRIPTION:Members only\nBrother's reveal event for MSA members\nOrigina
 URL:https://www.instagram.com/p/DdzoHEhvn57/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd60lIHBWTc@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T003000Z
+DTEND:20261001T013000Z
+SUMMARY:Alpha Omega Social (Alpha Omega)
+LOCATION:
+DESCRIPTION:Campus ministry social gathering\nOriginal post: https://www.
+ instagram.com/p/Dd60lIHBWTc/
+URL:https://www.instagram.com/p/Dd60lIHBWTc/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6xix5lR0k@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T003000Z
+DTEND:20261001T013000Z
+SUMMARY:Revive (Revive Texas Ministries) - free food
+LOCATION:University Avenue Church of Christ
+DESCRIPTION:Food: Dinner\nWorship at 8:00 PM\, topic is dating\nOriginal 
+ post: https://www.instagram.com/p/Dd6xix5lR0k/
+URL:https://www.instagram.com/p/Dd6xix5lR0k/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4qFEtNcR7@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T003000Z
+DTEND:20261001T013000Z
+SUMMARY:Cottage Prayer and Big/Little Reveal (OneWay South Asian InterVar
+ sity)
+LOCATION:The Standard
+DESCRIPTION:Members only\nOriginal post: https://www.instagram.com/p/Dd4q
+ FEtNcR7/
+URL:https://www.instagram.com/p/Dd4qFEtNcR7/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4MIQnNqKu@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T003000Z
+DTEND:20261001T013000Z
+SUMMARY:Big Little Reveal & Cottage Prayer (OneWay South Asian InterVarsi
+ ty)
+LOCATION:Standard 17th Floor
+DESCRIPTION:Members only\nBig Little reveal and cottage prayer event comb
+ ined\nOriginal post: https://www.instagram.com/p/Dd4MIQnNqKu/
+URL:https://www.instagram.com/p/Dd4MIQnNqKu/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd37NBdxf0E@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T003000Z
+DTEND:20261001T010000Z
+SUMMARY:Revive - Growing Up in Dating (Revive Texas Ministries) - free fo
+ od
+LOCATION:1903 University Ave (University Avenue Church of Christ)
+DESCRIPTION:Food: Free dinner at 7:30 PM\nGuest speaker t_david from The 
+ Austin Stone\; event starts at 8 PM after dinner\nOriginal post: https://
+ www.instagram.com/p/Dd37NBdxf0E/
+URL:https://www.instagram.com/p/Dd37NBdxf0E/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd20I31NXCe@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T030000Z
 DTEND:20261001T040000Z
 SUMMARY:NFV Afterparty (Indian Cultural Association)
@@ -1254,7 +1544,7 @@ URL:https://www.instagram.com/p/Dd20I31NXCe/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddzv82puvpQ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cottage Prayer & Big Little Reveal (OneWay South Asian InterVarsi
@@ -1266,8 +1556,42 @@ DESCRIPTION:Members only\nBig Little reveal event for OneWay South Asian
 URL:https://www.instagram.com/p/Ddzv82puvpQ/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7UyS-BniH@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:NOAMS Gelato Profit Share (Lang Stuttering Institute Student Lead
+ ership Organization)
+LOCATION:NOAMS
+DESCRIPTION:Profit share fundraiser\; running all day\nOriginal post: htt
+ ps://www.instagram.com/p/Dd7UyS-BniH/
+URL:https://www.instagram.com/p/Dd7UyS-BniH/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd2d5UTt18n@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Hear from Freed Hostage Maya Regev (Longhorn Students For Israel)
+LOCATION:
+DESCRIPTION:Location and time shared upon RSVP\nOriginal post: https://ww
+ w.instagram.com/p/Dd2d5UTt18n/
+URL:https://www.instagram.com/p/Dd2d5UTt18n/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd1uYSlie-v@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T130000Z
+DTEND:20261001T140000Z
+SUMMARY:Noam's Gelato Profit Share (Tau Beta Pi - Engineering)
+LOCATION:2512 Rio Grande St\, Austin\, TX 78705
+DESCRIPTION:Profit share fundraiser\; mention "Tau Beta Pi" before paying
+ \nOriginal post: https://www.instagram.com/p/Dd1uYSlie-v/
+URL:https://www.instagram.com/p/Dd1uYSlie-v/
+END:VEVENT
+BEGIN:VEVENT
 UID:DdwxrlavSux@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T133000Z
 DTEND:20261001T152000Z
 SUMMARY:Sunrise Volunteer Shift (Miracle Messages Austin)
@@ -1277,8 +1601,44 @@ DESCRIPTION:Also Friday 10/2\; recurring volunteer shifts\nOriginal post:
 URL:https://www.instagram.com/p/DdwxrlavSux/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd5D2bAHEHJ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T150000Z
+DTEND:20261001T210000Z
+SUMMARY:Splash an Exec! (Black Student Alliance's Freshman Action Team)
+LOCATION:Speedway
+DESCRIPTION:FAT exec splash activity\nOriginal post: https://www.instagra
+ m.com/p/Dd5D2bAHEHJ/
+URL:https://www.instagram.com/p/Dd5D2bAHEHJ/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7KxUmIBtI@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T163000Z
+DTEND:20261001T183000Z
+SUMMARY:Prevention Connection: A Resource Fair for Relationship Violence 
+ Prevention Month (Title IX Office) - free food
+LOCATION:SSB Lobby
+DESCRIPTION:Food: Food and drinks provided\nMultiple RVPM events schedule
+ d throughout October\; soonest listed here\nOriginal post: https://www.in
+ stagram.com/p/Dd7KxUmIBtI/
+URL:https://www.instagram.com/p/Dd7KxUmIBtI/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5CF_mDOls@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T170000Z
+DTEND:20261001T180000Z
+SUMMARY:Lunch 'n Learn with McKinsey & Company (American Society of Mecha
+ nical Engineers) - free food
+LOCATION:TBD
+DESCRIPTION:Food: Taco Deli\nLocation TBD\, to be posted on story\nOrigin
+ al post: https://www.instagram.com/p/Dd5CF_mDOls/
+URL:https://www.instagram.com/p/Dd5CF_mDOls/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1unuCvkFV@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T173000Z
 DTEND:20261001T183000Z
 SUMMARY:General Meeting #2 with Dr. Reagan Schlierf (American Association
@@ -1290,8 +1650,32 @@ DESCRIPTION:Also in San Antonio at MCD 2.108\; speaker is Johns Hopkins P
 URL:https://www.instagram.com/p/Dd1unuCvkFV/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd6z1QDpYPS@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T210000Z
+DTEND:20261001T230000Z
+SUMMARY:Gong Cha Profit Share with BBSA (Black Business Student Associati
+ on)
+LOCATION:Gong Cha
+DESCRIPTION:Profit share fundraiser\; mention TX BBSA at checkout\nOrigin
+ al post: https://www.instagram.com/p/Dd6z1QDpYPS/
+URL:https://www.instagram.com/p/Dd6z1QDpYPS/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4p88tpf-u@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T210000Z
+DTEND:20261002T000000Z
+SUMMARY:Boba Profit Share at Doka Bubble Tea (Texas Arts for Aid)
+LOCATION:Doka Bubble Tea
+DESCRIPTION:Mention "Arts for Aid" at checkout to support fundraiser\; bo
+ nus points for bringing a friend\nOriginal post: https://www.instagram.co
+ m/p/Dd4p88tpf-u/
+URL:https://www.instagram.com/p/Dd4p88tpf-u/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd16oXkJLCv@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T220000Z
 DTEND:20261001T230000Z
 SUMMARY:General Meeting #2 (ADAPT Texas)
@@ -1303,7 +1687,7 @@ URL:https://www.instagram.com/p/Dd16oXkJLCv/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2ZkazgGPi@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T220000Z
 DTEND:20261001T230000Z
 SUMMARY:Justice for Wilber Perez (Austin Students for a Democratic Societ
@@ -1315,7 +1699,7 @@ URL:https://www.instagram.com/p/Dd2ZkazgGPi/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2HCxUPD4b@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T220000Z
 DTEND:20261001T230000Z
 SUMMARY:Financial Literacy Workshop: FAFSA Edition (The Center for Studen
@@ -1327,7 +1711,7 @@ URL:https://www.instagram.com/p/Dd2HCxUPD4b/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1Z0eIRhfY@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T220000Z
 DTEND:20261001T233000Z
 SUMMARY:Museum Scavenger Hunt (Alliance on Latinx Mental-Health Awareness
@@ -1338,8 +1722,32 @@ DESCRIPTION:Caption says 4-5PM but flyer says 5-6:30PM\; using flyer time
 URL:https://www.instagram.com/p/Dd1Z0eIRhfY/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd6xhpyT-Tg@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T220000Z
+DTEND:20261001T233000Z
+SUMMARY:Love for Muslims: Concern about Islam (Ratio Christi at the Unive
+ rsity of Texas at Austin)
+LOCATION:Sinclair Suite (3rd floor Texas Union)
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd6xhpyT-Tg/
+URL:https://www.instagram.com/p/Dd6xhpyT-Tg/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5DWidm6zM@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T220000Z
+DTEND:20261001T230000Z
+SUMMARY:Financial Theory Night (The National Association of Black Account
+ ants at The University of Texas at Austin)
+LOCATION:McCombs GSB 3.128
+DESCRIPTION:Discussion with Professor Robert C. Duvic on financial collap
+ ses\; first event\nOriginal post: https://www.instagram.com/p/Dd5DWidm6zM
+ /
+URL:https://www.instagram.com/p/Dd5DWidm6zM/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1iNlGHD--@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T224500Z
 DTEND:20261002T003000Z
 SUMMARY:INH Olympics Reed Family Picnic Game (Polymathic Scholars Student
@@ -1351,7 +1759,7 @@ URL:https://www.instagram.com/p/Dd1iNlGHD--/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddzmzl0SoCY@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T224500Z
 DTEND:20261001T230000Z
 SUMMARY:Reed Family Picnic Game (Polymathic Scholars Student Leadership P
@@ -1363,7 +1771,7 @@ URL:https://www.instagram.com/p/Ddzmzl0SoCY/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2k-eSMeTp@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T000000Z
 SUMMARY:General Meeting with Erika Gonzalez (Hispanic Public Relations St
@@ -1375,7 +1783,7 @@ URL:https://www.instagram.com/p/Dd2k-eSMeTp/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2anB7JAgx@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T010000Z
 SUMMARY:Back to ASO - General Body Meeting (African Students Organization
@@ -1388,7 +1796,7 @@ URL:https://www.instagram.com/p/Dd2anB7JAgx/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1slNoxfAe@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T003000Z
 SUMMARY:Excel Workshop (Management Information Systems Association) - fre
@@ -1401,7 +1809,7 @@ URL:https://www.instagram.com/p/Dd1slNoxfAe/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1iE1YgsLh@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T010000Z
 SUMMARY:Trivia Night (Natural Sciences Council) - free food
@@ -1413,7 +1821,7 @@ URL:https://www.instagram.com/p/Dd1iE1YgsLh/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0LTi4FbMi@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T000000Z
 SUMMARY:General Meeting with Guest Speaker (Texas Business Healthcare Ass
@@ -1425,7 +1833,7 @@ URL:https://www.instagram.com/p/Dd0LTi4FbMi/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz_QLzy742@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T010000Z
 SUMMARY:Game Night (Indonesian Student Association (PERMIAS))
@@ -1436,7 +1844,7 @@ URL:https://www.instagram.com/p/Ddz_QLzy742/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz5y9fup26@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T000000Z
 SUMMARY:Imposter Syndrome Workshop ((un)Jaded)
@@ -1446,7 +1854,7 @@ URL:https://www.instagram.com/p/Ddz5y9fup26/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzpbWrxOL4@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T003000Z
 SUMMARY:GM 3: IDOL (Japanese Association)
@@ -1457,7 +1865,7 @@ URL:https://www.instagram.com/p/DdzpbWrxOL4/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddzjk4BhLhz@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T010000Z
 SUMMARY:Paint with Bengali Students Association (Bengali Students Associa
@@ -1468,7 +1876,7 @@ URL:https://www.instagram.com/p/Ddzjk4BhLhz/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdzKTyrx136@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T230000Z
 DTEND:20261002T000000Z
 SUMMARY:Purva vs Utura: Ancient Dialogues (Hindu YUVA)
@@ -1479,8 +1887,113 @@ DESCRIPTION:First of five October GBMs\; others: Oct 8 (Deccan Chessboard
 URL:https://www.instagram.com/p/DdzKTyrx136/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7UIBgBfp_@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:General Meeting (Women in Mechanical Engineering) - free food
+LOCATION:ETC 2.132
+DESCRIPTION:Food: Sam's food provided\nThird general meeting of semester\
+ ; pipe cleaner craft activity\nOriginal post: https://www.instagram.com/p
+ /Dd7UIBgBfp_/
+URL:https://www.instagram.com/p/Dd7UIBgBfp_/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7Lmg5hYWD@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:General Meeting & LSAT Practice (Texas Phi Alpha Delta)
+LOCATION:RLP 0.128
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd7Lmg5hYWD/
+URL:https://www.instagram.com/p/Dd7Lmg5hYWD/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7JHOXmiQQ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:Deaf Poetry/Storytelling (Deaf Culture Alliance at the University
+  of Texas at Austin)
+LOCATION:GAR 2.112
+DESCRIPTION:ASL poetry and storytelling showcase\; exploration of visual 
+ nature of ASL language\nOriginal post: https://www.instagram.com/p/Dd7JHO
+ XmiQQ/
+URL:https://www.instagram.com/p/Dd7JHOXmiQQ/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7EmG4qUXh@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:SAC General Meeting #2 with Guest Speaker Lin Hermes (Students Ag
+ ainst Cancer) - free food
+LOCATION:UTC 1.102
+DESCRIPTION:Food: Pizza\nOriginal post: https://www.instagram.com/p/Dd7Em
+ G4qUXh/
+URL:https://www.instagram.com/p/Dd7EmG4qUXh/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd65yxmxV8o@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T003000Z
+SUMMARY:Excel Workshop (Management Information Systems Association) - fre
+ e food
+LOCATION:CBA 4.328
+DESCRIPTION:Food: Dinner\nOriginal post: https://www.instagram.com/p/Dd65
+ yxmxV8o/
+URL:https://www.instagram.com/p/Dd65yxmxV8o/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd43qSZpew0@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:Committee Meetings (The Student Solidarity Network) - free food
+LOCATION:Benedict Hall 1.102
+DESCRIPTION:Food: Snacks provided\nFive committees: Culinary\, Creative\,
+  Projects\, Finance\, Outreach. Open to all skills levels.\nOriginal post
+ : https://www.instagram.com/p/Dd43qSZpew0/
+URL:https://www.instagram.com/p/Dd43qSZpew0/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4I39ils3e@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:Disclosure Day Screening (University Unions)
+LOCATION:Texas Union Theater (UNB 2.228)
+DESCRIPTION:Also screening at 9 PM (21:00)\nOriginal post: https://www.in
+ stagram.com/p/Dd4I39ils3e/
+URL:https://www.instagram.com/p/Dd4I39ils3e/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd2EblUCjbn@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:Guest Speaker: Richy Lyttle\, CRNA (Black Health Professions Orga
+ nization- MAPS Chapter)
+LOCATION:UT School of Nursing Room 1.112
+DESCRIPTION:Co-hosted by AANSA and BHPO\nOriginal post: https://www.insta
+ gram.com/p/Dd2EblUCjbn/
+URL:https://www.instagram.com/p/Dd2EblUCjbn/
+END:VEVENT
+BEGIN:VEVENT
+UID:DduMfCYplam@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+SUMMARY:Bowling Social (Texas Engineering World Health) - free food
+LOCATION:Union Underground Bowling
+DESCRIPTION:Limited spots\, RSVP required\nOriginal post: https://www.ins
+ tagram.com/p/DduMfCYplam/
+URL:https://www.instagram.com/p/DduMfCYplam/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd0YotYuRa3@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261001T233000Z
 DTEND:20261002T003000Z
 SUMMARY:Capitol/Downtown Walk (Longhorn Mindful Miles)
@@ -1491,7 +2004,7 @@ URL:https://www.instagram.com/p/Dd0YotYuRa3/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1dKWrSF2U@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T000000Z
 DTEND:20261002T010000Z
 SUMMARY:Pickleball Social (Texas Pre-Law Honor Society)
@@ -1502,7 +2015,7 @@ URL:https://www.instagram.com/p/Dd1dKWrSF2U/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1PhYzlTOR@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T000000Z
 DTEND:20261002T010000Z
 SUMMARY:General Meeting 3 - Starlight (Longhorn EMS) - free food
@@ -1513,8 +2026,92 @@ DESCRIPTION:Limegreen social after at 5:30-9:30 PM\; Career Opportunities
 URL:https://www.instagram.com/p/Dd1PhYzlTOR/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7BfeYpSbW@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T000000Z
+DTEND:20261002T010000Z
+SUMMARY:Project Meeting #6 (Texas Theme Park Engineering and Design)
+LOCATION:BUR 216
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd7BfeYpSbW/
+URL:https://www.instagram.com/p/Dd7BfeYpSbW/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5G1obsjSw@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T000000Z
+DTEND:20261002T010000Z
+SUMMARY:CYA Service (Celebration Young Adults at the University of Texas 
+ at Austin)
+LOCATION:unknown
+DESCRIPTION:Doors open at 7 PM\, service begins at 7:30 PM\nOriginal post
+ : https://www.instagram.com/p/Dd5G1obsjSw/
+URL:https://www.instagram.com/p/Dd5G1obsjSw/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5A1FbiTzO@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+SUMMARY:TXGJ Showcase (Electronic Game Developers Society)
+LOCATION:GDC 1.304
+DESCRIPTION:Also streaming on Twitch and TXGJ Discord\; also Oct 8 VGHL s
+ tream and Oct 10 awards ceremony at GDC 2.216 1pm-2pm\nOriginal post: htt
+ ps://www.instagram.com/p/Dd5A1FbiTzO/
+URL:https://www.instagram.com/p/Dd5A1FbiTzO/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4wlNKvC5T@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T000000Z
+DTEND:20261002T010000Z
+SUMMARY:Weekly Meeting with Peter Breton (AURA VP) (Longhorn Urbanists)
+LOCATION:RLP 1.104
+DESCRIPTION:Guest speaker Peter Breton (VP of AURA\, planning commissione
+ r\, CapMetro advisory liaison)\nOriginal post: https://www.instagram.com/
+ p/Dd4wlNKvC5T/
+URL:https://www.instagram.com/p/Dd4wlNKvC5T/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4i7NoNxXV@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T000000Z
+DTEND:20261002T010000Z
+SUMMARY:Second General Meeting - Halloween Themed (Longhorn League of Leg
+ ends) - free food
+LOCATION:RLP 1.106
+DESCRIPTION:Food: candy provided\nIncludes League of Legends Mafia game\;
+  group planning to go to ChiCha San Chen afterwards for tea for Heartstee
+ l promotion\nOriginal post: https://www.instagram.com/p/Dd4i7NoNxXV/
+URL:https://www.instagram.com/p/Dd4i7NoNxXV/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd345jZRdp2@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+SUMMARY:Family Field Day Hype (Vietnamese Students Association) - free fo
+ od
+LOCATION:WEL 3.502
+DESCRIPTION:Food: Officers prepared food for the event\nGM #3 (general me
+ eting)\; includes family games\nOriginal post: https://www.instagram.com/
+ p/Dd345jZRdp2/
+URL:https://www.instagram.com/p/Dd345jZRdp2/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd2ibCyjIVT@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T000000Z
+DTEND:20261002T010000Z
+SUMMARY:The Word Lives - Gospel of John Study (Celebration Young Adults a
+ t the University of Texas at Austin)
+LOCATION:
+DESCRIPTION:Recurring sermon series\; John 1:43-51 study\nOriginal post: 
+ https://www.instagram.com/p/Dd2ibCyjIVT/
+URL:https://www.instagram.com/p/Dd2ibCyjIVT/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd18LihvexD@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T003000Z
 DTEND:20261002T013000Z
 SUMMARY:Bag Charm Making (Society of Women Engineers)
@@ -1524,7 +2121,7 @@ URL:https://www.instagram.com/p/Dd18LihvexD/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddxk35xgEAP@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T010000Z
 DTEND:20261002T020000Z
 SUMMARY:Game Night (Muslim Mental Health Organization)
@@ -1533,8 +2130,20 @@ DESCRIPTION:Original post: https://www.instagram.com/p/Ddxk35xgEAP/
 URL:https://www.instagram.com/p/Ddxk35xgEAP/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd6rsDUlnqX@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T010000Z
+DTEND:20261002T030000Z
+SUMMARY:Hookah Night (Iranian Students Academic and Cultural Organization
+ ) - free food
+LOCATION:The Groupme
+DESCRIPTION:Food: Chai provided\nOriginal post: https://www.instagram.com
+ /p/Dd6rsDUlnqX/
+URL:https://www.instagram.com/p/Dd6rsDUlnqX/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2H9HAqoWZ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:IEEE x AIChE Movie Night (Institute of Electrical & Electronics E
@@ -1546,7 +2155,7 @@ URL:https://www.instagram.com/p/Dd2H9HAqoWZ/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0DpCESRXt@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:General Meeting #2 (Hispanic Public Relations Student Association
@@ -1558,8 +2167,20 @@ DESCRIPTION:Other October events: Utea Pho Profit Share (10/8)\, General
 URL:https://www.instagram.com/p/Dd0DpCESRXt/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd5Q6KFDJAr@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Dawah Training (Texas Dawah Team)
+LOCATION:Nueces Mosque - BAC
+DESCRIPTION:Recurring weekly every Thursday after Magrib prayer\; specifi
+ c prayer times not provided\nOriginal post: https://www.instagram.com/p/D
+ d5Q6KFDJAr/
+URL:https://www.instagram.com/p/Dd5Q6KFDJAr/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1wsrcJnfD@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T150000Z
 DTEND:20261002T170000Z
 SUMMARY:Texas A&M College of Medicine Campus Tour & Q&A (Latinx Health Pr
@@ -1571,8 +2192,33 @@ DESCRIPTION:Members only\nDeparture 7:30am\; limited spots\; sign up by S
 URL:https://www.instagram.com/p/Dd1wsrcJnfD/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4QTcPOVO7@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T150000Z
+DTEND:20261002T200000Z
+SUMMARY:AI Mastery in the Oil & Gas Industry (Women in Petroleum and Geos
+ ystems Engineering) - free food
+LOCATION:CPE Brons Room
+DESCRIPTION:Food: Pizza\nPartnered with PGSA and SPE\; speaker Yogashri P
+ radhan from IronLady Energy Advisors\nOriginal post: https://www.instagra
+ m.com/p/Dd4QTcPOVO7/
+URL:https://www.instagram.com/p/Dd4QTcPOVO7/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7HbmgtTQf@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T160000Z
+DTEND:20261002T200000Z
+SUMMARY:Mentorship Lucky Lab Tab (Liberal Arts Honors Student Council) - 
+ free food
+LOCATION:Space 24 Twenty
+DESCRIPTION:Food: Coffee or drinks from Lucky Lab\nOriginal post: https:/
+ /www.instagram.com/p/Dd7HbmgtTQf/
+URL:https://www.instagram.com/p/Dd7HbmgtTQf/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd0NLxlx5jr@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T180000Z
 DTEND:20261002T190000Z
 SUMMARY:Friday Lunch with Lisa Blackwell (Health Science Honors Council) 
@@ -1585,7 +2231,7 @@ URL:https://www.instagram.com/p/Dd0NLxlx5jr/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0QOAQu4cE@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T200000Z
 DTEND:20261002T230000Z
 SUMMARY:Texas Mahjong Meeting #5 (Texas Mahjong Club)
@@ -1595,8 +2241,31 @@ DESCRIPTION:Bring an umbrella\nOriginal post: https://www.instagram.com/p
 URL:https://www.instagram.com/p/Dd0QOAQu4cE/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd40bdikdKs@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T200000Z
+DTEND:20261002T210000Z
+SUMMARY:GM #2 with Free Tacos (Omega Chi Epsilon - Chemical Engineering) 
+ - free food
+LOCATION:CPE 2.218
+DESCRIPTION:Food: free tacos\nOriginal post: https://www.instagram.com/p/
+ Dd40bdikdKs/
+URL:https://www.instagram.com/p/Dd40bdikdKs/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd44sy5Rl77@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T213000Z
+DTEND:20261002T223000Z
+SUMMARY:Tote Bag Painting Social (Texas Public Health)
+LOCATION:Gearing Courtyard
+DESCRIPTION:Materials provided\; right before their PDW event\nOriginal p
+ ost: https://www.instagram.com/p/Dd44sy5Rl77/
+URL:https://www.instagram.com/p/Dd44sy5Rl77/
+END:VEVENT
+BEGIN:VEVENT
 UID:DdzlevjIEqF@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261002T230000Z
 DTEND:20261003T010000Z
 SUMMARY:Bowling Social (Muslim Legal Society)
@@ -1605,8 +2274,71 @@ DESCRIPTION:Original post: https://www.instagram.com/p/DdzlevjIEqF/
 URL:https://www.instagram.com/p/DdzlevjIEqF/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd5IgmVsRGJ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T230000Z
+DTEND:20261003T000000Z
+SUMMARY:Alpha Course: How to Gain Confidence in Faith (Austin Chinese Cam
+ pus Christian Fellowship) - free food
+LOCATION:SSB G1.310\, UT Austin
+DESCRIPTION:Food: Free dinner\nRSVP required via bio\; part of Alpha Cour
+ se series on faith and belief\nOriginal post: https://www.instagram.com/p
+ /Dd5IgmVsRGJ/
+URL:https://www.instagram.com/p/Dd5IgmVsRGJ/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4hb0zJpyF@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T230000Z
+DTEND:20261003T000000Z
+SUMMARY:Tying the knot on big/little (Latinx Health Professions Organizat
+ ion)
+LOCATION:South Mall Lawn
+DESCRIPTION:Final big/little event before ranking forms\; making keychain
+ s\nOriginal post: https://www.instagram.com/p/Dd4hb0zJpyF/
+URL:https://www.instagram.com/p/Dd4hb0zJpyF/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4Ow-GxDC-@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+SUMMARY:Austin CTF Limits (Information and Systems Security Society (ISSS
+ )) - free food
+LOCATION:GDC 1.304
+DESCRIPTION:Food: Cici's pizza\nOriginal post: https://www.instagram.com/
+ p/Dd4Ow-GxDC-/
+URL:https://www.instagram.com/p/Dd4Ow-GxDC-/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd3-zsVRDR8@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T230000Z
+DTEND:20261003T000000Z
+SUMMARY:Onboarding Social (Longhorn Developers) - free food
+LOCATION:TBD - check Discord
+DESCRIPTION:Food: free food\nMembers only\nMandatory for all members\; lo
+ cation updates in Discord\nOriginal post: https://www.instagram.com/p/Dd3
+ -zsVRDR8/
+URL:https://www.instagram.com/p/Dd3-zsVRDR8/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6m4UClmjy@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261002T233000Z
+DTEND:20261003T003000Z
+SUMMARY:Shabbat Dinner (Texas Hillel) - free food
+LOCATION:
+DESCRIPTION:Food: Fresh baked challah rolls\, Asian crunchy cabbage salad
+ \, hummus\, orange soup\, chicken teriyaki (vegan option available)\, bak
+ ed sweet potatoes boats\, rice & sweet corn\, cinnamon rolls\nCandles & s
+ ervices at 6:30 PM\, dinner at 7:30 PM. Catered by Gail's Catering (certi
+ fied kosher).\nOriginal post: https://www.instagram.com/p/Dd6m4UClmjy/
+URL:https://www.instagram.com/p/Dd6m4UClmjy/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2pI7_TqSS@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261003T000000Z
 DTEND:20261003T010000Z
 SUMMARY:Connect Groups Launch (Bridges International - Texas Chapter)
@@ -1616,8 +2348,33 @@ DESCRIPTION:Multiple groups launching: Book Club\, Game night\, and Bakin
 URL:https://www.instagram.com/p/Dd2pI7_TqSS/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd6lLkEJb4J@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261003T000000Z
+DTEND:20261003T010000Z
+SUMMARY:Connect Groups - Book Club\, Baking and Games (Bridges Internatio
+ nal - Texas Chapter)
+LOCATION:<UNKNOWN>
+DESCRIPTION:Multiple Connect Groups launching\; Book Club\, Baking and Ga
+ mes listed as examples\nOriginal post: https://www.instagram.com/p/Dd6lLk
+ EJb4J/
+URL:https://www.instagram.com/p/Dd6lLkEJb4J/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5rTcplcZT@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261003T010000Z
+DTEND:20261003T020000Z
+SUMMARY:Graphite Exam Social (Arab Students Association)
+LOCATION:11700 N IH-35 Service Rd\, Ste 102\, Austin\, TX 78753
+DESCRIPTION:Post references Continuum Mechanics exam\; event appears to b
+ e a social gathering\nOriginal post: https://www.instagram.com/p/Dd5rTcpl
+ cZT/
+URL:https://www.instagram.com/p/Dd5rTcplcZT/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd18sGmlioA@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Hot Ones with Imam Ahmed Khan & Mufti Anwer (Nueces Mosque - Stud
@@ -1630,7 +2387,7 @@ URL:https://www.instagram.com/p/Dd18sGmlioA/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1kPtWEcWY@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Fall Getaway (Texas Cru)
@@ -1642,7 +2399,7 @@ URL:https://www.instagram.com/p/Dd1kPtWEcWY/
 END:VEVENT
 BEGIN:VEVENT
 UID:DdwtirvH7EQ@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Catalyst Fall Retreat (Koinonia Christian Fellowship)
@@ -1653,8 +2410,66 @@ DESCRIPTION:Multi-day retreat Oct 2-3\; activities include bonfire\, rope
 URL:https://www.instagram.com/p/DdwtirvH7EQ/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4aAEPGjjv@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:NASA Orbit Challenge (Texas Space Society)
+LOCATION:
+DESCRIPTION:Application deadline Friday October 2nd 11:59 PM\; team-based
+  competition on space propulsion research and proposal writing\nOriginal 
+ post: https://www.instagram.com/p/Dd4aAEPGjjv/
+URL:https://www.instagram.com/p/Dd4aAEPGjjv/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7ZUvXuiat@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261003T140000Z
+DTEND:20261003T170000Z
+SUMMARY:Volunteering at Central Texas Food Bank (Foundation for Internati
+ onal Medical Relief of Children)
+LOCATION:6500 Metropolis Dr
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd7ZUvXuiat/
+URL:https://www.instagram.com/p/Dd7ZUvXuiat/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd690FJFMG5@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261003T140000Z
+DTEND:20261003T230000Z
+SUMMARY:Rylander Lakehouse Trip (American Society of Mechanical Engineers
+ ) - free food
+LOCATION:Rylander Lakehouse
+DESCRIPTION:Rides provided\nOriginal post: https://www.instagram.com/p/Dd
+ 690FJFMG5/
+URL:https://www.instagram.com/p/Dd690FJFMG5/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4r8RDqpua@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261003T140000Z
+DTEND:20261003T180000Z
+SUMMARY:Safe in Austin Volunteering Event (Pre-Veterinary Association)
+LOCATION:Honeycomb Dr\, Leander\, TX 78641
+DESCRIPTION:Meet at Littlefield Fountain at 8:45am for 9:00am departure t
+ o volunteer location\nOriginal post: https://www.instagram.com/p/Dd4r8RDq
+ pua/
+URL:https://www.instagram.com/p/Dd4r8RDqpua/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6u9KjgsVb@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Tech for All Festival Device Preparation (Texas Helping Hand)
+LOCATION:2209 Rosewood Ave\, Austin TX
+DESCRIPTION:Rides at Littlefield Fountain\nOriginal post: https://www.ins
+ tagram.com/p/Dd6u9KjgsVb/
+URL:https://www.instagram.com/p/Dd6u9KjgsVb/
+END:VEVENT
+BEGIN:VEVENT
 UID:Ddzjgzks8CB@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261004T010000Z
 DTEND:20261004T020000Z
 SUMMARY:Growing Up in Dating (Revive Texas Ministries)
@@ -1665,7 +2480,7 @@ URL:https://www.instagram.com/p/Ddzjgzks8CB/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2V5WrlSOE@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Dress for Success Volunteering (National Society of Black Enginee
@@ -1676,7 +2491,7 @@ URL:https://www.instagram.com/p/Dd2V5WrlSOE/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz7TnkM6ZW@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:H-Games (Access Christian Fellowship)
@@ -1686,8 +2501,32 @@ DESCRIPTION:Posted 6 days before the event\; exact time and location not
 URL:https://www.instagram.com/p/Ddz7TnkM6ZW/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7RmsQBayv@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261004T160000Z
+DTEND:20261004T170000Z
+SUMMARY:Grandparents' Day Celebration (Texas Perfect Pair)
+LOCATION:Westminster Arbour\, 2nd Floor Activity Room
+DESCRIPTION:Annual event\; Social Point reward offered\; Rides provided i
+ f needed\nOriginal post: https://www.instagram.com/p/Dd7RmsQBayv/
+URL:https://www.instagram.com/p/Dd7RmsQBayv/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd68HrbNApn@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261004T160000Z
+DTEND:20261004T170000Z
+SUMMARY:Morsels from Mekong Cooking Event (Cook 'Em Horns) - free food
+LOCATION:Jester West kitchen basement
+DESCRIPTION:Food: Papaya salad\, kai jiew\, Cambodian beef sticks\, mango
+  sticky rice - Southeast Asian staples\nCollaboration with UT TLC\; signu
+ p required by Saturday Oct 3\nOriginal post: https://www.instagram.com/p/
+ Dd68HrbNApn/
+URL:https://www.instagram.com/p/Dd68HrbNApn/
+END:VEVENT
+BEGIN:VEVENT
 UID:DdxJ2S6RZ5b@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261004T180000Z
 DTEND:20261004T190000Z
 SUMMARY:Lucky Lab Coffee Tab (Teaching Refugees to Understand English at 
@@ -1698,8 +2537,43 @@ DESCRIPTION:Carpool group meetup\nOriginal post: https://www.instagram.co
 URL:https://www.instagram.com/p/DdxJ2S6RZ5b/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd7cOueNPiO@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261004T180000Z
+DTEND:20261004T210000Z
+SUMMARY:Pool Social (Vietnamese Students Association) - free food
+LOCATION:26 West Apartments\, 600 W 26th St\, Austin\, TX 78705
+DESCRIPTION:Food: Food will be provided\nOriginal post: https://www.insta
+ gram.com/p/Dd7cOueNPiO/
+URL:https://www.instagram.com/p/Dd7cOueNPiO/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4SFrnpF83@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261004T180000Z
+DTEND:20261004T190000Z
+SUMMARY:Barton Springs Social (Texas Economics Association)
+LOCATION:Barton Springs
+DESCRIPTION:Check Instagram and Slack for transportation and meeting loca
+ tion details\nOriginal post: https://www.instagram.com/p/Dd4SFrnpF83/
+URL:https://www.instagram.com/p/Dd4SFrnpF83/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7GwThidpK@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261004T190000Z
+DTEND:20261004T200000Z
+SUMMARY:How to Build a Project Workshop (Texas Convergent)
+LOCATION:<UNKNOWN>
+DESCRIPTION:Members only\nOther workshops: system design walkthrough (10/
+ 25\, 2-3pm)\, building a personal portfolio (11/15\, 2-3pm)\, intro to AW
+ S (11/8)\; rooms TBD announced on Slack\nOriginal post: https://www.insta
+ gram.com/p/Dd7GwThidpK/
+URL:https://www.instagram.com/p/Dd7GwThidpK/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1jQBmqPDc@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261004T220000Z
 DTEND:20261004T230000Z
 SUMMARY:TMAS x Caduceus Kayaking Social (Caduceus)
@@ -1711,7 +2585,7 @@ URL:https://www.instagram.com/p/Dd1jQBmqPDc/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd28Pl1OlTO@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:ECLAIR Movie Night (Engineering and Computational Learning of Art
@@ -1722,8 +2596,46 @@ DESCRIPTION:Food: Popcorn and other snacks\nOriginal post: https://www.in
 URL:https://www.instagram.com/p/Dd28Pl1OlTO/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd5NZW1RDhR@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T140000Z
+DTEND:20261005T180000Z
+SUMMARY:NRF Foundation Virtual Career Fair (National Retail Federation St
+ udent Association at UT Austin)
+LOCATION:Virtual
+DESCRIPTION:Virtual event with major retailers: Walmart\, Macy's\, DICK'S
+ \, CVS Health\, UNIQLO\, Gap Inc.\, and more\nOriginal post: https://www.
+ instagram.com/p/Dd5NZW1RDhR/
+URL:https://www.instagram.com/p/Dd5NZW1RDhR/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7L13avA0g@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T150000Z
+DTEND:20261005T190000Z
+SUMMARY:Student Life Safety Peer Educators - Hazing Prevention Awareness 
+ (Student Governance Organizations)
+LOCATION:PCL Corner
+DESCRIPTION:Free safety kit distributed\; hazing prevention awareness tab
+ ling ahead of Texas vs. OU game\nOriginal post: https://www.instagram.com
+ /p/Dd7L13avA0g/
+URL:https://www.instagram.com/p/Dd7L13avA0g/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6gRy_sfbL@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T150000Z
+DTEND:20261005T200000Z
+SUMMARY:Navaratri Tabling (Hindu Students Association)
+LOCATION:Speedway
+DESCRIPTION:Multiple Navaratri tabling dates throughout October\; GM date
+ s Oct 6\, 13\, 20\, 27 at GAR 2.112\; Diwali Workday Oct 26\, 28 at SOC 5
+ \nOriginal post: https://www.instagram.com/p/Dd6gRy_sfbL/
+URL:https://www.instagram.com/p/Dd6gRy_sfbL/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1q8pVkSz5@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261005T220000Z
 DTEND:20261006T020000Z
 SUMMARY:Cabo Bob's Profit Share (Longhorn Urbanists)
@@ -1733,8 +2645,56 @@ DESCRIPTION:Profit share fundraiser\; bring flyer to receive discount/por
 URL:https://www.instagram.com/p/Dd1q8pVkSz5/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd6nBuzvGG3@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T220000Z
+DTEND:20261005T230000Z
+SUMMARY:Mr. NCNW Scholarship Pageant Interest Form Deadline (National Cou
+ ncil of Negro Women\, UT Austin Section)
+LOCATION:Online
+DESCRIPTION:Information session October 9th\; pageant celebration Decembe
+ r 5th for Founder's Day\nOriginal post: https://www.instagram.com/p/Dd6nB
+ uzvGG3/
+URL:https://www.instagram.com/p/Dd6nBuzvGG3/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4yulbmkZd@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T220000Z
+DTEND:20261005T230000Z
+SUMMARY:Building Your Academic Life Plan Workshop (Global Medical Trainin
+ g)
+LOCATION:Texas Union 3.208
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd4yulbmkZd/
+URL:https://www.instagram.com/p/Dd4yulbmkZd/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7J1xBRkt9@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T223000Z
+DTEND:20261005T233000Z
+SUMMARY:LATS Meeting with AJ Duffy (Longhorn Athletic Training Student As
+ sociation)
+LOCATION:Bellmont 962
+DESCRIPTION:Special guest AJ Duffy\, NATA President\, with David Gallegos
+  (President-elect)\, Mollie Pillman (Executive Director)\, and Jessica Po
+ rter (Senior Board Relations Coordinator)\nOriginal post: https://www.ins
+ tagram.com/p/Dd7J1xBRkt9/
+URL:https://www.instagram.com/p/Dd7J1xBRkt9/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5DCncBsHZ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T223000Z
+DTEND:20261005T233000Z
+SUMMARY:IEEE PES General Meeting 2 (IEEE Power and Energy Society)
+LOCATION:CPE 2.212
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd5DCncBsHZ/
+URL:https://www.instagram.com/p/Dd5DCncBsHZ/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1teGCuF85@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261005T230000Z
 DTEND:20261006T003000Z
 SUMMARY:E+ESSENTIALS WORKSHOP (University Unions) - free food
@@ -1745,8 +2705,43 @@ DESCRIPTION:Food: Free food and drinks\nSafety training\, photobox tutori
 URL:https://www.instagram.com/p/Dd1teGCuF85/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd67-sEiRaG@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+SUMMARY:General Meeting #2 (American Concrete Institute)
+LOCATION:ECJ 3.122
+DESCRIPTION:Members only\nMembers only\; dinner requires $5 semester memb
+ ership\; FullForce presenter\nOriginal post: https://www.instagram.com/p/
+ Dd67-sEiRaG/
+URL:https://www.instagram.com/p/Dd67-sEiRaG/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4EogORiJC@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+SUMMARY:Crafts Social (Texas DnD)
+LOCATION:SZB 5.624
+DESCRIPTION:Bring your own craft project\nOriginal post: https://www.inst
+ agram.com/p/Dd4EogORiJC/
+URL:https://www.instagram.com/p/Dd4EogORiJC/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd1qVecpMpb@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+SUMMARY:Alumni Event with Christiana Ozuna (Texas Women in Economics) - f
+ ree food
+LOCATION:BRB 2.136
+DESCRIPTION:Food: Food will be provided\nOriginal post: https://www.insta
+ gram.com/p/Dd1qVecpMpb/
+URL:https://www.instagram.com/p/Dd1qVecpMpb/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2UCxWqYAK@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261005T233000Z
 DTEND:20261006T003000Z
 SUMMARY:General Body Meeting #2 (Texas herScript)
@@ -1756,8 +2751,80 @@ DESCRIPTION:Collaboration with Break Through Tech\nOriginal post: https:/
 URL:https://www.instagram.com/p/Dd2UCxWqYAK/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd39KWvK0pO@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T000000Z
+DTEND:20261006T010000Z
+SUMMARY:General Meeting #2 (Student Engineering Council) - free food
+LOCATION:ETC 2.108
+DESCRIPTION:Open to all Cockrell students\; company speaker (United State
+ s Navy)\nOriginal post: https://www.instagram.com/p/Dd39KWvK0pO/
+URL:https://www.instagram.com/p/Dd39KWvK0pO/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4Zf9ESiCh@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T153000Z
+DTEND:20261006T180000Z
+SUMMARY:Bloomberg Tabling (Hispanic Association of Computer Scientists)
+LOCATION:GDC Atrium
+DESCRIPTION:Part of Bloomberg recruiting visit\; also Resume Review (Oct 
+ 7\, 2:30-4:00 PM\, GDC 6.302) and AI Workshop (Oct 8\, 6:00-7:30 PM\, GDC
+  6.302)\nOriginal post: https://www.instagram.com/p/Dd4Zf9ESiCh/
+URL:https://www.instagram.com/p/Dd4Zf9ESiCh/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4RrJXlIUe@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T170000Z
+DTEND:20261006T190000Z
+SUMMARY:Free Lunch Buffet (Labyrinth Progressive Student Ministry) - free
+  food
+LOCATION:101 W. 21st Street
+DESCRIPTION:Recurring every Tuesday\nOriginal post: https://www.instagram
+ .com/p/Dd4RrJXlIUe/
+URL:https://www.instagram.com/p/Dd4RrJXlIUe/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5MShcxkzU@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T210000Z
+DTEND:20261006T230000Z
+SUMMARY:OK Computer Radiohead Listening Party & Discussion (Texas Album o
+ f the Week)
+LOCATION:JES A303A
+DESCRIPTION:Listening party 4-5pm\, discussion 5-6pm\nOriginal post: http
+ s://www.instagram.com/p/Dd5MShcxkzU/
+URL:https://www.instagram.com/p/Dd5MShcxkzU/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4dLItTiBp@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T210000Z
+DTEND:20261007T000000Z
+SUMMARY:Wellfest (University Housing and Dining) - free food
+LOCATION:Gregory Gym Plaza
+DESCRIPTION:Food: Free food provided\nIn partnership with RecSports\; inc
+ ludes mat Pilates class and crafting\nOriginal post: https://www.instagra
+ m.com/p/Dd4dLItTiBp/
+URL:https://www.instagram.com/p/Dd4dLItTiBp/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4XF0YF-JQ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T221500Z
+DTEND:20261006T231500Z
+SUMMARY:Mat Pilates at the Arena (Recreational Sports) - free food
+LOCATION:Gregory Gym Arena
+DESCRIPTION:Food: Shake Smart samples for post-workout fuel\; free yoga m
+ ats for first 100 check-ins\nPart of Wellfest\; first 100 participants ge
+ t free yoga mat\; bring own mat/towel and water bottle\nOriginal post: ht
+ tps://www.instagram.com/p/Dd4XF0YF-JQ/
+URL:https://www.instagram.com/p/Dd4XF0YF-JQ/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1sYphNSDq@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261006T230000Z
 DTEND:20261007T000000Z
 SUMMARY:Big-Little Reveal (UTeach Theatre Spotlights)
@@ -1768,7 +2835,7 @@ URL:https://www.instagram.com/p/Dd1sYphNSDq/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1rQ4fxXzm@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261006T230000Z
 DTEND:20261007T000000Z
 SUMMARY:Pumpkin Carving with Religious Sisters and Priests (Longhorn Cath
@@ -1781,7 +2848,7 @@ URL:https://www.instagram.com/p/Dd1rQ4fxXzm/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddtv-OpNht8@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261006T230000Z
 DTEND:20261007T000000Z
 SUMMARY:Spotlights Family Reveal (UTeach Theatre Spotlights)
@@ -1791,8 +2858,67 @@ DESCRIPTION:Members only\nSecond family reveal\; requires prior applicati
 URL:https://www.instagram.com/p/Ddtv-OpNht8/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd65a99uADn@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+SUMMARY:Family Feud Social (Meow Mates)
+LOCATION:UTC 4.102
+DESCRIPTION:Members only\nThird social of the semester\; members only\nOr
+ iginal post: https://www.instagram.com/p/Dd65a99uADn/
+URL:https://www.instagram.com/p/Dd65a99uADn/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4KT3vRPQc@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261006T231500Z
+DTEND:20261007T001500Z
+SUMMARY:Fjord Free Student Screening (Campus Events + Entertainment)
+LOCATION:Texas Union Theater
+DESCRIPTION:First 25 people get NEON merchandise\; screening begins at 7:
+ 00 PM\nOriginal post: https://www.instagram.com/p/Dd4KT3vRPQc/
+URL:https://www.instagram.com/p/Dd4KT3vRPQc/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd31lspxKOA@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261007T000000Z
+DTEND:20261007T010000Z
+SUMMARY:Track Workshop #1: Computer Architecture & Embedded Systems (Inst
+ itute of Electrical & Electronics Engineers)
+LOCATION:
+DESCRIPTION:First in track workshop series\; includes track overview\, cl
+ asses\, careers\, breadboarding/PCB workshop\nOriginal post: https://www.
+ instagram.com/p/Dd31lspxKOA/
+URL:https://www.instagram.com/p/Dd31lspxKOA/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7eJLamiMO@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261007T003000Z
+DTEND:20261007T013000Z
+SUMMARY:Oma's Kitchen Profit Share (Chinese Student Association)
+LOCATION:Oma's Kitchen
+DESCRIPTION:Profit share fundraiser\; order online by Oct 2\; after CSA G
+ M 4\nOriginal post: https://www.instagram.com/p/Dd7eJLamiMO/
+URL:https://www.instagram.com/p/Dd7eJLamiMO/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6z5yaJkkr@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261007T003000Z
+DTEND:20261007T013000Z
+SUMMARY:Cupcake Decorating Social (Every Child Project) - free food
+LOCATION:Union on San Antonio
+DESCRIPTION:Food: Red velvet\, vanilla\, and funfetti cupcakes with fall 
+ and halloween themed sprinkles for decorating\nFirst social of the year\;
+  exact location to be posted day-of on Instagram\, GroupMe\, and Slack\nO
+ riginal post: https://www.instagram.com/p/Dd6z5yaJkkr/
+URL:https://www.instagram.com/p/Dd6z5yaJkkr/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd1xVsYEeDa@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261007T010000Z
 DTEND:20261007T023000Z
 SUMMARY:S:UM Campus Worship Series (The Fruits)
@@ -1804,7 +2930,7 @@ URL:https://www.instagram.com/p/Dd1xVsYEeDa/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1jErlt1bq@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261007T180000Z
 DTEND:20261008T020000Z
 SUMMARY:Karaoke Social (Society of Asian Scientists and Engineers)
@@ -1815,7 +2941,7 @@ URL:https://www.instagram.com/p/Dd1jErlt1bq/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd0FQSAOt2X@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261007T210000Z
 DTEND:20261008T000000Z
 SUMMARY:Gong Cha Profit Share (Central Asian Society)
@@ -1827,7 +2953,7 @@ URL:https://www.instagram.com/p/Dd0FQSAOt2X/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1fZwjw7Ar@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261007T230000Z
 DTEND:20261008T000000Z
 SUMMARY:Central Texas Food Bank Volunteering (Texas Pre-Law Honor Society
@@ -1839,7 +2965,7 @@ URL:https://www.instagram.com/p/Dd1fZwjw7Ar/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddy_xIdBbnt@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261007T230000Z
 DTEND:20261008T000000Z
 SUMMARY:3 Years of Ongoing Genocide Vigil (Arab Students Association)
@@ -1850,8 +2976,112 @@ DESCRIPTION:Vigil organized with collaborators including Austin for Pales
 URL:https://www.instagram.com/p/Ddy_xIdBbnt/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd6ZHfggeyb@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:Campus Community Dinner (Labyrinth Progressive Student Ministry) 
+ - free food
+LOCATION:2130 Guadalupe Street
+DESCRIPTION:Food: free hot meal\nRecurring every Wednesday\; also feature
+ s trans support group\, community organizing\, teach-ins\nOriginal post: 
+ https://www.instagram.com/p/Dd6ZHfggeyb/
+URL:https://www.instagram.com/p/Dd6ZHfggeyb/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4B61jxYOg@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:Energy Briefing: Downstream Supply Distress (Longhorn Energy Club
+ )
+LOCATION:EER 3.646
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd4B61jxYOg/
+URL:https://www.instagram.com/p/Dd4B61jxYOg/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6gA2WljIU@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261007T233000Z
+DTEND:20261008T003000Z
+SUMMARY:General Meeting #2 (Student Community of Asian Nurses)
+LOCATION:NUR 5.180
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd6gA2WljIU/
+URL:https://www.instagram.com/p/Dd6gA2WljIU/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5X7SGR7bm@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261008T000000Z
+DTEND:20261008T010000Z
+SUMMARY:Life Talk #2: Friendship Part 2 (International Undergraduate Stud
+ ent Ministry-Austin) - free food
+LOCATION:WCP 2.120
+DESCRIPTION:Food: Free Cantonese seafood clay pot\, dessert\nFree rides o
+ r walk groups back to dorm/apartment provided after event\nOriginal post:
+  https://www.instagram.com/p/Dd5X7SGR7bm/
+URL:https://www.instagram.com/p/Dd5X7SGR7bm/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7kc5QFpqi@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:General Meeting with Green Ritual Guest Speakers (Fynix)
+LOCATION:The University of Texas at Austin
+DESCRIPTION:Guest speakers from Green Ritual\nOriginal post: https://www.
+ instagram.com/p/Dd7kc5QFpqi/
+URL:https://www.instagram.com/p/Dd7kc5QFpqi/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7cPFkkWFY@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:GIS General Meeting (Gamma Iota Sigma @ UT Austin)
+LOCATION:
+DESCRIPTION:Recurring every Wednesday\; ~60 members\; actuarial society\n
+ Original post: https://www.instagram.com/p/Dd7cPFkkWFY/
+URL:https://www.instagram.com/p/Dd7cPFkkWFY/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4gQeRoE1G@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:America: Love It or Leave It Tour (Turning Point USA at The Unive
+ rsity of Texas at Austin)
+LOCATION:
+DESCRIPTION:Original post: https://www.instagram.com/p/Dd4gQeRoE1G/
+URL:https://www.instagram.com/p/Dd4gQeRoE1G/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4pkWsTvZP@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261008T223000Z
+DTEND:20261008T233000Z
+SUMMARY:Hot Questions and Hotter Wings (TX Votes) - free food
+LOCATION:CMB 2.104
+DESCRIPTION:Food: Hot wings\nPanel discussion with local leaders and expe
+ rts on civic issues before midterms\nOriginal post: https://www.instagram
+ .com/p/Dd4pkWsTvZP/
+URL:https://www.instagram.com/p/Dd4pkWsTvZP/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd6f_cZIMtJ@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261008T224500Z
+DTEND:20261009T004500Z
+SUMMARY:Light the Lamp Ceremony (Austin Texas Nursing Students' Associati
+ on)
+LOCATION:Texas Union – Shirley Bird Perry Ballroom
+DESCRIPTION:Volunteer shift\; members limited to 1 shift\; wear ATXNSA me
+ rch if possible\nOriginal post: https://www.instagram.com/p/Dd6f_cZIMtJ/
+URL:https://www.instagram.com/p/Dd6f_cZIMtJ/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd16FCaJSni@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261008T230000Z
 DTEND:20261009T003000Z
 SUMMARY:Interviewing in the Age of AI Workshop (National Society of Black
@@ -1863,8 +3093,68 @@ DESCRIPTION:Collaborative event with Bloomberg\, WiCS\, HACS\, and NSBE\;
 URL:https://www.instagram.com/p/Dd16FCaJSni/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd4Z6BVBUal@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261008T230000Z
+DTEND:20261009T003000Z
+SUMMARY:Interviewing in the Age of AI Workshop (Hispanic Association of C
+ omputer Scientists)
+LOCATION:GDC 6.302
+DESCRIPTION:Collaborative event with HACS\, WiCS\, NSBE\, and Bloomberg\n
+ Original post: https://www.instagram.com/p/Dd4Z6BVBUal/
+URL:https://www.instagram.com/p/Dd4Z6BVBUal/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd38iBpsMhH@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Navaratri 2026 (Hindu Students Association)
+LOCATION:
+DESCRIPTION:Garba and dandiya event\nOriginal post: https://www.instagram
+ .com/p/Dd38iBpsMhH/
+URL:https://www.instagram.com/p/Dd38iBpsMhH/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4brmhNTeu@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261010T170000Z
+DTEND:20261010T180000Z
+SUMMARY:Shadow Isles Showdown (Longhorn League of Legends)
+LOCATION:
+DESCRIPTION:League of Legends 4-round Bo3 swiss into top 8 bracket tourna
+ ment\; registration deadline October 8th\nOriginal post: https://www.inst
+ agram.com/p/Dd4brmhNTeu/
+URL:https://www.instagram.com/p/Dd4brmhNTeu/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd7IqukhwPB@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:Volunteer Opportunity at Austin State Hospital (Muslim Mental Hea
+ lth Organization)
+LOCATION:Austin State Hospital
+DESCRIPTION:Counts as clinical hours\; transportation provided\nOriginal 
+ post: https://www.instagram.com/p/Dd7IqukhwPB/
+URL:https://www.instagram.com/p/Dd7IqukhwPB/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd4AkiwJPCj@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261013T170000Z
+DTEND:20261013T180000Z
+SUMMARY:Boundless Live Podcast Lunch & Learn (Texas Hillel) - free food
+LOCATION:
+DESCRIPTION:Food: Lunch\nRecording of Boundless Insights podcast with For
+ mer Israeli Ambassador Michael Oren and UN speechwriter Aviva Klompas dis
+ cussing national security and antisemitism\; Q&A included\nOriginal post:
+  https://www.instagram.com/p/Dd4AkiwJPCj/
+URL:https://www.instagram.com/p/Dd4AkiwJPCj/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2S1aNHOD5@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:The Investigation Begins Mixer (National Council of Negro Women\,
@@ -1876,7 +3166,7 @@ URL:https://www.instagram.com/p/Dd2S1aNHOD5/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2EgGWTzvw@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261014T170000Z
 DTEND:20261014T180000Z
 SUMMARY:Lunch and Learn with Patterson (Society of Women Engineers) - fre
@@ -1887,8 +3177,43 @@ DESCRIPTION:Food: Lunch provided\nOriginal post: https://www.instagram.co
 URL:https://www.instagram.com/p/Dd2EgGWTzvw/
 END:VEVENT
 BEGIN:VEVENT
+UID:Dd5RTF1OsEa@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261017T163000Z
+DTEND:20261017T173000Z
+SUMMARY:BBQ with the Docs (Black Health Professions Organization- MAPS Ch
+ apter) - free food
+LOCATION:The Quadrangle Room\, Texas Union
+DESCRIPTION:Members only\nDues required to attend\nOriginal post: https:/
+ /www.instagram.com/p/Dd5RTF1OsEa/
+URL:https://www.instagram.com/p/Dd5RTF1OsEa/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5IM2fsHXn@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261018T020000Z
+DTEND:20261018T030000Z
+SUMMARY:Beevoween Party (Beekeeping Society)
+LOCATION:Block on 25th
+DESCRIPTION:Annual event\, costume contest with prizes\nOriginal post: ht
+ tps://www.instagram.com/p/Dd5IM2fsHXn/
+URL:https://www.instagram.com/p/Dd5IM2fsHXn/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd39CBMxoMt@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261020T223000Z
+DTEND:20261021T013000Z
+SUMMARY:Texas Energy Innovation Night (Longhorn Energy Club)
+LOCATION:Mulva Auditorium\, EER
+DESCRIPTION:Three sessions featuring five energy startups discussing comm
+ ercialization pathways\nOriginal post: https://www.instagram.com/p/Dd39CB
+ MxoMt/
+URL:https://www.instagram.com/p/Dd39CBMxoMt/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2zI1LOoCm@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261022T233000Z
 DTEND:20261023T013000Z
 SUMMARY:Adapted Sports Night (Disability Advocacy Student Coalition)
@@ -1898,7 +3223,7 @@ URL:https://www.instagram.com/p/Dd2zI1LOoCm/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd25HDdkaec@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261023T233000Z
 DTEND:20261024T030000Z
 SUMMARY:Mosaics of Nueces Poetry Night (Nueces Mosque - Student Chapter) 
@@ -1910,7 +3235,7 @@ URL:https://www.instagram.com/p/Dd25HDdkaec/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd1uI42OHH7@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261024T160000Z
 DTEND:20261024T230000Z
 SUMMARY:KōmoriPOP!!! with Alienware Longhorn E-Sports (University Unions
@@ -1923,7 +3248,7 @@ URL:https://www.instagram.com/p/Dd1uI42OHH7/
 END:VEVENT
 BEGIN:VEVENT
 UID:Ddz9wI6Fifv@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261024T170000Z
 DTEND:20261024T180000Z
 SUMMARY:Team Matching & Ideation Pitching Workshop (Freetail Hackers) - f
@@ -1936,7 +3261,7 @@ URL:https://www.instagram.com/p/Ddz9wI6Fifv/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2iSiAkYB0@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261031T130000Z
 DTEND:20261031T230000Z
 SUMMARY:Vex Robotics Competition (IEEE Robotics and Automation Society)
@@ -1946,8 +3271,33 @@ DESCRIPTION:Costume competition with specific regulations\nOriginal post:
 URL:https://www.instagram.com/p/Dd2iSiAkYB0/
 END:VEVENT
 BEGIN:VEVENT
+UID:DdrzQToDJL8@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261106T170000Z
+DTEND:20261107T040000Z
+SUMMARY:KBH Energy Finance Case Competition (Texas Energy Consulting)
+LOCATION:Rowling Hall
+DESCRIPTION:Two-day competition: Nov 6 (11am-10pm) and Nov 7 (8am-5pm). T
+ eam registration closes Oct 23. Open to all undergrads. Mentors and judge
+ s also needed.\nOriginal post: https://www.instagram.com/p/DdrzQToDJL8/
+URL:https://www.instagram.com/p/DdrzQToDJL8/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dd5ec_ojo_j@ut-org-events
+DTSTAMP:20261001T004337Z
+DTSTART:20261107T160000Z
+DTEND:20261107T210000Z
+SUMMARY:Fall Festival (Undergraduate Korean Association)
+LOCATION:Brushy Creek Community Center\, 16318 S Great Oaks Dr\, Round Ro
+ ck\, TX 78661
+DESCRIPTION:UKA x KAAGA collaboration\; volunteering opportunity with sch
+ olarship eligibility\nOriginal post: https://www.instagram.com/p/Dd5ec_oj
+ o_j/
+URL:https://www.instagram.com/p/Dd5ec_ojo_j/
+END:VEVENT
+BEGIN:VEVENT
 UID:Dd2n97qFMaH@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART:20261114T150000Z
 DTEND:20261114T220000Z
 SUMMARY:GO ATX (The Ridge | College Ministry at the University of Texas a
@@ -1959,7 +3309,7 @@ URL:https://www.instagram.com/p/Dd2n97qFMaH/
 END:VEVENT
 BEGIN:VEVENT
 UID:Dd2BcbKvDuu@ut-org-events
-DTSTAMP:20260929T055337Z
+DTSTAMP:20261001T004337Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Fall Annual Fundraiser (Nueces Mosque - Student Chapter)

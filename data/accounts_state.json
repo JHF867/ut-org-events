@@ -26,7 +26,7 @@
  "aade.utex": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T00:18:30.000Z",
   "not_found": 0,
   "private": false
@@ -42,7 +42,7 @@
  "aapp.atx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T17:33:40.000Z",
   "not_found": 0,
   "private": false
@@ -74,7 +74,7 @@
  "access_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -82,7 +82,7 @@
  "acf.atx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -90,15 +90,15 @@
  "aci_utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:10:10.000Z",
   "not_found": 0,
   "private": false
  },
  "activeminds.ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -106,15 +106,15 @@
  "actscollegefellowship": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:54:56.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T15:24:04.000Z",
   "not_found": 0,
   "private": false
  },
  "adapttexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T19:17:16.000Z",
   "not_found": 0,
   "private": false
@@ -138,7 +138,7 @@
  "aeitexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T16:26:04.000Z",
   "not_found": 0,
   "private": false
@@ -154,7 +154,7 @@
  "ahs_utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -162,7 +162,7 @@
  "aiaa_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:51:57.000Z",
   "not_found": 0,
   "private": false
@@ -186,7 +186,7 @@
  "almaoncampusatx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T14:32:57.000Z",
   "not_found": 0,
   "private": false
@@ -194,7 +194,7 @@
  "almutexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -218,7 +218,7 @@
  "amsaut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -234,7 +234,7 @@
  "ans.texas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -250,7 +250,7 @@
  "armenianstudents_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T19:35:06.000Z",
   "not_found": 0,
   "private": false
@@ -258,16 +258,16 @@
  "asa_utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T16:04:44.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:58:21.000Z",
   "not_found": 0,
   "private": false
  },
  "asap_utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-26T19:44:17.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:00:07.000Z",
   "not_found": 0,
   "private": false
  },
@@ -282,7 +282,7 @@
  "asc_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -290,7 +290,7 @@
  "asce_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -298,7 +298,7 @@
  "ascend_texas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -306,7 +306,7 @@
  "atidna.utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -322,7 +322,7 @@
  "atx.scioly": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -330,32 +330,32 @@
  "atx_nsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T14:00:03.000Z",
   "not_found": 0,
   "private": false
  },
  "atxalphaomega": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:00:06.000Z",
   "not_found": 0,
   "private": false
  },
  "atxbridgesinternational": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-29T02:03:43.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T14:48:38.000Z",
   "not_found": 0,
   "private": false
  },
  "atxcampuslions": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T15:53:17.000Z",
   "not_found": 0,
   "private": false
  },
@@ -386,7 +386,7 @@
  "austin.sds": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T23:47:55.000Z",
   "not_found": 0,
   "private": false
@@ -394,7 +394,7 @@
  "austinlifecollege": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -402,7 +402,7 @@
  "austinstembuddies": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-26T22:51:45.000Z",
   "not_found": 0,
   "private": false
@@ -410,8 +410,8 @@
  "awake_utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T14:43:31.000Z",
   "not_found": 0,
   "private": false
  },
@@ -426,8 +426,8 @@
  "beevobeekeepers": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T13:17:21.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T01:14:53.000Z",
   "not_found": 0,
   "private": false
  },
@@ -466,7 +466,7 @@
  "blacklistedbookworms": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -474,7 +474,7 @@
  "boltutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T20:53:58.000Z",
   "not_found": 0,
   "private": false
@@ -482,7 +482,7 @@
  "bridgetexasut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -506,7 +506,7 @@
  "caduceusutx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:57:07.000Z",
   "not_found": 0,
   "private": false
@@ -514,7 +514,7 @@
  "cas.texas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T02:12:29.000Z",
   "not_found": 0,
   "private": false
@@ -522,8 +522,16 @@
  "catalystcsg": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "celebration.cya": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T01:51:00.000Z",
   "not_found": 0,
   "private": false
  },
@@ -538,7 +546,7 @@
  "chikappaphi": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -554,7 +562,7 @@
  "cleancycleinitiative": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T19:36:39.000Z",
   "not_found": 0,
   "private": false
@@ -570,7 +578,7 @@
  "cofafac": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -594,16 +602,24 @@
  "college_austinstone": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:07:49.000Z",
   "not_found": 0,
   "private": false
  },
  "colorstackutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "cookem_horns": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:11:51.000Z",
   "not_found": 0,
   "private": false
  },
@@ -642,7 +658,7 @@
  "crisis_aidnetwork": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -650,7 +666,7 @@
  "crossroads.atx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -658,8 +674,8 @@
  "csoc_tx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-26T20:32:13.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:14:18.000Z",
   "not_found": 0,
   "private": false
  },
@@ -682,15 +698,15 @@
  "daprtx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:27:05.000Z",
   "not_found": 0,
   "private": false
  },
  "dascutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T03:31:36.000Z",
   "not_found": 0,
   "private": false
@@ -698,16 +714,16 @@
  "dcc_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:32:37.000Z",
   "not_found": 0,
   "private": false
  },
  "deafculturealliance": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-29T01:41:08.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:59:57.000Z",
   "not_found": 0,
   "private": false
  },
@@ -716,6 +732,14 @@
   "first_checked": "2026-09-29T02:41:14+00:00",
   "last_checked": "2026-09-29T02:41:14+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "dellmedphds": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-26T01:30:59.000Z",
   "not_found": 0,
   "private": false
  },
@@ -730,8 +754,8 @@
  "designatut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T18:06:37.000Z",
   "not_found": 0,
   "private": false
  },
@@ -746,15 +770,15 @@
  "disney_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T20:47:15.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T02:43:24.000Z",
   "not_found": 0,
   "private": false
  },
  "dogswithoutbordersfoundation": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -770,7 +794,7 @@
  "dreamcorps_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -794,7 +818,7 @@
  "eaatut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -810,7 +834,7 @@
  "eclairrobotics": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T04:50:35.000Z",
   "not_found": 0,
   "private": false
@@ -818,7 +842,7 @@
  "efa.utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -826,8 +850,8 @@
  "egadsaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-26T14:00:05.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:41:49.000Z",
   "not_found": 0,
   "private": false
  },
@@ -842,15 +866,15 @@
  "ejcollectiveut": {
   "business": null,
   "first_checked": "2026-09-29T05:33:51+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-26T23:23:46.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T15:33:21.000Z",
   "not_found": 0,
   "private": false
  },
  "emancipetoncampus": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T13:54:49.000Z",
   "not_found": 0,
   "private": false
@@ -858,7 +882,7 @@
  "enable_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -866,8 +890,8 @@
  "enc_tx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T21:31:01.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:50:50.000Z",
   "not_found": 0,
   "private": false
  },
@@ -882,7 +906,7 @@
  "eswut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -890,7 +914,7 @@
  "etasigmaphi_tx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -898,7 +922,7 @@
  "fcalonghorn": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T14:00:07.000Z",
   "not_found": 0,
   "private": false
@@ -914,7 +938,7 @@
  "firstgenlonghorns": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -930,7 +954,7 @@
  "freetailhackers": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T01:05:59.000Z",
   "not_found": 0,
   "private": false
@@ -938,7 +962,7 @@
  "friendsofmsfutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -978,7 +1002,7 @@
  "give.utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -994,16 +1018,16 @@
  "gmmaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-26T21:56:17.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T01:58:02.000Z",
   "not_found": 0,
   "private": false
  },
  "gmtlonghorn": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-26T19:25:17.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T22:05:52.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1026,7 +1050,7 @@
  "gscatut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1042,7 +1066,7 @@
  "h4haustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T14:42:35.000Z",
   "not_found": 0,
   "private": false
@@ -1055,10 +1079,18 @@
   "not_found": 2,
   "private": false
  },
+ "havenatx": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-28T15:14:38.000Z",
+  "not_found": 0,
+  "private": false
+ },
  "hcmptexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1074,7 +1106,7 @@
  "healthyhorns": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:57:54.000Z",
   "not_found": 0,
   "private": false
@@ -1082,7 +1114,7 @@
  "heartclub_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1090,8 +1122,8 @@
  "heartfulness": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T07:00:58.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:28:09.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1111,6 +1143,14 @@
   "not_found": 2,
   "private": false
  },
+ "helpinghornz": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
  "hercampustexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
@@ -1122,7 +1162,7 @@
  "hillhousestudycenter": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1130,7 +1170,7 @@
  "hinduyuva.utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T17:40:02.000Z",
   "not_found": 0,
   "private": false
@@ -1138,7 +1178,7 @@
  "hksatx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1146,8 +1186,8 @@
  "hmcc_atx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T00:47:32.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T02:09:19.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1170,7 +1210,7 @@
  "hookedmediastrategy": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1194,7 +1234,7 @@
  "hookemhacks": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1210,7 +1250,7 @@
  "hornssportsdebate": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1218,7 +1258,7 @@
  "hsweattcenter": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T21:48:46.000Z",
   "not_found": 0,
   "private": false
@@ -1234,23 +1274,23 @@
  "ieee.ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T21:15:29.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T13:14:45.000Z",
   "not_found": 0,
   "private": false
  },
  "ieee.ut.pes": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T00:28:45.000Z",
   "not_found": 0,
   "private": false
  },
  "ignitetexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T14:42:43.000Z",
   "not_found": 0,
   "private": false
@@ -1271,10 +1311,18 @@
   "not_found": 2,
   "private": false
  },
+ "ilassaut": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
  "inbetweenthelines.ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1282,7 +1330,7 @@
  "ismp_austin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1290,7 +1338,7 @@
  "ispetexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:22:42.000Z",
   "not_found": 0,
   "private": false
@@ -1298,15 +1346,15 @@
  "iusm_austin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T03:31:40.000Z",
   "not_found": 0,
   "private": false
  },
  "ivlafelonghorns": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1354,7 +1402,7 @@
  "kesemutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1370,7 +1418,7 @@
  "koinonia_texas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-26T18:46:37.000Z",
   "not_found": 0,
   "private": false
@@ -1386,7 +1434,7 @@
  "ksea.texas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1394,24 +1442,24 @@
  "kswelinstitute": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:28:56.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:15:20.000Z",
   "not_found": 0,
   "private": false
  },
  "labyrinthatx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T13:00:34.000Z",
   "not_found": 0,
   "private": false
  },
  "lahstudentcouncil": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T22:47:31.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T22:24:09.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1447,10 +1495,18 @@
   "not_found": 0,
   "private": false
  },
+ "lc.austintx": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
  "lcoaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1458,16 +1514,16 @@
  "leba.utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T21:00:04.000Z",
   "not_found": 0,
   "private": false
  },
  "lec.ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T15:02:11.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1482,7 +1538,7 @@
  "lhneurotech": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1490,7 +1546,7 @@
  "lifelonglearningwithfriends": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1498,8 +1554,8 @@
  "longhorn.mmho": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T02:50:07.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:58:13.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1514,7 +1570,7 @@
  "longhorn_geoguessr_club": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1522,8 +1578,8 @@
  "longhorn_lol": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T20:43:13.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:00:06.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1538,7 +1594,7 @@
  "longhorn_poker": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1546,7 +1602,7 @@
  "longhorn_riichi": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1554,7 +1610,7 @@
  "longhorn_sim_racing": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1562,7 +1618,7 @@
  "longhorn_voices": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1570,7 +1626,7 @@
  "longhornassetmgmt": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1578,8 +1634,8 @@
  "longhornatsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:11:29.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1591,10 +1647,18 @@
   "not_found": 2,
   "private": false
  },
+ "longhornbajaracing": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-27T01:50:35.000Z",
+  "not_found": 0,
+  "private": false
+ },
  "longhornbakers": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1602,7 +1666,7 @@
  "longhornbestbuddies": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1610,15 +1674,15 @@
  "longhornbsm": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T14:19:09.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:54:20.000Z",
   "not_found": 0,
   "private": false
  },
  "longhorncatholic": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T17:06:51.000Z",
   "not_found": 0,
   "private": false
@@ -1629,6 +1693,14 @@
   "last_checked": "2026-09-29T05:33:51+00:00",
   "last_post": null,
   "not_found": 2,
+  "private": false
+ },
+ "longhorncomics": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
   "private": false
  },
  "longhorndanceco": {
@@ -1642,7 +1714,7 @@
  "longhorndesignlab": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1650,15 +1722,15 @@
  "longhorndevelopers": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T14:45:01.000Z",
   "not_found": 0,
   "private": false
  },
  "longhorndigitalmarketing": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1666,7 +1738,7 @@
  "longhornems": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T13:00:03.000Z",
   "not_found": 0,
   "private": false
@@ -1674,7 +1746,7 @@
  "longhornescapesociety": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1682,8 +1754,8 @@
  "longhornfinance": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:10:46.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1698,7 +1770,7 @@
  "longhornfurries": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1706,7 +1778,7 @@
  "longhorngaming": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1722,15 +1794,15 @@
  "longhornhsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T15:11:39.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T14:04:52.000Z",
   "not_found": 0,
   "private": false
  },
  "longhornijm": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T13:57:16.000Z",
   "not_found": 0,
   "private": false
@@ -1738,7 +1810,7 @@
  "longhorninvestmentteam": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1746,7 +1818,7 @@
  "longhornmindfulmiles": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T13:00:06.000Z",
   "not_found": 0,
   "private": false
@@ -1778,8 +1850,16 @@
  "longhornpuzzleclub": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "longhornracing": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T17:00:02.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1794,7 +1874,7 @@
  "longhornrocketry": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1802,8 +1882,8 @@
  "longhornsforchrist": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T20:33:22.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:00:53.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1820,6 +1900,14 @@
   "first_checked": "2026-09-29T02:41:14+00:00",
   "last_checked": "2026-09-29T02:41:14+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "longhornstudentsforisrael": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T00:28:36.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1850,8 +1938,8 @@
  "longhornurbanists": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:00:03.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T21:49:38.000Z",
   "not_found": 0,
   "private": false
  },
@@ -1866,7 +1954,7 @@
  "longhornxa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1922,15 +2010,15 @@
  "mendingmedicalmindsut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T04:36:16.000Z",
   "not_found": 0,
   "private": false
  },
  "mhisatexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1938,7 +2026,7 @@
  "miraclemessagesaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:54:32.000Z",
   "not_found": 0,
   "private": false
@@ -1946,7 +2034,7 @@
  "mlds_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1954,7 +2042,7 @@
  "mls_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T21:36:53.000Z",
   "not_found": 0,
   "private": false
@@ -1962,7 +2050,7 @@
  "mpacctexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1978,7 +2066,7 @@
  "nabe.ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1986,7 +2074,7 @@
  "naipaut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -1994,7 +2082,7 @@
  "namioncampusatx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2002,7 +2090,7 @@
  "nationalsecuritycollective": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T03:31:51.000Z",
   "not_found": 0,
   "private": false
@@ -2010,7 +2098,7 @@
  "nblsa_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2018,7 +2106,7 @@
  "ncf_austin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2026,15 +2114,15 @@
  "ncnwutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T22:48:42.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:04:03.000Z",
   "not_found": 0,
   "private": false
  },
  "newwavelonghorns": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2042,7 +2130,7 @@
  "nice_utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2058,15 +2146,15 @@
  "nuecesmosque": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-29T04:23:09.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T20:09:11.000Z",
   "not_found": 0,
   "private": false
  },
  "occm.texas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T19:15:43.000Z",
   "not_found": 0,
   "private": false
@@ -2074,7 +2162,7 @@
  "officialpulseclub": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T03:30:25.000Z",
   "not_found": 0,
   "private": false
@@ -2082,8 +2170,8 @@
  "onewaysaiv": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T23:07:42.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T20:50:38.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2106,7 +2194,7 @@
  "permiasaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T01:20:37.000Z",
   "not_found": 0,
   "private": false
@@ -2114,7 +2202,7 @@
  "pharmtox_social_and_outreach": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2122,8 +2210,8 @@
  "phidetx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:15:43.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T17:44:28.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2146,8 +2234,8 @@
  "pihengageatutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T14:50:11.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2162,7 +2250,7 @@
  "pinkfirst.utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:24:30.000Z",
   "not_found": 0,
   "private": false
@@ -2170,7 +2258,7 @@
  "pivotpointcentral": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2178,8 +2266,8 @@
  "plan2premed": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T20:07:15.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2194,7 +2282,7 @@
  "platypusatx1917": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2210,7 +2298,7 @@
  "polishclubatut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2218,15 +2306,23 @@
  "projectyellowtexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:00:26.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "psaustinchapter": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T14:18:28.000Z",
   "not_found": 0,
   "private": false
  },
  "qtbipoca_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2250,7 +2346,7 @@
  "readingaces": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2258,8 +2354,8 @@
  "redcrossclubtexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:33:10.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2274,23 +2370,23 @@
  "resoundacappella": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T21:43:32.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T03:21:45.000Z",
   "not_found": 0,
   "private": false
  },
  "revivetexasmin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T21:24:26.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:34:00.000Z",
   "not_found": 0,
   "private": false
  },
  "ridgecollege": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T01:53:21.000Z",
   "not_found": 0,
   "private": false
@@ -2298,7 +2394,7 @@
  "rooted.immigrant.collective": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2330,15 +2426,15 @@
  "sac.austin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T21:45:40.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:25:44.000Z",
   "not_found": 0,
   "private": false
  },
  "sacnasutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2354,7 +2450,7 @@
  "sasetexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:57:49.000Z",
   "not_found": 0,
   "private": false
@@ -2394,7 +2490,7 @@
  "scmso_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T00:39:54.000Z",
   "not_found": 0,
   "private": false
@@ -2402,7 +2498,7 @@
  "score.athletics": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2410,7 +2506,7 @@
  "sda.utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2418,7 +2514,7 @@
  "seal_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2426,7 +2522,7 @@
  "seaot_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2434,15 +2530,15 @@
  "sectexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T14:21:52.000Z",
   "not_found": 0,
   "private": false
  },
  "sellfellowship": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2450,23 +2546,23 @@
  "sevacharities": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:02:01.000Z",
   "not_found": 0,
   "private": false
  },
  "sfccut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T02:41:14+00:00",
-  "last_post": "2026-09-26T23:23:46.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:29:58.000Z",
   "not_found": 0,
   "private": false
  },
  "sfppatx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2482,7 +2578,7 @@
  "silkclubatx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2490,7 +2586,7 @@
  "simplebarenecessitiesaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2498,7 +2594,7 @@
  "skyatutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2506,7 +2602,7 @@
  "smlsut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T16:52:41.000Z",
   "not_found": 0,
   "private": false
@@ -2522,7 +2618,15 @@
  "socksforthesole": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "sof.utaustin": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2546,7 +2650,7 @@
  "sol_utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2567,6 +2671,14 @@
   "not_found": 2,
   "private": false
  },
+ "specialolympics.ut": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-26T21:32:18.000Z",
+  "not_found": 0,
+  "private": false
+ },
  "spicmacay_utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
@@ -2578,7 +2690,7 @@
  "sports_entertainmentls": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2586,7 +2698,7 @@
  "spotlights_utt": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T17:13:04.000Z",
   "not_found": 0,
   "private": false
@@ -2594,8 +2706,8 @@
  "spwla.utaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T16:51:04.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T04:17:26.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2610,7 +2722,7 @@
  "ssitexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T03:53:20.000Z",
   "not_found": 0,
   "private": false
@@ -2626,15 +2738,23 @@
  "studentmrc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-26T19:57:42.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "studentsolidaritynetwork": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T22:52:26.000Z",
   "not_found": 0,
   "private": false
  },
  "sum.atx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2642,7 +2762,7 @@
  "sumcampusworship": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:09:03.000Z",
   "not_found": 0,
   "private": false
@@ -2650,7 +2770,7 @@
  "survivor.texas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2658,7 +2778,7 @@
  "swetexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T20:45:30.000Z",
   "not_found": 0,
   "private": false
@@ -2666,7 +2786,7 @@
  "switchenergyclub_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2682,7 +2802,7 @@
  "taa.utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2706,8 +2826,16 @@
  "tbla_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "tbp.texasalpha": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-28T16:57:50.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2722,7 +2850,7 @@
  "tcca.austin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2751,10 +2879,18 @@
   "not_found": 0,
   "private": false
  },
+ "teco.ut": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-24T21:00:28.000Z",
+  "not_found": 0,
+  "private": false
+ },
  "tedxutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2762,7 +2898,7 @@
  "texas.aiche": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2778,8 +2914,8 @@
  "texas.aotw": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T01:50:13.000Z",
   "not_found": 0,
   "private": false
  },
@@ -2794,7 +2930,7 @@
  "texas.aws": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2810,7 +2946,7 @@
  "texas.bei": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2818,23 +2954,23 @@
  "texas.bsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T21:17:30.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:24:46.000Z",
   "not_found": 0,
   "private": false
  },
  "texas.csa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T23:03:43.000Z",
   "not_found": 0,
   "private": false
  },
  "texas.gmb": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:46:57.000Z",
   "not_found": 0,
   "private": false
@@ -2858,7 +2994,7 @@
  "texas.lhr": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2866,7 +3002,7 @@
  "texas.nova": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2874,7 +3010,7 @@
  "texas.pops": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T03:14:54.000Z",
   "not_found": 0,
   "private": false
@@ -2882,7 +3018,7 @@
  "texas.ppa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2898,15 +3034,23 @@
  "texas.sea": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T22:39:56.000Z",
   "not_found": 0,
   "private": false
  },
  "texas.soca": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T22:05:04.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "texas.tapc": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2914,7 +3058,7 @@
  "texas.tcg": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2922,7 +3066,7 @@
  "texas180dc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2930,7 +3074,7 @@
  "texas4000": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:48:18.000Z",
   "not_found": 0,
   "private": false
@@ -2938,7 +3082,7 @@
  "texas_abcs": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2946,7 +3090,7 @@
  "texas_acm": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2954,7 +3098,7 @@
  "texas_ado": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -2970,7 +3114,7 @@
  "texas_aso": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T00:01:06.000Z",
   "not_found": 0,
   "private": false
@@ -2994,15 +3138,15 @@
  "texas_bhpo": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:39:41.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:00:04.000Z",
   "not_found": 0,
   "private": false
  },
  "texas_cbc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3010,16 +3154,24 @@
  "texas_cru": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T16:01:35.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:46:50.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "texas_cyc": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
   "not_found": 0,
   "private": false
  },
  "texas_dawah": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T02:22:02.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T02:29:35.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3034,7 +3186,7 @@
  "texas_fcc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3042,7 +3194,7 @@
  "texas_financial_futures": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3058,15 +3210,15 @@
  "texas_gis": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T22:47:03.000Z",
   "not_found": 0,
   "private": false
  },
  "texas_lcmd": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3082,15 +3234,15 @@
  "texas_mse": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T23:20:04.000Z",
   "not_found": 0,
   "private": false
  },
  "texas_nurhopsi": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T04:16:18.000Z",
   "not_found": 0,
   "private": false
@@ -3106,7 +3258,7 @@
  "texas_rev": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3114,7 +3266,7 @@
  "texas_rhochi": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3130,8 +3282,8 @@
  "texas_scan": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T14:00:05.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3170,7 +3322,7 @@
  "texas_ssa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T02:37:18.000Z",
   "not_found": 0,
   "private": false
@@ -3186,7 +3338,7 @@
  "texas_tabletop": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3199,10 +3351,18 @@
   "not_found": 2,
   "private": false
  },
+ "texas_tuso": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:13:18.000Z",
+  "not_found": 0,
+  "private": false
+ },
  "texas_ula": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3210,8 +3370,8 @@
  "texas_umbra": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:01:48.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3226,7 +3386,7 @@
  "texasaacm": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3234,7 +3394,7 @@
  "texasaaees": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-26T20:44:09.000Z",
   "not_found": 0,
   "private": false
@@ -3242,7 +3402,7 @@
  "texasabpsi": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3250,8 +3410,8 @@
  "texasabsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T19:09:10.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:00:03.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3266,7 +3426,7 @@
  "texasadgroup": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T00:13:30.000Z",
   "not_found": 0,
   "private": false
@@ -3282,8 +3442,8 @@
  "texasaed": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T18:19:20.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3298,8 +3458,8 @@
  "texasafa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T15:03:46.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T20:50:33.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3314,7 +3474,7 @@
  "texasakpsi": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3322,8 +3482,8 @@
  "texasalpfa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T22:35:18.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T13:30:20.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3338,7 +3498,7 @@
  "texasama": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3354,8 +3514,8 @@
  "texasapo": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:15:19.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3418,15 +3578,15 @@
  "texasbbsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-29T01:44:21.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:56:41.000Z",
   "not_found": 0,
   "private": false
  },
  "texasbelles": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3466,7 +3626,7 @@
  "texasbmes": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:09:11.000Z",
   "not_found": 0,
   "private": false
@@ -3482,7 +3642,7 @@
  "texasbsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3498,7 +3658,7 @@
  "texascanterbury": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T15:36:27.000Z",
   "not_found": 0,
   "private": false
@@ -3506,7 +3666,7 @@
  "texascapitalcollective": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3538,7 +3698,7 @@
  "texascki": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3562,7 +3722,7 @@
  "texascohap": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:19:39.000Z",
   "not_found": 0,
   "private": false
@@ -3570,15 +3730,15 @@
  "texasconsulting_": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T15:43:10.000Z",
   "not_found": 0,
   "private": false
  },
  "texascounterstrike": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3586,15 +3746,15 @@
  "texascr": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:56:09.000Z",
   "not_found": 0,
   "private": false
  },
  "texascriminallaw": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3658,15 +3818,15 @@
  "texasdnd": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T15:23:08.000Z",
   "not_found": 0,
   "private": false
  },
  "texasdsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T04:49:00.000Z",
   "not_found": 0,
   "private": false
@@ -3674,7 +3834,7 @@
  "texasdsp": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3690,8 +3850,8 @@
  "texaseconomicsassociation": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T19:14:15.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T17:21:55.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3714,7 +3874,7 @@
  "texasequitygroup": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3730,7 +3890,7 @@
  "texasfda": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3738,7 +3898,7 @@
  "texasfederalistsociety": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T13:19:35.000Z",
   "not_found": 0,
   "private": false
@@ -3770,15 +3930,15 @@
  "texasfimrc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T22:22:37.000Z",
   "not_found": 0,
   "private": false
  },
  "texasfinanceteam": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3794,7 +3954,7 @@
  "texasfriendlyfridays": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3810,8 +3970,8 @@
  "texasfynix": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:53:26.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T23:58:50.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3826,7 +3986,7 @@
  "texasgermanclub": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3834,8 +3994,8 @@
  "texasgf_": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T22:20:07.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T22:11:44.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3858,8 +4018,8 @@
  "texasguadaloop": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T00:01:05.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3871,18 +4031,26 @@
   "not_found": 0,
   "private": false
  },
+ "texashabitat": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-27T22:13:27.000Z",
+  "not_found": 0,
+  "private": false
+ },
  "texashacs": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:29:23.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T18:32:34.000Z",
   "not_found": 0,
   "private": false
  },
  "texashba": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3890,15 +4058,15 @@
  "texashbsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:45:59.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T20:24:27.000Z",
   "not_found": 0,
   "private": false
  },
  "texashca": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3906,7 +4074,7 @@
  "texasheal": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3914,23 +4082,31 @@
  "texashealthyhabits": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T13:00:07.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T13:00:06.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "texashelix": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-27T01:24:35.000Z",
   "not_found": 0,
   "private": false
  },
  "texashelpinghand": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:22:48.000Z",
   "not_found": 0,
   "private": false
  },
  "texasherscript": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T02:00:35.000Z",
   "not_found": 0,
   "private": false
@@ -3938,8 +4114,8 @@
  "texashillel": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T19:31:14.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:00:02.000Z",
   "not_found": 0,
   "private": false
  },
@@ -3954,7 +4130,7 @@
  "texashornsforlife": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3962,7 +4138,7 @@
  "texashss": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T14:00:15.000Z",
   "not_found": 0,
   "private": false
@@ -3970,7 +4146,7 @@
  "texasibsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3986,7 +4162,7 @@
  "texasifc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -3994,15 +4170,15 @@
  "texasisa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:11:31.000Z",
   "not_found": 0,
   "private": false
  },
  "texasiusc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4010,7 +4186,7 @@
  "texasja": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:46:55.000Z",
   "not_found": 0,
   "private": false
@@ -4026,7 +4202,7 @@
  "texasjugglingsociety": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4042,8 +4218,8 @@
  "texaskasa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:00:03.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4058,7 +4234,7 @@
  "texaskinclub": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4074,7 +4250,7 @@
  "texaskky": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4090,7 +4266,7 @@
  "texasktp": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4138,7 +4314,7 @@
  "texaslcc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4146,15 +4322,23 @@
  "texaslhpo": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:53:21.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T19:35:06.000Z",
   "not_found": 0,
   "private": false
  },
  "texaslittlehealthheroes": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "texaslmsa": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4170,23 +4354,31 @@
  "texasloveclub": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "texaslphc": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-24T21:51:06.000Z",
   "not_found": 0,
   "private": false
  },
  "texaslppa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-29T02:47:15.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:18:14.000Z",
   "not_found": 0,
   "private": false
  },
  "texasluminescence": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4202,7 +4394,7 @@
  "texasmaes": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4210,7 +4402,7 @@
  "texasmahjongclub": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T03:47:52.000Z",
   "not_found": 0,
   "private": false
@@ -4218,7 +4410,7 @@
  "texasmarinerobotics": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4226,8 +4418,16 @@
  "texasmarketrics": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "texasmedlife": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-27T23:05:07.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4242,23 +4442,23 @@
  "texasmeowmates": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T18:33:12.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:50:27.000Z",
   "not_found": 0,
   "private": false
  },
  "texasmisa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:20:23.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T17:46:19.000Z",
   "not_found": 0,
   "private": false
  },
  "texasmocktrial": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4274,7 +4474,7 @@
  "texasmsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T23:10:10.000Z",
   "not_found": 0,
   "private": false
@@ -4290,7 +4490,7 @@
  "texasmun": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4314,8 +4514,8 @@
  "texasnaba": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-29T00:51:53.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T00:31:08.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4330,23 +4530,23 @@
  "texasnrfsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T02:00:21.000Z",
   "not_found": 0,
   "private": false
  },
  "texasnsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-10-01T00:22:07.000Z",
   "not_found": 0,
   "private": false
  },
  "texasnsbe": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T23:15:27.000Z",
   "not_found": 0,
   "private": false
@@ -4354,7 +4554,7 @@
  "texasnsslha": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T23:58:25.000Z",
   "not_found": 0,
   "private": false
@@ -4362,8 +4562,8 @@
  "texasocf": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:45:06.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T17:11:47.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4394,16 +4594,16 @@
  "texasoxe": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T22:20:44.000Z",
   "not_found": 0,
   "private": false
  },
  "texaspad": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:22:13.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4418,7 +4618,7 @@
  "texaspct": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4426,8 +4626,8 @@
  "texasperfectpair": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T21:16:36.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4474,7 +4674,7 @@
  "texaspoliticalconsulting": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4482,7 +4682,7 @@
  "texasprecaa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:41:08.000Z",
   "not_found": 0,
   "private": false
@@ -4490,23 +4690,23 @@
  "texaspredental": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T14:00:13.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T13:30:06.000Z",
   "not_found": 0,
   "private": false
  },
  "texaspreot": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:12:03.000Z",
   "not_found": 0,
   "private": false
  },
  "texasprepa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4514,7 +4714,7 @@
  "texaspreptsociety": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4530,23 +4730,23 @@
  "texaspublichealth": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T16:01:27.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T22:58:46.000Z",
   "not_found": 0,
   "private": false
  },
  "texaspva": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T21:07:03.000Z",
   "not_found": 0,
   "private": false
  },
  "texasqbsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T13:49:31.000Z",
   "not_found": 0,
   "private": false
@@ -4554,7 +4754,7 @@
  "texasqpp": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4570,15 +4770,15 @@
  "texasrecsports": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:16:20.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:40:09.000Z",
   "not_found": 0,
   "private": false
  },
  "texasrisementorship": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4594,8 +4794,8 @@
  "texasruf": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:39:05.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4618,7 +4818,7 @@
  "texasseek": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T01:34:06.000Z",
   "not_found": 0,
   "private": false
@@ -4650,8 +4850,8 @@
  "texassocialanimeclub": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:57:49.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4666,8 +4866,8 @@
  "texasspacesociety": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T22:32:02.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T18:29:48.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4682,7 +4882,7 @@
  "texasstockteam": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4706,7 +4906,7 @@
  "texassva": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4730,7 +4930,7 @@
  "texastasa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4746,7 +4946,7 @@
  "texastausigma": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4770,15 +4970,23 @@
  "texasthetatau": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "texastisa": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-26T21:01:26.000Z",
   "not_found": 0,
   "private": false
  },
  "texastradinggroup": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4810,7 +5018,7 @@
  "texasubc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4818,7 +5026,7 @@
  "texasucf": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4826,7 +5034,7 @@
  "texasucg": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4834,7 +5042,7 @@
  "texasufa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:11:19.000Z",
   "not_found": 0,
   "private": false
@@ -4842,8 +5050,8 @@
  "texasuka": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T15:42:45.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T04:27:56.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4858,7 +5066,7 @@
  "texasunicef": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:45:56.000Z",
   "not_found": 0,
   "private": false
@@ -4866,7 +5074,7 @@
  "texasunyp": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T22:45:51.000Z",
   "not_found": 0,
   "private": false
@@ -4874,7 +5082,7 @@
  "texasusit": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4890,7 +5098,7 @@
  "texasvoe": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4898,15 +5106,15 @@
  "texasvsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T22:48:18.000Z",
   "not_found": 0,
   "private": false
  },
  "texasw1se": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -4922,15 +5130,15 @@
  "texaswba": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T20:00:05.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:30:20.000Z",
   "not_found": 0,
   "private": false
  },
  "texaswesley": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T20:03:40.000Z",
   "not_found": 0,
   "private": false
@@ -4938,16 +5146,24 @@
  "texaswme": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T21:37:44.000Z",
   "not_found": 0,
   "private": false
  },
  "texaswoe": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "texaswomenineconomics": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-28T16:55:50.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4962,8 +5178,8 @@
  "texaswoofsforwilliam": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:48:04.000Z",
   "not_found": 0,
   "private": false
  },
@@ -4994,7 +5210,7 @@
  "texasyja": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T00:50:38.000Z",
   "not_found": 0,
   "private": false
@@ -5010,7 +5226,7 @@
  "texrisingut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5018,7 +5234,7 @@
  "the.anime.club.ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5042,8 +5258,8 @@
  "the_reason_for_christ": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:34:01.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5074,8 +5290,8 @@
  "theoralcareproject": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:00:03.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5138,8 +5354,8 @@
  "tpusaut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T19:26:35.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5154,7 +5370,7 @@
  "tribetaatut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5162,7 +5378,7 @@
  "tsa_ut.austin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5178,7 +5394,7 @@
  "tspe.austin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T02:59:53.000Z",
   "not_found": 0,
   "private": false
@@ -5194,7 +5410,7 @@
  "tx.ent": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5202,15 +5418,15 @@
  "tx.isss": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T20:30:02.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:59:08.000Z",
   "not_found": 0,
   "private": false
  },
  "tx_bha": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T03:04:25.000Z",
   "not_found": 0,
   "private": false
@@ -5242,7 +5458,7 @@
  "tx_nphc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T21:21:15.000Z",
   "not_found": 0,
   "private": false
@@ -5258,7 +5474,7 @@
  "txaldpes": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5266,7 +5482,7 @@
  "txalphaphisigma": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5282,7 +5498,7 @@
  "txbaxa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5298,8 +5514,8 @@
  "txblockchain": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:37:07.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5314,15 +5530,15 @@
  "txbosso": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-26T17:49:58.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:01:01.000Z",
   "not_found": 0,
   "private": false
  },
  "txchinacare": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5338,16 +5554,16 @@
  "txcomputational": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T18:43:24.000Z",
   "not_found": 0,
   "private": false
  },
  "txconvergent": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:39:20.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5362,7 +5578,7 @@
  "txdemsigma": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5370,15 +5586,15 @@
  "txenergycapital": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T18:32:53.000Z",
   "not_found": 0,
   "private": false
  },
  "txfreshmanlaunch": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5386,15 +5602,15 @@
  "txhosa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:11:44.000Z",
   "not_found": 0,
   "private": false
  },
  "txhprsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T01:37:13.000Z",
   "not_found": 0,
   "private": false
@@ -5402,7 +5618,7 @@
  "tximsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5423,10 +5639,18 @@
   "not_found": 0,
   "private": false
  },
+ "txkapparho": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-27T17:23:02.000Z",
+  "not_found": 0,
+  "private": false
+ },
  "txlaalsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5442,8 +5666,8 @@
  "txlsislo": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T21:43:09.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5474,8 +5698,8 @@
  "txmomentum": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T19:08:18.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5490,7 +5714,7 @@
  "txpals": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T02:11:33.000Z",
   "not_found": 0,
   "private": false
@@ -5498,15 +5722,15 @@
  "txpersians": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:42:50.000Z",
   "not_found": 0,
   "private": false
  },
  "txprelaw": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:20:43.000Z",
   "not_found": 0,
   "private": false
@@ -5514,7 +5738,7 @@
  "txproduct": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5522,7 +5746,7 @@
  "txproductcatalyst": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T01:39:45.000Z",
   "not_found": 0,
   "private": false
@@ -5546,15 +5770,23 @@
  "txrotaract": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-26T18:50:55.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "txroundtable": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
   "not_found": 0,
   "private": false
  },
  "txs_tea": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5562,7 +5794,7 @@
  "txsl.m": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5586,8 +5818,8 @@
  "txtped": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T15:46:17.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:53:26.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5610,7 +5842,7 @@
  "txvibecoding": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5626,15 +5858,15 @@
  "txvotes_cea": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T20:47:25.000Z",
   "not_found": 0,
   "private": false
  },
  "txwids": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T16:55:51.000Z",
   "not_found": 0,
   "private": false
@@ -5663,6 +5895,14 @@
   "not_found": 1,
   "private": false
  },
+ "typetexas.ut": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
  "typetexascdn": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
@@ -5674,8 +5914,8 @@
  "umraustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T15:09:27.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T21:28:36.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5698,8 +5938,8 @@
  "universitydemocrats": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T15:18:24.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T15:55:51.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5714,15 +5954,15 @@
  "universityhousinganddining": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T19:03:51.000Z",
   "not_found": 0,
   "private": false
  },
  "unjadedatx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T00:34:20.000Z",
   "not_found": 0,
   "private": false
@@ -5730,7 +5970,7 @@
  "ut.alcsi": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5738,8 +5978,8 @@
  "ut.asme": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:30:06.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:21:13.000Z",
   "not_found": 0,
   "private": false
  },
@@ -5754,7 +5994,7 @@
  "ut.hsc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5767,10 +6007,18 @@
   "not_found": 2,
   "private": false
  },
+ "ut.sbi": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
  "ut.true": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-26T22:54:58.000Z",
   "not_found": 0,
   "private": false
@@ -5778,15 +6026,23 @@
  "ut_.tes": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T22:03:11.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:07:59.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "ut_actuarial": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
   "not_found": 0,
   "private": false
  },
  "ut_arc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5794,7 +6050,7 @@
  "ut_collective": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5802,7 +6058,7 @@
  "ut_embrace": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T02:45:37.000Z",
   "not_found": 0,
   "private": false
@@ -5810,23 +6066,23 @@
  "ut_eoe": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-28T16:31:57.000Z",
   "not_found": 0,
   "private": false
  },
  "ut_fye": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:23:17.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T18:54:48.000Z",
   "not_found": 0,
   "private": false
  },
  "ut_hispanic_predents": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T18:27:31.000Z",
   "not_found": 0,
   "private": false
@@ -5834,7 +6090,7 @@
  "ut_ica": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T03:46:34.000Z",
   "not_found": 0,
   "private": false
@@ -5842,7 +6098,7 @@
  "ut_ieee_ras": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T01:03:44.000Z",
   "not_found": 0,
   "private": false
@@ -5850,15 +6106,15 @@
  "ut_lawtinanetwork": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-10-01T00:24:37.000Z",
   "not_found": 0,
   "private": false
  },
  "ut_lmbc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T21:19:17.000Z",
   "not_found": 0,
   "private": false
@@ -5866,7 +6122,7 @@
  "ut_phialphatheta": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T20:39:55.000Z",
   "not_found": 0,
   "private": false
@@ -5882,15 +6138,15 @@
  "ut_sg": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T14:39:05.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T15:00:08.000Z",
   "not_found": 0,
   "private": false
  },
  "ut_urha": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-29T01:13:10.000Z",
   "not_found": 0,
   "private": false
@@ -5909,6 +6165,14 @@
   "last_checked": "2026-09-29T02:41:14+00:00",
   "last_post": null,
   "not_found": 1,
+  "private": false
+ },
+ "ut_wpge": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T17:12:03.000Z",
+  "not_found": 0,
   "private": false
  },
  "utalentrecords": {
@@ -5954,7 +6218,7 @@
  "utaustinsaa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5962,7 +6226,7 @@
  "utaustinsfl": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T16:47:19.000Z",
   "not_found": 0,
   "private": false
@@ -5970,15 +6234,15 @@
  "utaustintix": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:14:26.000Z",
   "not_found": 0,
   "private": false
  },
  "utaustintokc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -5994,7 +6258,7 @@
  "utcec": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6018,15 +6282,15 @@
  "utdeanofstudents": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T20:39:00.000Z",
   "not_found": 0,
   "private": false
  },
  "utdos": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6042,7 +6306,7 @@
  "utedcouncil": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6050,8 +6314,8 @@
  "uteverychildproject": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:58:32.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6074,7 +6338,7 @@
  "utexas_nutrition": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6090,8 +6354,8 @@
  "utexascee": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:22:30.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T16:24:05.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6114,7 +6378,7 @@
  "utexasdbf": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6122,7 +6386,7 @@
  "utexasecocar": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6130,16 +6394,24 @@
  "utexasenergy": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "utexasglobal": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T16:02:52.000Z",
   "not_found": 0,
   "private": false
  },
  "utexasias": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T17:00:03.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6170,8 +6442,8 @@
  "utexasrecovery": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T21:11:34.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T17:38:35.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6194,7 +6466,15 @@
  "utexasswc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
+ "utexasswifties": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6218,7 +6498,7 @@
  "utgirlswhocode": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6250,7 +6530,7 @@
  "utirgcouncil": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6266,7 +6546,7 @@
  "utlonghornlegal": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T18:29:52.000Z",
   "not_found": 0,
   "private": false
@@ -6274,8 +6554,8 @@
  "utmindfulmedicine": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-27T00:27:12.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T22:49:34.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6298,15 +6578,15 @@
  "utnsc": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T15:58:18.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T19:31:46.000Z",
   "not_found": 0,
   "private": false
  },
  "utnsp": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6314,7 +6594,7 @@
  "utoccupy": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6330,7 +6610,7 @@
  "utorientation": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6354,7 +6634,7 @@
  "utpolymaths": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:43:49.000Z",
   "not_found": 0,
   "private": false
@@ -6370,7 +6650,7 @@
  "utsangercenter": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-27T17:05:13.000Z",
   "not_found": 0,
   "private": false
@@ -6386,7 +6666,7 @@
  "utsccp": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T12:09:39.000Z",
   "not_found": 0,
   "private": false
@@ -6394,15 +6674,15 @@
  "utsenate": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T14:17:15.000Z",
   "not_found": 0,
   "private": false
  },
  "utsgmentalhealth": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6410,7 +6690,7 @@
  "utshpe": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T15:24:05.000Z",
   "not_found": 0,
   "private": false
@@ -6418,7 +6698,7 @@
  "utsmile": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6434,7 +6714,7 @@
  "utspeakeasy": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6442,8 +6722,8 @@
  "utunions": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T17:32:30.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-10-01T00:10:18.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6458,15 +6738,15 @@
  "utxfat": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T00:35:29.000Z",
   "not_found": 0,
   "private": false
  },
  "utxmsa": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6479,10 +6759,18 @@
   "not_found": 2,
   "private": false
  },
+ "uxpa_student_chapter": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
+  "not_found": 0,
+  "private": false
+ },
  "vamostennis_tx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6490,7 +6778,7 @@
  "vcl.utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6498,7 +6786,7 @@
  "venezuelansatutaustin": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-26T16:00:41.000Z",
   "not_found": 0,
   "private": false
@@ -6506,7 +6794,7 @@
  "verdatronics": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6514,7 +6802,7 @@
  "vfs_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6522,7 +6810,7 @@
  "vppaatut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6538,8 +6826,8 @@
  "wcae.utexas": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T14:00:04.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6554,15 +6842,15 @@
  "welcome_acccf": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": null,
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T01:28:57.000Z",
   "not_found": 0,
   "private": false
  },
  "wiald_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": null,
   "not_found": 0,
   "private": false
@@ -6570,8 +6858,8 @@
  "wim_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T02:41:14+00:00",
-  "last_post": "2026-09-27T23:05:07.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-30T13:00:02.000Z",
   "not_found": 0,
   "private": false
  },
@@ -6586,7 +6874,7 @@
  "wlc_ut": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
   "last_post": "2026-09-28T17:28:34.000Z",
   "not_found": 0,
   "private": false
@@ -6594,8 +6882,16 @@
  "wmso.tx": {
   "business": null,
   "first_checked": "2026-09-29T02:41:14+00:00",
-  "last_checked": "2026-09-29T05:33:51+00:00",
-  "last_post": "2026-09-28T13:01:09.000Z",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": "2026-09-29T19:13:54.000Z",
+  "not_found": 0,
+  "private": false
+ },
+ "womenctx": {
+  "business": null,
+  "first_checked": "2026-10-01T00:25:29+00:00",
+  "last_checked": "2026-10-01T00:25:29+00:00",
+  "last_post": null,
   "not_found": 0,
   "private": false
  },
